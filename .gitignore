@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Env and secrets
+.env
+.env.local
+.env.*.local
+*.pem
+
+# Build and cache
+dist/
+build/
+.next/
+out/
+.cache/
+*.tsbuildinfo
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+*.log
+
+# Contract artifacts (keep in repo or ignore per team choice)
+# contracts/artifacts/
+# contracts/cache/
+
+# Data layer local storage (optional; ignore large DBs/dumps)
+# data/storage/db/
+# data/storage/cache/
