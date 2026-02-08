@@ -4,17 +4,8 @@
 
 A DeFi system that ingests open-source geospatial and social data, computes a deterministic activity index off-chain, attests it via **Flare Data Connector (FDC)**, and executes parametric insurance payouts and yield adjustments on-chain. Includes a map-based frontend for POIs (London pubs), activity levels, and wallet flows on **Flare Coston2** testnet.
 
-*For judges: see [Quick start](#quick-start-judge-friendly) below. Our feedback on using Flare protocols is in [Flare protocols — feedback and review](#flare-protocols--feedback-and-review).*
+*For judges: Our feedback on using Flare protocols is in [Flare protocols — feedback and review](#flare-protocols--feedback-and-review).*
 
----
-
-## Quick start (judge-friendly)
-
-1. **Data** — From `data/`: `node jobs/run.js --fetch` (or `node jobs/run.js` to merge only). Output: `storage/pubs_merged.json`.
-2. **Contracts** — From `contracts/`: set `PRIVATE_KEY` in `.env`, then run deploy to Coston2 (see `contracts/README.md`). Copy the logged addresses into `frontend/.env.local` (see `frontend/.env.local.example`).
-3. **Frontend** — From `frontend/`: `npm install && npm run dev`. Open http://localhost:3000, connect wallet (Flare Coston2, Chain ID 114), then use **My Wallet**, **Pub Wallet**, and **Activity & Risk** to invest, register pubs, and settle payouts.
-
-**Demo path:** Run data pipeline → deploy contracts to Coston2 → run frontend → connect wallet on Coston2 → invest in a pub → trigger payout in Activity & Risk and settle on-chain.
 
 ---
 
