@@ -1,0 +1,12 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+# Allow scripts to read the DA proof JSON in this project
+fs_permissions = [
+  { access = "read", path = "da_proof.json" },
+  { access = "read", path = "." }
+]
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
