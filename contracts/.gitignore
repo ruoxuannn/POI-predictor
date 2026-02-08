@@ -12,3 +12,30 @@ docs/
 
 # Dotenv file
 .env
+# Secrets / local env
+.env
+da_proof.json
+
+# Foundry artifacts
+broadcast/
+out/
+cache/
+
+# OS junk
+.DS_Store
+
+# accidental files
+--rpc-url
+--private-key
+--legacy
+-vvvv
+# Foundry artifacts
+broadcast/
+out/
+cache/
+
+# Accidental files
+--broadcast
+-vvvv
+--rpc-url
+--private-key

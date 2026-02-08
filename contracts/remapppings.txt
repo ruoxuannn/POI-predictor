@@ -1,2 +1,0 @@
-forge-std/=lib/forge-std/src/
-@flarenetwork/flare-periphery-contracts/=lib/flare-foundry-periphery-package/src/
