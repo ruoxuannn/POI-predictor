@@ -12,6 +12,13 @@ env/
 .env.*.local
 *.pem
 
+# Accidental CLI-arg files (e.g. from forge script)
+--rpc-url
+--private-key
+--legacy
+--broadcast
+-vvvv
+
 # Build and cache
 dist/
 build/

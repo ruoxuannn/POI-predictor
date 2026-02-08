@@ -1,10 +1,12 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useReadContract, useAccount, useConnect } from 'wagmi';
+import { useReadContract, useAccount, useConnect, useChainId, useSwitchChain, useWriteContract } from 'wagmi';
+import { useQueryClient } from '@tanstack/react-query';
 import { addresses, hasContracts, poolAbi, registryAbi, pubIdFromOsmId } from '../../lib/contracts';
 import { useFlrPrice, formatInCurrency, formatStableInCurrency } from '../../lib/useFlrPrice';
 import { useBalance } from 'wagmi';
+import { coston2 } from '../../lib/chains';
 
 const CARD_STYLE = {
   background: '#18181b',
@@ -14,12 +16,21 @@ const CARD_STYLE = {
 };
 
 export default function PubWalletPage() {
-  const { isConnected } = useAccount();
+  const { address, isConnected } = useAccount();
+  const chainId = useChainId();
+  const { switchChainAsync } = useSwitchChain();
   const { connect, connectors, isPending: isConnectPending, error: connectError } = useConnect();
   const { priceWei } = useFlrPrice();
   const [currency, setCurrency] = useState('FLR');
   const [pubs, setPubs] = useState([]);
   const [selectedOsmId, setSelectedOsmId] = useState('');
+  const [payoutWallet, setPayoutWallet] = useState('');
+  const queryClient = useQueryClient();
+  const { writeContractAsync: registerPubAsync, isPending: isRegisterPending } = useWriteContract();
+
+  useEffect(() => {
+    if (address) setPayoutWallet((prev) => prev || address);
+  }, [address]);
 
   useEffect(() => {
     fetch('/api/pubs?all=1')
@@ -170,7 +181,55 @@ export default function PubWalletPage() {
         <>
           {pubRecord && !pubExists && (
             <div style={{ ...CARD_STYLE, marginBottom: '1.5rem', borderColor: '#eab308', color: '#fde047' }}>
-              <p style={{ margin: 0, fontSize: '0.9rem' }}>This pub is not registered on-chain. Register via contract to receive payouts.</p>
+              <p style={{ margin: 0, fontSize: '0.9rem', marginBottom: '0.75rem' }}>This pub is not registered on-chain. Register it so the pub can receive payouts.</p>
+              <p style={{ margin: 0, fontSize: '0.8rem', color: '#e4e4e7', marginBottom: '0.75rem' }}>Payout wallet (address that will receive FLR/stable when a claim settles):</p>
+              <input
+                type="text"
+                value={payoutWallet}
+                onChange={(e) => setPayoutWallet(e.target.value)}
+                placeholder="0x..."
+                style={{
+                  width: '100%',
+                  maxWidth: 420,
+                  padding: '0.5rem',
+                  marginBottom: '0.5rem',
+                  background: '#27272a',
+                  border: '1px solid #3f3f46',
+                  borderRadius: 8,
+                  color: '#e4e4e7',
+                  fontSize: '0.85rem',
+                }}
+              />
+              <button
+                type="button"
+                disabled={!payoutWallet?.startsWith('0x') || payoutWallet.length < 40 || isRegisterPending}
+                onClick={async () => {
+                  if (!addresses.registry || !pubId || !payoutWallet?.startsWith('0x')) return;
+                  try {
+                    if (chainId !== coston2.id) await switchChainAsync({ chainId: coston2.id });
+                    await registerPubAsync({
+                      address: addresses.registry,
+                      abi: registryAbi,
+                      functionName: 'registerPub',
+                      args: [pubId, payoutWallet],
+                    });
+                    await queryClient.invalidateQueries();
+                  } catch (e) {
+                    console.error(e);
+                  }
+                }}
+                style={{
+                  padding: '0.5rem 1rem',
+                  fontSize: '0.9rem',
+                  background: '#eab308',
+                  color: '#1c1917',
+                  border: 'none',
+                  borderRadius: 8,
+                  cursor: !payoutWallet?.startsWith('0x') || payoutWallet.length < 40 || isRegisterPending ? 'not-allowed' : 'pointer',
+                }}
+              >
+                {isRegisterPending ? 'Registering…' : 'Register this pub on-chain'}
+              </button>
             </div>
           )}
 

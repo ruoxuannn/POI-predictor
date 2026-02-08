@@ -1,112 +1,73 @@
 # POI Activity Index — DeFi on Flare
 
-**ETH Oxford Hackathon · Flare-native DeFi with real-world activity attestations**
+**Hackathon submission · Flare-native DeFi with real-world activity attestations**
 
-DeFi system that ingests open-source geospatial and social data, computes a deterministic activity index off-chain, attests via Flare Data Connector, and executes insurance payouts and yield adjustments on-chain. Map-based frontend for POIs, activity levels, and financial outputs.
+A DeFi system that ingests open-source geospatial and social data, computes a deterministic activity index off-chain, attests it via **Flare Data Connector (FDC)**, and executes parametric insurance payouts and yield adjustments on-chain. Includes a map-based frontend for POIs (London pubs), activity levels, and wallet flows on **Flare Coston2** testnet.
 
----
-
-## Repository tree
-
-```
-.
-├── README.md                 # This file — overview, quick start, ownership
-├── .env.example              # Placeholder env; each subfolder has its own
-├── .gitignore
-│
-├── data/                     # Person A — Data & Geospatial (London pubs demo)
-│   ├── README.md
-│   ├── .env.example
-│   ├── schemas/              # Shared schemas, pub_merged example, demo_overrides, FDC fields
-│   ├── pois_osm/             # Primary POIs (OSM)
-│   ├── category/             # Category expansion (TripAdvisor, BeerInTheEvening)
-│   ├── ratings/              # Avg rating (BeerInTheEvening, TripAdvisor)
-│   ├── price_range/          # £–£££
-│   ├── floor_area/           # OSM / Mapbox
-│   ├── opening_hours/        # OSM + TripAdvisor
-│   ├── employees/            # Companies House
-│   ├── revenue_proxy/        # Derived (employees + activity + price)
-│   ├── social_mentions/      # Reddit
-│   ├── events/               # Football, Wimbledon (event_multiplier)
-│   ├── activity-index/       # Deterministic activity index
-│   ├── storage/              # JSON, CSV, optional SQLite
-│   ├── jobs/                 # Run ingestion + merge
-│   └── ingestion/            # Legacy; see per-type folders for London pubs
-│
-├── contracts/                # Person B — Flare & Smart Contracts
-│   ├── README.md
-│   ├── .env.example
-│   ├── src/                  # Solidity: payouts, yield, FDC consumers
-│   ├── scripts/              # Deployment and verification
-│   └── fdc/                  # Flare Data Connector config and integration
-│
-└── frontend/                 # Person C — Finance Logic & Frontend
-    ├── README.md
-    ├── .env.example
-    ├── lib/                  # Yield & insurance math (off-chain)
-    ├── src/
-    │   ├── app/              # Next.js App Router pages
-    │   └── components/       # Map, POI, wallet, dashboards
-    └── public/               # Static assets
-```
-
----
-
-## Constraints
-
-- **No Google APIs** — OpenStreetMap, Mapbox, Reddit, event APIs only
-- **Deterministic, explainable** — No black-box ML; aggregation rules are transparent
-- **Flare-native** — FDC (Web2 plugin) + Solidity
-- **Hackathon-ready** — Clear demo path and READMEs
-
----
-
-## Repo structure (team ownership)
-
-| Folder       | Owner  | Responsibility                                      |
-|-------------|--------|------------------------------------------------------|
-| `data/`     | Person A | Ingestion (OSM, Reddit, events), activity index, storage, cron |
-| `contracts/`| Person B | FDC integration, Solidity, payouts, yield, deployment |
-| `frontend/` | Person C | Yield/insurance math, map UI, wallet, demo UX       |
-
----
-
-## Data flow (high level)
-
-1. **Data layer** (`data/`) pulls OSM, Mapbox, Reddit, event APIs → stores locally → cron runs **activity index** (deterministic aggregation).
-2. **Activity index output** (e.g. per-POI scores) is sent to **Flare Data Connector** (FDC) as verified attestations.
-3. **Contracts** (`contracts/`) consume FDC data on-chain and run **payout** and **yield** logic.
-4. **Frontend** (`frontend/`) reads chain state + optional off-chain APIs, runs **finance math** for display/simulations, and shows **map**, dashboards, and **wallet** flows.
-
----
-
-## Ownership boundaries & communication
-
-- **Person A** owns all ingestion and index code; exposes **activity index results** (files/DB or API) for FDC and optionally for frontend.
-- **Person B** owns FDC config, Solidity, and deployment; depends on **agreed schema** of attestations from the data layer.
-- **Person C** owns frontend and off-chain finance logic; reads **chain state** and any **public index/API** the team agrees on; no direct dependency on data-layer internals.
-
-Interfaces between components: **attestation schema** (data → FDC → contracts) and **contract ABIs + addresses** (contracts → frontend). Keep these documented in each folder’s README and in `contracts/` for the schema.
+*For judges: see [Quick start](#quick-start-judge-friendly) below. Our feedback on using Flare protocols is in [Flare protocols — feedback and review](#flare-protocols--feedback-and-review).*
 
 ---
 
 ## Quick start (judge-friendly)
 
-1. **Data:** `cd data && cat README.md` — run ingestion, then activity-index job (see `data/README.md`).
-2. **Contracts:** `cd contracts && cat README.md` — deploy to Flare testnet, point FDC at data-layer output (see `contracts/README.md`).
-3. **Frontend:** `cd frontend && cat README.md` — install, set env, run dev server; open map and connect wallet (see `frontend/README.md`).
+1. **Data** — From `data/`: `node jobs/run.js --fetch` (or `node jobs/run.js` to merge only). Output: `storage/pubs_merged.json`.
+2. **Contracts** — From `contracts/`: set `PRIVATE_KEY` in `.env`, then run deploy to Coston2 (see `contracts/README.md`). Copy the logged addresses into `frontend/.env.local` (see `frontend/.env.local.example`).
+3. **Frontend** — From `frontend/`: `npm install && npm run dev`. Open http://localhost:3000, connect wallet (Flare Coston2, Chain ID 114), then use **My Wallet**, **Pub Wallet**, and **Activity & Risk** to invest, register pubs, and settle payouts.
 
-Demo path: run data pipeline → deploy contracts + FDC → open frontend → connect wallet → view POIs, activity, and payouts/yield on map.
+**Demo path:** Run data pipeline → deploy contracts to Coston2 → run frontend → connect wallet on Coston2 → invest in a pub → trigger payout in Activity & Risk and settle on-chain.
+
+---
+
+## Repository structure
+
+```
+.
+├── README.md
+├── .gitignore
+├── data/                     # Data & geospatial (London pubs)
+├── contracts/                # Flare & smart contracts (Foundry)
+└── frontend/                 # Next.js + wagmi (Flare Coston2)
+```
+
+See each folder’s README for details.
+
+---
+
+## Constraints
+
+- **No Google APIs** — OpenStreetMap, Mapbox, Reddit, event APIs only (optional keys).
+- **Deterministic, explainable** — No black-box ML; activity index and yield rules are transparent.
+- **Flare-native** — FDC for attested Web2 data; Solidity on Flare Coston2; FLR/C2FLR for fees.
+
+---
+
+## Data flow
+
+1. **Data** (`data/`) — Fetches OSM, floor area, employees, ratings, events → merge → activity index (revenue proxy).
+2. **FDC** — Activity/index outputs can be attested via Flare Data Connector; contracts consume proofs on-chain.
+3. **Contracts** (`contracts/`) — Pool, PubRegistry, SettlementEngine, FTSO oracle.
+4. **Frontend** (`frontend/`) — Chain state (wagmi/viem), My Wallet, Pub Wallet, Activity & Risk, settle on-chain.
+
+---
+
+## Flare protocols — feedback and review
+
+> Flare ended up being a really good fit for this project because we needed a clean way to bring real-world data on-chain without just trusting a single server or oracle. Using **Flare Data Connector (FDC)**, we could take live Web2 JSON data about POI activity and settlement parameters, get it attested, and then verify the proof directly in our smart contracts before triggering payouts.
+>
+> The hardest part was getting used to the full FDC flow end-to-end — preparing the request, submitting the attestation, waiting for the voting round, fetching the DA proof, and then wiring everything into our Solidity contracts. Debugging across off-chain scripts and on-chain logic took some time, especially when something went wrong in the middle of the pipeline.
+>
+> Once it was set up though, we had a clear mental model of where the data came from, how it was verified by the network, and how it ended up triggering real financial logic on-chain. That made Flare feel genuinely useful for building DeFi applications that depend on real-world signals like activity levels, usage, or external events, instead of just on-chain data.
 
 ---
 
 ## Local setup
 
-- Copy `.env.example` to `.env` in root and in each of `data/`, `contracts/`, `frontend/` as needed; fill placeholders (no secrets in repo).
-- Each area can be developed in isolation; see per-folder READMEs for dependencies and commands.
+- **data/** — Copy `data/.env.example` to `data/.env` if using APIs that need keys.
+- **contracts/** — Copy `contracts/.env.example` to `contracts/.env`, set `PRIVATE_KEY`. Use Flare Coston2 RPC.
+- **frontend/** — Copy `frontend/.env.local.example` to `frontend/.env.local` and paste the five contract addresses after deploying. Get C2FLR from the [Flare Coston2 Faucet](https://faucet.flare.network/coston2).
 
 ---
 
 ## License
 
-MIT (or your chosen license).
+MIT.
