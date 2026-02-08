@@ -162,11 +162,13 @@ contract SettlementEngine {
             require(stableBal >= payoutStable, "pool underfunded");
             emit FallbackUsed(pubId, dateKey, address(0), address(stableToken));
             pool.payOutStable(pubWallet, payoutStable);
+            pool.recordPayoutFromPubPool(pubId, payoutStable);
             emit PaidOut(pubId, dateKey, address(stableToken), payoutStable);
             return;
         } else {
             if (stableBal >= payoutStable) {
                 pool.payOutStable(pubWallet, payoutStable);
+                pool.recordPayoutFromPubPool(pubId, payoutStable);
                 emit PaidOut(pubId, dateKey, address(stableToken), payoutStable);
                 return;
             }

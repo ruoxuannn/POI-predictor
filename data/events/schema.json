@@ -1,0 +1,9 @@
+{
+  "merge_output": { "osm_id": "number", "event_multiplier": "number" },
+  "fetch_output": {
+    "match_dates": "string[]",
+    "matches_per_date": "object",
+    "multiplier_by_date": "object",
+    "event_multiplier_match_day": "number"
+  }
+}

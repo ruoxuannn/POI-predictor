@@ -1,0 +1,25 @@
+{
+  "osm_id": 12345,
+  "name": "The King's Head",
+  "coordinates": { "lat": 51.507, "lng": -0.128 },
+  "address": "1 Example Street, London, SW1A 1AA",
+  "category": "pub",
+  "category_detail": "craft beer",
+  "opening_hours": "Mo-Sa 12:00-23:00; Su 12:00-22:00",
+  "floor_area_m2": 120,
+  "employees": 8,
+  "avg_rating": 4.2,
+  "rating_source_count": 42,
+  "price_range": "££",
+  "activity_index": 0.73,
+  "event_multiplier": 1.2,
+  "revenue_proxy": 5000,
+  "social_mentions_count": 15,
+  "demo_overrides": {
+    "activity_index": [0.5, 1.0],
+    "event_multiplier": [0, 2],
+    "avg_rating": [3.5, 4.5],
+    "price_range": ["£", "££", "£££"],
+    "social_mentions_count": [0, 50]
+  }
+}

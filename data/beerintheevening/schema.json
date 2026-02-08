@@ -1,0 +1,4 @@
+{
+  "ratings": { "osm_id": "number", "avg_rating": "number", "rating_source_count": "number" },
+  "reviews": { "osm_id": "number", "reviews": [{ "text": "string" }] }
+}

@@ -1,0 +1,9 @@
+{
+  "osm_id": "number",
+  "name": "string",
+  "coordinates": { "lat": "number", "lng": "number" },
+  "address": "string",
+  "category": "string",
+  "opening_hours": "string",
+  "floor_area_m2": "number | null"
+}

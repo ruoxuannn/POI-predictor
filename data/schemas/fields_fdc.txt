@@ -1,0 +1,8 @@
+# Numeric fields sent on-chain via Flare Data Connector (FDC).
+# All other fields (name, address, category, opening_hours, etc.) remain off-chain.
+
+activity_index
+revenue_proxy
+employees
+floor_area_m2
+event_multiplier

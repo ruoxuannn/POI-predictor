@@ -1,0 +1,8 @@
+{
+  "description": "Allowed ranges and options for demo scenario sliders/toggles. No live data; manual overrides only.",
+  "activity_index": { "min": 0.5, "max": 1.0, "default": 0.73, "step": 0.01 },
+  "event_multiplier": { "min": 0, "max": 2, "default": 1.0, "step": 0.1 },
+  "avg_rating": { "min": 3.5, "max": 4.5, "default": 4.2, "step": 0.1 },
+  "price_range": { "options": ["£", "££", "£££"], "default": "££" },
+  "social_mentions_count": { "min": 0, "max": 50, "default": null, "step": 1 }
+}

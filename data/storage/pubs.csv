@@ -1,0 +1,1265 @@
+osm_id,name,address,lat,lng,category,opening_hours,floor_area_m2,employees,avg_rating,rating_source_count,price_range,popularity,total_tips,event_multiplier,revenue_proxy,insurable
+451154,The Catcher in the Rye,319 Regents Park Road,51.5995788,-0.196028,pub,Mo-Su 08:30-23:00,,5,,,£,,,1.2,3000,true
+451271,The Tally Ho,"749 High Road, London, N12 0BP",51.6141038,-0.1765556,pub,,,10,2.45,42,£,,,1.2,4410,false
+12242503,Railway Bell,,51.5920158,0.0279621,pub,,,5,,,£,,,1.2,3000,false
+13353276,The Harrow,,51.4097991,-0.4440569,pub,,,30,,,£,,,1.2,10500,false
+20821133,The Union Bar,,51.5004234,-0.1777428,pub,"""by appointment""",,15,,,£,,,1.2,6000,true
+20973316,The Waterside,"The Boulevard, London, SW6 2SU",51.4727261,-0.1811598,pub,,,25,2.6,10,£,,,1.2,9360,false
+21593232,The Last Judgement,"95 Chancery Lane, London, WC2A 1DT",51.5153316,-0.1117428,pub,,,10,3.25,80,£,,,1.2,5850,false
+21593236,Ship Tavern,"12 Gate Street, London, WC2A 3HP",51.5172349,-0.1192033,pub,Mo-Sa 12:00-22:30,1400,5,3.45,141,£,,,1.2,7038,false
+21980919,The Manor Inn,,51.3886519,-0.4228087,pub,,85,15,,,£,,,1.2,6255,false
+25475187,The Cheshire Cheese,"48 Crutched Friars, London, EC3N 2AP",51.5114165,-0.0776978,pub,Mo-Fr 11:00-23:00; Sa 12:00-22:00; Su 12:00-20:00,,10,2.65,46,£,,,1.2,4770,true
+25475914,The Swan,,51.5210917,-0.1228519,pub,Mo-Su 12:00-22:00,97,5,,,£,,,1.2,3146,true
+25496840,26 Furnival Street,"26 Furnival Street, London, EC4A 1JS",51.5167141,-0.1103638,pub,,,20,3.55,82,£,,,1.2,10650,false
+25510381,Crown & Cushion,"133-135 Westminster Bridge Road, London, SE1 7HR",51.4994616,-0.1139642,pub,Mo-Sa 11:00-23:00; Su 11:00-22:30,171,5,3.25,45,£,,,1.2,4233,true
+25523569,Shortlands Tavern,"Station Road, Bromley, BR2 0EY",51.4053384,0.0034181,pub,12:00-23:00,130,5,2.8,12,£,,,1.2,3578,true
+25524219,The Railway,,51.3803526,-0.0133037,pub,,,5,,,£,,,1.2,3000,false
+25597628,The Angelic,"57 Liverpool Road, London, N1 0RJ",51.5347892,-0.1072883,pub,,,5,3.1,60,£,,,1.2,3720,false
+25717653,The Old Ale Emporium,"405 Green Lanes, London, N4 1EU",51.5780132,-0.0990941,pub,Mo-Th 11:00-00:00; Fr-Sa 11:00-01:00; Su 12:00-23:00,,5,2.95,49,£,,,1.2,3540,true
+25717655,The Beaconsfield,"359 Green Lanes, London, N4 1DZ",51.5763654,-0.0987786,pub,,,5,2.6,25,£,,,1.2,3120,false
+25729218,The Brockley Jack,"408-410 Brockley Road, London, SE4 2DH",51.4534062,-0.038511,pub,,469,20,2.65,28,£,,,1.2,9814,false
+25744507,Aces and Eights Saloon Bar,"156-158 Fortess Road, London, NW5 2HP",51.5566538,-0.1383959,pub,Mo-Sa 06:00-18:00; Su 08:00-18:00,,15,3.1,13,£,,,1.2,7440,true
+25746185,The Cheshire Cheese,"London, WC2R 3LD",51.5123895,-0.1131849,pub,,,10,2.1,20,£,,,1.2,3780,false
+25894993,The Corner Flag,"472 Hornsey Road, London",51.5672223,-0.1219758,pub,,,5,,,£,,,1.2,3000,false
+26040005,The Limping Fox,"15 Rushett Road, Thames Ditton, KT7 0UX",51.3860498,-0.3238196,pub,,,10,,,£,,,1.2,4500,false
+26065903,The BlackStock,"284 Seven Sisters Road, London, N4 2HY",51.5645126,-0.104466,pub,"Mo-Th 14:00-24:00; Fr 14:00-24:00; Sa 00:00-02:00,11:00-24:00; Su 00:00-02:00,11:00-24:00",,5,,,£,,,1.2,3000,true
+26108616,Kingswood Arms,"Waterhouse Lane, Tadworth, KT20 6EB",51.2949328,-0.2125085,pub,,,15,,,£,,,1.2,6000,false
+26197017,The White Lion of Mortimer,"125-127 Stroud Green Road, London",51.5693773,-0.1126397,pub,,384,10,2.2,34,£,,,1.2,4720,false
+26363049,The Gate,,51.6419852,-0.2424157,pub,,,5,,,£,,,1.2,3000,false
+26422089,The Mint,"Park Road, Banstead, SM7 3DS",51.3176651,-0.1901579,pub,Mo-Fr 12:00-23:00; Sa 09:00-23:00; Su 09:00-22:00,,10,2.95,13,£,,,1.2,5310,true
+26603473,The Loft,"33 Villier Street, Uxbridge, UB8 2PU",51.5362244,-0.4769664,pub,Mo-Fr 15:00-23:00; Sa-Su 12:00-23:00,,10,,,£,,,1.2,4500,true
+26603929,The Crown,"High Street, Uxbridge, UB8 2NL",51.5310186,-0.4820512,pub,Mo-Su 12:00-22:00,235,5,3,51,£,,,1.2,4023,true
+26610587,The Good Mixer,"30 Inverness Street, London, NW1 7HB",51.5394566,-0.1446078,pub,,,15,2.6,76,£,,,1.2,6240,false
+26610590,The Oxford Arms,"265 Camden High Street, London, NW1 7BU",51.5405479,-0.1443341,pub,Fr-Sa 12:00-02:00; Su-Th 12:00-01:00,,5,2.9,70,£,,,1.2,3480,true
+26699558,The Flying Horse,,51.5165109,-0.1307587,pub,Mo-Sa 11:00-23:00; Su 12:00-22:30,102,25,,,£,,,1.2,9459,true
+26979398,Queen's Head,"54 Windsor Street, Uxbridge, UB8 1AB",51.5459392,-0.4799811,pub,Mo-Fr 09:00-18:00;Sa 11:00-15:00,182,10,,,£,,,1.2,4910,true
+26979400,The Fig Tree,"49 Windsor Street, Uxbridge, UB8 1AB",51.5455668,-0.4802997,pub,Mo-Th 11:00-23:00; Fr-Sa 11:00-01:00; Su 12:00-23:00,,15,,,£,,,1.2,6000,true
+26979401,Whelans,,51.5476493,-0.4806061,pub,,239,20,,,£,,,1.2,8396,false
+26979403,The Three Tuns,,51.5456282,-0.4788813,pub,,198,10,,,£,,,1.2,4946,false
+26980235,The Wonder,,51.6630788,-0.0854123,pub,"Mo-Th 11:00-23:00; Su 12:00-23:00; Fr,Sa 11:00-24:00",,10,,,£,,,1.2,4500,true
+26982478,The Pied Bull,EN2 9HE,51.6781721,-0.0593586,pub,,256,15,,,£,,,1.2,6768,false
+26982535,The King and Tinker,,51.6813611,-0.0770974,pub,,,10,,,£,,,1.2,4500,false
+26992533,General Napier,"73 Bovill Road, London, SE23 1EX",51.4455382,-0.044651,pub,,,20,,,£,,,1.2,7500,false
+26992933,The Honor Oak,"1 St Germans Road, London, SE23 1RH",51.4432329,-0.0422998,pub,Su-Th 12:00-23:00; Fr-Sa 12:00-25:00,278,5,3.25,25,£,,,1.2,4442,true
+27017235,Sir John Balcombe,"21 Balcombe Street, London",51.5234117,-0.1618602,pub,,,,2.9,51,£,,,1.2,1740,false
+27245287,The Shaftesbury Arms,"121-123 Kew Road, Richmond, TW9 2PN",51.465564,-0.299238,pub,"Tu 10:00-20:00; We 10:00-22:00; Th 10:00-23:00; Fr 10:00-01:00, Sa 12:00-01:00, Su 12:00-20:00",,,,,£,,,1.2,1500,true
+27349206,Cricketers Arms,,51.656505,-0.0874147,pub,,,10,,,£,,,1.2,4500,false
+27364392,No.8 Seven Sisters,,51.5783635,-0.0819029,pub,,,5,,,£,,,1.2,3000,false
+27408323,The Drapers Arms,"24-25 High Street, London, W5 5DB",51.5116826,-0.3051555,pub,Mo off; Tu-Sa 10:00-17:00; Su 12:00-16:00,,10,2.05,27,£,,,1.2,3690,true
+27411557,North Nineteen,,51.5646374,-0.1217505,pub,"Mo-Th 16:00-12:00, Fr 16:00-01:00",201,15,,,£,,,1.2,6603,true
+27418915,The Ship,,51.4986033,0.2564934,pub,,181,15,,,£,,,1.2,6543,false
+27475739,The Grove,,51.5102956,-0.3052313,pub,,,15,,,£,,,1.2,6000,false
+27475983,The Red Lion,,51.5080196,-0.3050181,pub,Mo-Fr 08:00-16:00; Sa-Su 09:00-17:00,,5,,,£,,,1.2,3000,true
+27476034,The Castle Inn,"36 St Marys Road, London, W5 5EU",51.5061889,-0.3053344,pub,,,15,3.3,54,£,,,1.2,7920,false
+27476983,The Shanakee,,51.5148399,-0.302661,pub,"Mo-Tu 07:00-00:00, We 07:00-01:00, Th 07:00-02:00, Fr 07:00-03:00, Sa 08:00-03:00, Su 09:00-01:00",,10,,,£,,,1.2,4500,true
+27476990,The North Star,,51.5138717,-0.3018562,pub,,,15,,,£,,,1.2,6000,false
+27477159,The Haven Arms,"33 Haven Lane, London, W5 2HZ",51.5168303,-0.3000951,pub,,,5,3.5,49,£,,,1.2,4200,false
+27512718,Lots Road,"114 Lots Road, London, SW10 0RJ",51.4776729,-0.1833426,pub,Mo-Sa 12:00-23:00; Su 12:00-22:00,172,25,2.95,14,£,,,1.2,11533,true
+29039088,The Queen's Larder,"London, WC1N 3AR",51.5212273,-0.1225308,pub,Mo-Su 12:00-22:00,49,5,3.35,82,£,,,1.2,4118,true
+30483366,The Park Tavern,"19 New Road, Kingston upon Thames, KT2 6AP",51.4195033,-0.2875532,pub,,,10,,,£,,,1.2,4500,false
+30512931,The Cardinal,"174 Tudor Drive, Kingston upon Thames, KT2 5QG",51.4265543,-0.2982274,pub,"Tu-Th 17:30-10:30, Fr 12:30-23:30, Sa 12:30-11:30, Su 12:30-21:00",,5,,,£,,,1.2,3000,true
+30592674,Prince Albert,"11 Pembridge Road, London",51.5095361,-0.1975022,pub,,,30,,,£,,,1.2,10500,false
+30669338,The Rose of York,"Petersham Road, Richmond, TW10 6UY",51.4505854,-0.3002861,pub,,,5,,,£,,,1.2,3000,false
+30793153,Tommy Flynns,"504 Holloway Road, London, N7 6JA",51.5589274,-0.1206516,pub,,,10,2.15,18,£,,,1.2,3870,false
+31247045,The Shawl,"320 Northolt Road, Harrow, HA2 8EE",51.5628777,-0.3560203,pub,,,5,,,£,,,1.2,3000,false
+31247069,Salt Bar,"1 Roxeth Hill, Harrow, HA2 0JY",51.5694406,-0.3464574,pub,,,5,,,£,,,1.2,3000,false
+31275782,The Lord Palmerston,,51.3689042,-0.1619811,pub,,,15,,,£,,,1.2,6000,false
+31322806,The Turks Head,,51.4099036,-0.4888313,pub,,,35,,,£,,,1.2,12000,false
+31472797,The Swan,"789 Harrow Road, Wembley, HA0 2LP",51.5556251,-0.316774,pub,,,5,,,£,,,1.2,3000,false
+32654858,Ye Olde Swan,"Summer Road, Thames Ditton, KT7 0QQ",51.3929194,-0.3317479,pub,,,,,,£,,,1.2,1500,false
+33077538,Duke of Cambridge,,51.4714994,-0.3552674,pub,,,45,,,£,,,1.2,15000,false
+33077565,Duke of York,,51.4675133,-0.3866606,pub,,,10,,,£,,,1.2,4500,false
+33101954,Turnpike House,,51.5749285,-0.0719505,pub,,,10,,,£,,,1.2,4500,false
+33116988,The Black Horse,,51.4778706,-0.3628656,pub,,,5,,,£,,,1.2,3000,false
+33497682,Lord Nelson,"32 Lower Road, Sutton, SM1 4QP",51.3654748,-0.184308,pub,,,5,,,£,,,1.2,3000,false
+33583650,The Sun,"4 North Street, SM5 2HU",51.367124,-0.1641978,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-22:30,,10,,,£,,,1.2,4500,true
+33665778,Rose & Crown,"Wallington, SM6 7HX",51.3685885,-0.1551403,pub,,,5,,,£,,,1.2,3000,false
+34190586,The Woodlands Tavern,,51.4729787,-0.3376386,pub,,,,,,£,,,1.2,1500,false
+34190682,The Swan Inn,,51.4689419,-0.3241118,pub,,,10,,,£,,,1.2,4500,false
+34190721,The Red Lion,,51.4735028,-0.3338701,pub,,,5,,,£,,,1.2,3000,false
+36217541,The Horseshoe Bar,326 Eastcote Lane,51.561967,-0.3727312,pub,,,15,,,£,,,1.2,6000,false
+36314175,Coach & Horses,,51.3650377,-0.1623319,pub,,315,10,,,£,,,1.2,5209,false
+36487478,Hare and Hounds,,51.4916527,-0.3393015,pub,,,5,,,£,,,1.2,3000,false
+36585191,The Woodman,,51.3650042,-0.1625787,pub,,,5,,,£,,,1.2,3000,false
+36685542,The Royal Oak,,51.4669866,-0.3408452,pub,,,5,,,£,,,1.2,3000,false
+36868088,The Railway,,51.3562255,-0.2162302,pub,,,5,,,£,,,1.2,3000,false
+36869280,The Grumpy Mole,,51.3556652,-0.2222369,pub,,347,15,,,£,,,1.2,7041,false
+37124435,The Railway Tavern,"47 North Street, Carshalton, SM5 2HG",51.3693298,-0.1658625,pub,,,10,,,£,,,1.2,4500,false
+37155037,The Butterchurn,"Erskine Road, Sutton, SM1 3AS",51.369505,-0.1802281,pub,,,5,,,£,,,1.2,3000,false
+39601041,Harvest Home,"27 Beddington Lane, Croydon, CR0 4TG",51.3723143,-0.1316804,pub,,,15,,,£,,,1.2,6000,false
+39741897,The Sultan,"78 Norman Road, London, SW19 1BN",51.4185272,-0.1853025,pub,,,5,3.6,122,£,,,1.2,4320,false
+40175772,The Nightingale,"53 Carshalton Road, Sutton, SM1 4LG",51.3627599,-0.1852127,pub,,,35,,,£,,,1.2,12000,false
+41027353,The King Harold,,51.5940913,0.2351305,pub,,,30,,,£,,,1.2,10500,false
+46714849,The Baring Arms,"55 Baring Street, London, N1 3DS",51.537057,-0.0884773,pub,,,50,3.7,33,£,,,1.2,24420,false
+48928595,London Hospital Tavern,"176 Whitechapel Road, London, E1 1BJ",51.5190934,-0.0589373,pub,,,5,3.3,18,£,,,1.2,3960,false
+49311908,The Volunteer,"245-247 Baker Street, London",51.5239797,-0.1585799,pub,,,5,,,£,,,1.2,3000,false
+49314952,The Colonel Fawcett,"1 Randolph Street, London, NW1 0SS",51.54181,-0.1359896,pub,,,20,3.3,41,£,,,1.2,9900,false
+49319602,The Marlborough Arms,"36 Torrington Place, London, WC1E 7HJ",51.5218219,-0.1337724,pub,,,15,2.45,45,£,,,1.2,5880,false
+50453784,The White Hart Inn,"121 Kneller Road, TW2 7DY",51.4557401,-0.3542958,pub,,,5,,,£,,,1.2,3000,false
+50453906,The Duke of Cambridge,"Kneller Road, TW2 7DT",51.4547683,-0.3514212,pub,,,45,,,£,,,1.2,15000,false
+52755412,The Duke of Wellington,"260 Haggerston Road, London, E8 4EP",51.5401086,-0.0744743,pub,,,5,3,2,£,,,1.2,3600,false
+56446211,The Crown,"28 Wickham Road, Croydon, CR0 8BA",51.3736894,-0.05418,pub,,,5,,,£,,,1.2,3000,false
+57730534,The Lord Clyde,,51.4666594,-0.3587255,pub,,,10,,,£,,,1.2,4500,false
+59651717,The Bulstrode Pub,"55 Lampton Road, Hounslow, TW3 1JG",51.4707517,-0.3669356,pub,,,15,,,£,,,1.2,6000,false
+59788102,The Wharf,"Wharf Road South, Grays, RM17 6SZ",51.4743431,0.3145286,pub,,250,15,,,£,,,1.2,6750,false
+59933337,Shirley Inn,"158 Wickham Road, Croydon, CR0 8BF",51.3743818,-0.0502512,pub,,,5,,,£,,,1.2,3000,false
+60307094,The Cricketers,"107 Addiscombe Road, Croydon, CR0 6SG",51.3751766,-0.0836591,pub,,153,10,,,£,,,1.2,4844,false
+61937679,The Goose at the George,"5 The Town, Enfield, EN2 6LE",51.6519527,-0.0814868,pub,,2264,5,,,£,,,1.2,6396,false
+61947415,The Hop Poles,,51.6631766,-0.0773879,pub,,526,10,,,£,,,1.2,5684,false
+61947416,The Jolly Farmers,,51.6547576,-0.1077361,pub,,,,,,£,,,1.2,1500,false
+61955733,The Stag,,51.6528776,-0.0865804,pub,,123,10,,,£,,,1.2,4777,false
+61978940,Jolly Butchers,,51.6594925,-0.0799229,pub,,84,15,,,£,,,1.2,6252,false
+61987558,The Wheatsheaf,,51.6599599,-0.0792592,pub,,458,10,,,£,,,1.2,5531,false
+76660110,The Greystoke,"7 Queens Parade, London, W5 3HU",51.5169424,-0.2899892,pub,Mo-Fr 09:00-19:00; Sa 08:30-18:00; Su 10:30-16:30,180,5,3.1,37,£,,,1.2,4055,true
+87355103,The Sir Julian Huxley,"152-154 Addington Road, South Croydon, CR2 8LB",51.3434073,-0.0625348,pub,Mo-Fr 09:00-18:00; Sa-Su off,,5,,,£,,,1.2,3000,true
+89125490,The Bricklayers Arms,"237 High Street, Beckenham, BR3 1BN",51.4067187,-0.0318399,pub,,,10,,,£,,,1.2,4500,false
+89125621,Ye George Inn,"111 High Street, Beckenham, BR3 1AG",51.4072339,-0.0276681,pub,Mo-Fr 07:30-16:00; Sa 08:00-16:00,,5,1.25,2,£,,,1.2,1500,true
+89125652,O'Neils,"9 High Street, Beckenham, BR3 1AZ",51.4104781,-0.024671,pub,,,5,,,£,,,1.2,3000,false
+90272342,Fox Under The Hill,"286 Shooters Hill Road, London, SE18 4LT",51.4738476,0.039705,pub,Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 09:00-24:00; Su 09:00-23:00,,5,1.85,11,£,,,1.2,2220,true
+90322956,The Harrow,,51.3195125,-0.0429315,pub,Mo-Sa 12:00-23:00; Su 12:00-22:00,448,30,,,£,,,1.2,12852,true
+90324545,The Bull Inn,,51.3139216,-0.0325699,pub,,136,5,,,£,,,1.2,3204,false
+92560386,The Jolly Gardeners,,51.4857401,-0.4057765,pub,,,10,,,£,,,1.2,4500,false
+98170592,Duke of St. Albans,"15 Highgate Road, London, NW5 1QX",51.5614305,-0.1504467,pub,"Mo-Th 12:00-23:00; Fr,Sa 10:00-00:00; Su 12:00-22:00",161,5,2.8,5,£,,,1.2,3630,true
+106227688,The Swan,"2-4 High Street, West Wickham, BR4 0NJ",51.3758911,-0.0148923,pub,,,5,,,£,,,1.2,3000,false
+108035448,The Nottingham Castle,"257 Wandsworth Road, London, SW8 2NB",51.4787002,-0.1288063,pub,,,10,2.25,2,£,,,1.2,4050,false
+116097730,The Lion Houndsditch,"31 Houndsditch, London, EC3A 7DB",51.5148281,-0.0781193,pub,Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su off,,20,2.2,11,£,,,1.2,6600,true
+128329850,The Camel,,51.4935531,-0.1418267,pub,,836,10,,,£,,,1.2,6381,false
+129996650,The Swan and Mitre,"262 High Street, Bromley, BR1 1PG",51.4070877,0.0116437,pub,,,5,,,£,,,1.2,3000,false
+130220511,Wattenden Arms,"Old Lodge Lane, Kenley, CR8 5EU",51.3076722,-0.1023778,pub,,217,5,,,£,,,1.2,3326,false
+130577719,The Bell and Crown,,51.4869374,-0.2830003,pub,,,5,,,£,,,1.2,3000,false
+130577747,The Bull's Head,,51.4844753,-0.2783571,pub,,179,10,,,£,,,1.2,4903,false
+132960560,The Phoenix,348 Clapham Road,51.4687716,-0.1270502,pub,,193,,2.9,53,£,,,1.2,1908,false
+134900011,The Maypole,"2 Hook Road, Surbiton, KT6 5BH",51.3825845,-0.3009294,pub,,,5,,,£,,,1.2,3000,false
+148782410,The White Ferry,"1a Sutherland Street, London, SW1V 4LD",51.4889866,-0.1467405,pub,"Mo-Su,PH 00:00-00:00",,5,3.3,7,£,,,1.2,3960,true
+150609647,Prince Of Wales,"52 Perry Rise, London, SE23 2QL",51.4337044,-0.0424719,pub,,,,2.85,3,£,,,1.2,1710,false
+153620231,The Moon on the Hill,"5-9 Hill Road, SM1 1DZ",51.3618835,-0.1932923,pub,,,10,,,£,,,1.2,4500,false
+160548974,The Morgan Arms,"43 Morgan Street, London, E3 5AA",51.5279082,-0.0309841,pub,Mo-Sa 12:00-23:00; Su 12:00-22:30,228,5,2.1,40,£,,,1.2,2807,true
+166612953,The Five Bells,,51.4571449,-0.4785802,pub,,275,5,,,£,,,1.2,3413,false
+166612962,The Rising Sun,,51.4602835,-0.4766612,pub,,,,,,£,,,1.2,1500,false
+166967411,The Pembroke Castle,"150 Gloucester Avenue, London",51.5425434,-0.1548897,pub,Tu-Sa 10:00-19:00,140,5,,,£,,,1.2,3210,true
+169140546,The Hope,"1 Bellevue Road, London, SW17 7EG",51.4461541,-0.1654356,pub,,,5,2.65,75,£,,,1.2,3180,false
+169384510,The Pineapple,"25 Wilfred Street, London, SW1E 6PR",51.4986377,-0.139521,pub,,1185,25,2.85,57,£,,,1.2,16339,false
+169440015,Cask & Glass,"39-41 Palace Street, London, SW1E 5HN",51.4985497,-0.1402518,pub,,1465,5,3.65,95,£,,,1.2,7588,false
+173456911,The Jolly Waggoners,,51.4777129,-0.4049338,pub,,,10,,,£,,,1.2,4500,false
+175684023,Hen and Chickens theatre & bar,,51.5460243,-0.1019468,pub,,,5,,,£,,,1.2,3000,false
+178448909,The Perry Hill,,51.4362614,-0.0346656,pub,,,5,,,£,,,1.2,3000,false
+178884202,The Anchor,,51.2816421,-0.3683612,pub,,,5,,,£,,,1.2,3000,false
+192399976,The Pineapple,"51 Leverton Street, London, NW5 2NX",51.5529728,-0.1396355,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-00:00; Su 12:00-22:30,,25,3.4,124,£,,,1.2,12240,true
+194249790,The Furzedown,"118 Mitcham Lane, London, SW16 6NR",51.4242687,-0.1420041,pub,,,10,2.8,8,£,,,1.2,5040,false
+211260547,Royal Oak,"86 St Anns Road, Harrow, HA1 1JP",51.5816235,-0.3378121,pub,,,10,,,£,,,1.2,4500,false
+213434643,The Swan,,51.4571771,-0.4802101,pub,,237,5,,,£,,,1.2,3356,false
+224146236,The George & Dragon,"2 Blackheath Hill, London, SE10 8DE",51.472899,-0.0151598,pub,Th 18:00-26:00; Fr-Sa 18:00-28:00; Su 16:00-26:00,,10,,,£,,,1.2,4500,true
+240624074,Queen's Head,,51.5943364,-0.3807397,pub,,,10,,,£,,,1.2,4500,false
+241473415,The Druids Head,"3 Market Place, Kingston upon Thames, KT1 1JT",51.4093122,-0.3064476,pub,,,10,,,£,,,1.2,4500,false
+242925119,The Fox,,51.5042436,-0.3433342,pub,,,5,,,£,,,1.2,3000,false
+242925249,The Grosvenor,"127 Oaklands Road, London, W7 2DT",51.5067265,-0.3276291,pub,Mo-Sa 12:00-23:20; Su 12:00-22:50,,5,3.85,3,£,,,1.2,4620,true
+242938605,The Green W7,"13 Lower Boston Road, London, W7 3TX",51.5071386,-0.3395948,pub,Su-We 09:00-23:00; Th-Sa 11:00-00:00,282,5,3,27,£,,,1.2,4108,true
+246111569,The Alexandra,,51.4612829,-0.1382297,pub,,186,5,,,£,,,1.2,3279,false
+246112013,Belle Vue,"1 Clapham Common South Side, London, SW4 7AA",51.4618322,-0.1376414,pub,Mo-We 11:30-24:00; Th 11:30-01:30; Fr-Sa 11:00-02:00; Su 11:00-01:00,44,30,2.7,40,£,,,1.2,11589,true
+246112767,,,51.4591507,-0.1348655,pub,,299,,,,£,,,1.2,1724,false
+246115186,The Abbeville,"67-69 Abbeville Road, London, SW4 9JW",51.454953,-0.1395127,pub,,,20,3.1,23,£,,,1.2,9300,false
+246518042,Walkers of Whitehall,"15 Craig's Court, London, SW1A 2DD",51.5067276,-0.1269618,pub,Mo-Sa 10:00-23:00; Su 11:00-22:30,,20,3.05,26,£,,,1.2,9150,true
+247364732,The Smuggler's Inn,"320 Chipstead Valley Road, Coulsdon, CR5 3BE",51.3189353,-0.1505156,pub,Mo-Su 08:00-23:00,,10,,,£,,,1.2,4500,true
+247957492,The Horniman,"Counter Street, London, SE1 2HD",51.5061115,-0.0829214,pub,Mo-Su 11:00-23:00; Th-Sa 11:00-23:30,,15,,,£,,,1.2,6000,true
+248444184,Sports Bar & Grill,"174-180 Old Street, London, EC1V 9BP",51.525197,-0.0900377,pub,,961,10,2.2,5,£,,,1.2,5863,false
+248453431,The Vine,"86 Highgate Road, London, NW5 1PB",51.5547125,-0.1444787,pub,Mo-Fr 10:00-18:00; Sa 10:30-17:30; Su 11:00-16:00,,10,2.55,28,£,,,1.2,4590,true
+248478388,The Victoria,,51.4644128,-0.3277821,pub,,,,,,£,,,1.2,1500,false
+248921516,Traders,,51.4661242,-0.1421645,pub,"Mo 17:00-22:00; Tu-Th 17:00-00:00; Fr, Sa 14:00-02:00; Su 12:00-23:00",105,10,,,£,,,1.2,4736,true
+248921520,The Rose and Crown,"2 The Polygon, London, SW4 0JG",51.4637043,-0.14135,pub,Mo off; Tu-Sa 10:30-17:30; Su 10:30-16:00,110,5,3.7,106,£,,,1.2,4684,true
+248921522,The Sun,"47 Old Town, London, SW4 0JL",51.4639712,-0.1409221,pub,,,10,2.15,55,£,,,1.2,3870,false
+248921524,The Grafton,,51.465258,-0.1410423,pub,,,,,,£,,,1.2,1500,false
+248921525,The Calf,"87 Rectory Grove, London, SW4 0DR",51.4655827,-0.1410858,pub,,,5,2.7,45,£,,,1.2,3240,false
+248932665,The Clapham Tap,"128 Clapham Manor Street, London, SW4 6ED",51.4642991,-0.1353883,pub,Mo-Th 16:00-23:00; Fr 16:00-00:00; Sa 12:00-00:00; Su 12:00-23:00,78,20,3.1,33,£,,,1.2,9663,true
+248933565,The Railway Tavern,"18 Clapham High Street, London, SW4 7UR",51.4645547,-0.1311338,pub,"Mo-Th 09:00-21:00, Fr 08:00-21:00, Sa 08:00-18:00, Su 09:00-18:00",,10,2.7,32,£,,,1.2,4860,true
+249310455,Dockers Inn,"97 Wapping Lane, London, E1W 2RW",51.5048793,-0.0573725,pub,"Mo-Th 12:00-23:00, Fr,Sa 12:00-01:30, Su 12:00-22:30",189,10,2.5,10,£,,,1.2,4925,true
+249562125,The Chancery,"90 Bromley Road, Beckenham, BR3 5NP",51.4068967,-0.0174421,pub,,182,5,,,£,,,1.2,3273,false
+249562629,Jolly Woodman,"9 Chancery Lane, Beckenham, BR3 6NR",51.4067114,-0.0180915,pub,,,10,,,£,,,1.2,4500,false
+249573138,Betty,,51.4917587,-0.2622862,pub,Mo-Fr 08:00-10:00; Sa 08:00-12:00; Su off,,5,,,£,,,1.2,3000,true
+249672865,The William Morris,"807-809 Forest Road, London, E17 4JD",51.5912043,-0.0077676,pub,,,,2.1,12,£,,,1.2,1260,false
+249786782,Prince Arthur,"123 Uxbridge Road, London, W13 9AU",51.5114253,-0.3150232,pub,,319,5,4.05,32,£,,,1.2,5635,false
+249793689,Star And Scorpion,"94 Uxbridge Road, London, W13 8RA",51.5115625,-0.3159141,pub,24/7,166,5,3.05,39,£,,,1.2,3964,true
+250080453,The Greyhound,,51.5913275,-0.2279046,pub,,219,5,,,£,,,1.2,3329,false
+250080603,Claddagh Ring,,51.5901278,-0.226129,pub,,346,15,,,£,,,1.2,7038,false
+250766138,The Hawbush,,51.5814345,0.1167026,pub,,,20,,,£,,,1.2,7500,false
+251385770,The Pheasant,,51.4851696,-0.4404949,pub,,,5,,,£,,,1.2,3000,false
+251385779,The Wheatsheaf,,51.4857689,-0.4350514,pub,,,10,,,£,,,1.2,4500,false
+251526423,The Bedford,"77 Bedford Hill, London, SW12 9HD",51.4427243,-0.1493607,pub,,,5,2.9,91,£,,,1.2,3480,false
+251574853,The Blue Ball,"Deans Lane, Tadworth, KT20 7UE",51.2835124,-0.241072,pub,,,5,,,£,,,1.2,3000,false
+251575690,The Fox & Hounds,"62 Walton Street, Walton On The Hill, KT20 7RU",51.283139,-0.2460049,pub,,,10,,,£,,,1.2,4500,false
+251802173,The Pilot,,51.4903013,-0.2778605,pub,,,5,,,£,,,1.2,3000,false
+251811996,The Duke of Sussex,"75 South Parade, London, W4 5LF",51.4962711,-0.2641399,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-22:00,,5,1.85,50,£,,,1.2,2220,true
+251829660,The William Garland,"4 The Square, Caterham, CR3 6QA",51.2824247,-0.0771832,pub,Mo-Sa 09:00-17:30,,5,,,£,,,1.2,3000,true
+253015763,Crown and Pepper,"32 Godstone Road, Caterham, CR3 6RA",51.2813043,-0.0754971,pub,,,5,,,£,,,1.2,3000,false
+253267438,Ashley Park,"Ashley Park Road, Walton-On-Thames, KT12 1JP",51.3733737,-0.4153446,pub,,,5,,,£,,,1.2,3000,false
+253364755,The George Inn,"24 Bridge Street, Walton-On-Thames, KT12 1AH",51.3870836,-0.4212786,pub,,,10,,,£,,,1.2,4500,false
+253364756,The Bear,"30 Bridge Street, Walton-On-Thames, KT12 1AH",51.3870736,-0.4218566,pub,,,10,,,£,,,1.2,4500,false
+253469671,The Barley Mow,,51.3684,-0.3968187,pub,,,10,,,£,,,1.2,4500,false
+253822004,King William IV,,51.4901149,-0.4578428,pub,,,30,,,£,,,1.2,10500,false
+253822036,The Crown,"High Street, West Drayton, UB7 0AJ",51.4887565,-0.4779067,pub,Mo-Sa 12:00-23:00; Su 12:00-22:30,,5,,,£,,,1.2,3000,true
+255012045,King's Head,"2 Crouch End Hill, London, N8 8AA",51.5782929,-0.1242398,pub,Mo-We 12:00-23:00; Th-Fr 12:00-24:00; Sa 11:00-25:00; Su 12:00-22:00,217,20,2.95,34,£,,,1.2,9810,true
+255135764,McCaffertys Bar,"134 High Street, Epsom, KT19 8BT",51.3326883,-0.2706674,pub,,,5,,,£,,,1.2,3000,false
+255135771,Acorn 30,,51.3320433,-0.2710528,pub,,,5,,,£,,,1.2,3000,false
+255137548,The Rising Sun,"14 Heathcote Road, KT18 5DX",51.3307962,-0.263292,pub,,198,,,,£,,,1.2,1649,false
+255139196,The Amato,"Chalk Lane, Epsom, KT18 7AS",51.3243531,-0.2683366,pub,,284,,,,£,,,1.2,1713,false
+255959341,The Bollo,,51.4955664,-0.2700726,pub,,,,,,£,,,1.2,1500,false
+256404255,The Rochester Castle,"143, 145 Stoke Newington High Street, London, N16 0NY",51.5609825,-0.0740121,pub,Su-Th 08:00-24:00; Fr-Sa 08:00-25:00,,,1.35,6,£,,,1.2,810,true
+256488376,Pied Bull,"High Street, Dartford, DA4 0DG",51.3793928,0.2231513,pub,,,,,,£,,,1.2,1500,false
+256494933,Malt Shovel,"Station Road, DA4 0ER",51.3672457,0.2106111,pub,,,,,,£,,,1.2,1500,false
+256622051,The King's Arms,,51.4878141,-0.310766,pub,,,,,,£,,,1.2,1500,false
+257464728,The Hart,,51.4933656,-0.2433411,pub,,545,,,,£,,,1.2,1909,false
+257807913,The New Inn,,51.4892112,-0.3021118,pub,,110,,,,£,,,1.2,1583,false
+257807914,The Brook,,51.4882823,-0.3046086,pub,,,,,,£,,,1.2,1500,false
+257807923,The Griffin,,51.4870591,-0.3029644,pub,,,,,,£,,,1.2,1500,false
+257937397,The Grafton Arms,"72 Grafton Way, London, W1T 5DU",51.5231854,-0.138689,pub,,,,3,22,£,,,1.2,1800,false
+258326867,The Bull & Bush,"Washington Road, KT1 3JB",51.4081708,-0.28964,pub,,,,,,£,,,1.2,1500,false
+258750121,Leather Bottle,"277 Kingston Road, London, SW19 3NW",51.411219,-0.2091116,pub,Mo-Th 11:00-23:00; Fr-Sa 11:00-00:00; Su 12:00-23:00,,,,,£,,,1.2,1500,true
+259102682,Royal Horse Guardsman,,51.4863995,-0.3000448,pub,,,,,,£,,,1.2,1500,false
+259248888,Agenda,,51.5108908,-0.0811851,pub,,9762,,,,£,,,1.2,8822,false
+259253467,The Ship,"11 Talbot Court, London, EC3V 0BP",51.5110721,-0.0847581,pub,,112,,3.4,48,£,,,1.2,2154,false
+259774303,Running Horse,,51.5131349,-0.1484154,pub,,88,,,,£,,,1.2,1566,false
+259774404,The Windmill,"6-8 Mill Street, London",51.5124213,-0.1422011,pub,,,,3.25,45,£,,,1.2,1950,false
+260243933,The Greyhound,"425 South Ordnance Road, EN3 6HR",51.670387,-0.0181586,pub,,,,,,£,,,1.2,1500,false
+261000393,The Priory Arms,,51.4748429,-0.128315,pub,Mo-Fr 16:00-23:00; Sa 12:00-23:00; Su 12:00-22:30,131,,,,£,,,1.2,1598,true
+261310647,Nolan's,"33 Wilcox Road, London, SW8 2XA",51.4795759,-0.1259483,pub,,,,0.9,4,£,,,1.2,540,false
+261348576,The Cavendish Arms,"128 Hartington Road, London, SW8 2HJ",51.4764537,-0.1276913,pub,,,,3.85,11,£,,,1.2,2310,false
+261624734,Black Horse,,51.290548,0.3097121,pub,,,,,,£,,,1.2,1500,false
+262014977,Dunnings Bar,,51.6674032,-0.3983134,pub,,,,,,£,,,1.2,1500,false
+262125230,The Castle,,51.4683976,-0.3245885,pub,,,,,,£,,,1.2,1500,false
+262368993,The Artful Duke,"196-198 High Street, Bromley, BR1 1HE",51.4057141,0.0138747,pub,,,,,,£,,,1.2,1500,false
+262443436,The Auld Shillelagh,"105 Stoke Newington Church Street, London, N16 0UD",51.5620215,-0.079539,pub,Mo-We 12:00-24:00; Th-Sa 12:00-25:00; Su 12:00-24:00,,,3.45,38,£,,,1.2,2070,true
+262637210,Coach & Horses,"178 Stoke Newington High Street, London, N16 7JL",51.5617228,-0.0735286,pub,,,,3.1,30,£,,,1.2,1860,false
+262702979,The Roebuck,"122 Chiswick High Road, London, W4 1PU",51.4929603,-0.252613,pub,Su-Th 12:00-23:00; Fr-Sa 12:00-24:00,316,,3.25,15,£,,,1.2,2258,true
+264041224,The Dog House,"293 Kennington Road, London, SE11 6BY",51.4891613,-0.1108437,pub,,,,2.65,63,£,,,1.2,1590,false
+264790279,Prince of Wales,"51 St George's Road, London",51.4957145,-0.1038594,pub,,,,,,£,,,1.2,1500,false
+264797750,The Mansion House,,51.489311,-0.1052036,pub,,,,,,£,,,1.2,1500,false
+264797790,The Little Apple,,51.4899576,-0.1081407,pub,,,,,,£,,,1.2,1500,false
+265255748,Jono's Bar,,51.5101535,-0.2869312,pub,,103,,,,£,,,1.2,1577,false
+265649310,The Lansdowne,,51.5414171,-0.1533533,pub,,,,,,£,,,1.2,1500,false
+265662292,The Hour Glass,,51.486375,-0.0843308,pub,,,,,,£,,,1.2,1500,false
+265664308,Dickens Inn,"Marble Quay, London, E1W 1UH",51.5067525,-0.0702178,pub,Mo-Su 12:00-23:00,1761,,,,£,,,1.2,2821,false
+265825624,The Vine,,51.6899219,-0.0338545,pub,,,,,,£,,,1.2,1500,false
+266214958,Smokehouse,,51.4890151,-0.2701228,pub,,,,,,£,,,1.2,1500,false
+266284078,The Turk's Head,"28 Winchester Road, Twickenham, TW1 1LF",51.4564146,-0.3230387,pub,"Mo-Th 12:00-23:00; Fr,Sa 12:00-24:00; Su 12:00-21:00",,,,,£,,,1.2,1500,true
+266324793,Hole In the Wall,"5 Mepham Street, London, SE1 8SQ",51.5041063,-0.1137203,pub,,,,3.15,184,£,,,1.2,1890,false
+266680230,The Crown and Anchor,"22 Neal Street, London, WC2H 9PS",51.5139755,-0.1249853,pub,Mo-Sa 10:00-20:00; Su 12:00-18:00,1056,,2.75,25,£,,,1.2,2521,false
+266702613,The Station,"The Broadway Stoneleigh, KT17 2JA",51.363021,-0.2478212,pub,,,,,,£,,,1.2,1500,false
+266739623,Robin Hood,"52 West Street, Sutton, SM1 1SH",51.3638084,-0.1967096,pub,,,,,,£,,,1.2,1500,false
+266749352,The Drill,,51.3728734,-0.2320993,pub,,,,,,£,,,1.2,1500,false
+266819667,The Richmond,55 Shepherds Bush Road,51.5002698,-0.221756,pub,,,,,,£,,,1.2,1500,false
+266877019,The Landor Theatre,,51.4657075,-0.1260872,pub,,,,,,£,,,1.2,1500,false
+266880851,The Prince of Wales,,51.3606475,-0.2176109,pub,,,,,,£,,,1.2,1500,false
+267432002,St Stephen's Tavern,"10 Bridge Street, London, SW1A 2JR",51.501146,-0.125595,pub,Mo-Fr 09:30-17:30; Sa 10:00-17:30,,,3.45,94,£,,,1.2,2070,true
+267777279,The Village Inn,,51.5767796,-0.3709372,pub,,,,,,£,,,1.2,1500,false
+267892311,Sir John Gibson,,51.4512858,-0.4752273,pub,,,,,,£,,,1.2,1500,false
+268040827,Three Horseshoes,,51.627374,-0.1746584,pub,,,,,,£,,,1.2,1500,false
+268430691,The Fountain & Ink,"52 Stamford Street, London, SE1 9LX",51.5071635,-0.1075107,pub,Mo-Fr 07:30-17:00,,,3.15,17,£,,,1.2,1890,true
+268985214,The Lamb,,51.4971559,-0.375732,pub,,,,,,£,,,1.2,1500,false
+269203844,The Optimist Tavern,,51.5487756,0.2338479,pub,,,,,,£,,,1.2,1500,false
+269235458,The Shelverdine Goathouse,"7-8 High Street, London, SE25 6EP",51.3985503,-0.0761693,pub,"Mo-We 16:00-23:00; Th 16:00-00:00; Fr,Sa 12:00-00:00; Su 12:00-23:00",,,2.4,29,£,,,1.2,1440,true
+269237943,The Claret & Ale,"5 Bingham Corner, Croydon, CR0 7AA",51.379938,-0.0736716,pub,,,,,,£,,,1.2,1500,false
+269253652,012 Bar & Grill Restaurant,"108-110 The Grove, London, E15 1NS",51.542752,0.0032106,pub,"Su-Th 11:00-00:00; Fr,Sa 11:00-01:00",,,2.55,26,£,,,1.2,1530,true
+269859953,Anchor Brewhouse,"Shad Thames, London, SE1 2LN",51.5041075,-0.0753099,pub,,,,3.25,50,£,,,1.2,1950,false
+269866730,The Ship Aground,"33 Wolseley Street, London, SE1 2BP",51.5005923,-0.0705079,pub,,,,,,£,,,1.2,1500,false
+270603553,The Estcourt Tavern,"25 Estcourt Road, Watford, WD17 2PY",51.6586655,-0.3955164,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-23:30; Su 12:00-10:30,,,,,£,,,1.2,1500,true
+271387709,Cask,"6 Charlwood Street, London, SW1V 2EE",51.491093,-0.1373223,pub,Mo-Sa 12:00-23:00; Su 12:00-22:30,151,,3.5,83,£,,,1.2,2259,true
+271949863,The Adam & Eve,"77A Wells Street, London, W1T 3QQ",51.5165073,-0.1373884,pub,,,,3.6,135,£,,,1.2,2160,false
+273404382,Toolan's,"866 High Road, London, N12 9RH",51.6185904,-0.1764629,pub,Mo-Fr 07:30-17:00; Sa-Su 08:00-17:00,,,3.5,14,£,,,1.2,2100,true
+273456489,Queen Of The South Pub,"367 Norwood Road, London, SE27 9BQ",51.4399206,-0.1060377,pub,,,,2.05,18,£,,,1.2,1230,false
+273509342,The Falcon,"33 Bedford Road, London, SW4 7SQ",51.4642947,-0.1291283,pub,,,,2.7,48,£,,,1.2,1620,false
+273533110,The Brunel,"47 Swan Road, London, SE16 4JN",51.5013181,-0.0509211,pub,"Mo-Th 12:00-00:00, Fr-Sa 12:00-01:30, Su 12:00-00:00",159,,3.25,6,£,,,1.2,2105,true
+274268703,Hope & Anchor,"123 Acre Lane, London, SW2 5UA",51.4595646,-0.1266272,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-01:00; Su 12:00-22:00,,,2.25,22,£,,,1.2,1350,true
+275452092,Asylum Travern,"40-42 Asylum Road, London, SE15 2RL",51.4772459,-0.0586344,pub,,,,2.6,5,£,,,1.2,1560,false
+276369831,Doyles Tavern,"379 Caledonian Road, London, N7 9DQ",51.5437242,-0.1177134,pub,Mo-Sa 11:00-22:00; Su 15:00-00:00,,,,,£,,,1.2,1500,true
+277834913,O'Neills,"37 High Street, Sutton, SM1 1DJ",51.361022,-0.1922077,pub,Mo-Fr 09:30-15:00; Sa 09:30-13:00,,,,,£,,,1.2,1500,true
+277909036,The Castle,"44 Commercial Road, London, E1 1LN",51.5148862,-0.0687963,pub,"Su-Tu 16:00-24:00, We 16:00-01:00, Th 16:00-01:30, Fr,Sa 16:00-03:00",,,3,22,£,,,1.2,1800,true
+278291760,The Moretown Belle,"5 Thomas More Square, London, E1W 1YW",51.5071618,-0.0674954,pub,,,,,,£,,,1.2,1500,false
+278312956,Thomas Neale,"39 Watney Market, London, E1 2PP",51.5131287,-0.0566157,pub,,5107,,,,£,,,1.2,5330,false
+279391479,Brixton Jamm,"261 Brixton Road, London, SW9 6LH",51.4706805,-0.112081,pub,,,,,,£,,,1.2,1500,false
+279391483,The Golden Goose,,51.4781203,-0.1034297,pub,,179,,,,£,,,1.2,1634,false
+279651322,Tollington,,51.5575468,-0.1128611,pub,,,,,,£,,,1.2,1500,false
+280145696,O'Neill's,"73-77 Euston Road, London, NW1 2QS",51.5288373,-0.1262199,pub,"Mo-We 08:00-24:00, Th-Sa 08:00-01:00, Su 09:00-24:00",,,2.7,51,£,,,1.2,1620,true
+280525285,Clerkenwell Social,"2-5 St John's Square, London, EC1M 4DE",51.5221729,-0.1032382,pub,,,,3,2,£,,,1.2,1800,false
+280592972,New Cross Inn,"323 New Cross Road, London, SE14 6AS",51.4757953,-0.0370911,pub,Mo-Th 18:00-27:00; Fr-Sa 18:00-28:00; Su 18:00-26:00,,,2.6,38,£,,,1.2,1560,true
+280593932,The Flower of Kent,"135 Lewisham Way, London, SE14 6QP",51.4722877,-0.0311244,pub,,,,3,93,£,,,1.2,1800,false
+280606863,Royal Standard,"86 Tanners Hill, London, SE8 4PN",51.4736103,-0.0272264,pub,,,,,,£,,,1.2,1500,false
+280606890,The Brookmill Pub,"65 Cranbrook Road, London, SE8 4EJ",51.4708059,-0.0218807,pub,,222,,3.4,5,£,,,1.2,2266,false
+280606917,Royal Albert,"460 New Cross Road, London, SE14 6TJ",51.4751561,-0.0286653,pub,"Mo-Fr 16:00-23:00; Sa,Su 12:00-23:00",96,,3.7,46,£,,,1.2,2327,true
+280835217,The Cadogan Arms,298 Old Church Street,51.4859699,-0.1729707,pub,"Mo-Fr 18:00-22:00; Sa 12:00-15:00, 18:00-22:30",191,,,,£,,,1.2,1643,true
+280835439,The Pig's Ear,"Old Church Street, London, SW3 5BS",51.4842633,-0.1722964,pub,Tu-Sa 12:00-23:00; Mo 17:00-23:00; Su 12:00-22:00,126,,3,36,£,,,1.2,1913,true
+282022744,The Fellowship Inn,"Randlesdown Road, London, SE6 3BT",51.4327487,-0.0198466,pub,Mo-Fr 08:30-17:30; Sa 09:00-15:00,,,2,6,£,,,1.2,1200,true
+283614125,The Devonshire,"39 Balham High Road, London, SW12 9AN",51.4469022,-0.1490137,pub,,,,2.85,62,£,,,1.2,1710,false
+285621940,Milford Arms,"574 London Road, Isleworth, TW7 4EY",51.4738772,-0.3450357,pub,,,,,,£,,,1.2,1500,false
+286740229,The Jovial Sailor,"Portsmouth Road, Ripley, GU23 6EZ",51.2893093,-0.5020265,pub,,,,,,£,,,1.2,1500,false
+287240464,The Hartley,,51.4958251,-0.0828758,pub,,,,,,£,,,1.2,1500,false
+287243496,Huntsman and Hounds,,51.4899499,-0.08567,pub,,216,,,,£,,,1.2,1662,false
+287553265,Munich Cricket Club,"1 Abbey Orchard Street, London, SW1P 2LU",51.4981992,-0.1324675,pub,Mo-Fr 06:00-19:30; Sa-Su 08:00-19:30,739,,3,8,£,,,1.2,2465,false
+287612242,The Northcote,"2 Northcote Road, London, SW11 1NT",51.4607139,-0.1671587,pub,,,,1.95,57,£,,,1.2,1170,false
+287612487,The Goat,"66B Battersea Rise, London, SW11 1EQ",51.4609207,-0.1664373,pub,"Mo-Fr 09:00-20:00, Sa 09:00-18:00, Su 11:00-17:00",,,2.25,19,£,,,1.2,1350,true
+287749130,The Wellington,"81 - 83 Waterloo Road, London, SE1 8UD",51.5036385,-0.111312,pub,,,,2.85,87,£,,,1.2,1710,false
+288026530,St James Tavern,"72 St James's Road, London, SE16 4QZ",51.4954065,-0.065873,pub,,,,2.8,9,£,,,1.2,1680,false
+288041082,The Aeronaut,"264 High Street, London, W3 9BH",51.508471,-0.275381,pub,,,,2.25,68,£,,,1.2,1350,false
+288041147,Duke of York,,51.5096305,-0.2718999,pub,,176,,,,£,,,1.2,1632,false
+288044066,The Windmill,"50 High Street, London, W3 6LG",51.5067866,-0.2663317,pub,,,,,,£,,,1.2,1500,false
+288044068,The King's Head,"214 High Street, London, W3 9NX",51.5078444,-0.2730275,pub,"Su-Th 07:30-23:30; Fr,Sa 07:30-24:00",308,,3.45,35,£,,,1.2,2389,true
+288045288,Hoop and Grapes,"47 Aldgate High Street, London, EC3N 1AL",51.5142543,-0.0742015,pub,Su-Fr 12:00-23:30; Sa 11:00-18:00,332,,3.25,43,£,,,1.2,2274,true
+288170087,The Macbeth,"70 Hoxton Street, London, N1 6LP",51.5301253,-0.0800851,pub,Mo-Th 10:00-20:00; Fr 10:00-18:00; Sa 10:00-17:00,,,3.1,5,£,,,1.2,1860,true
+288353870,The Rocket,"11-13 Churchfield Road, London, W3 6BD",51.5087219,-0.2639648,pub,,,,3.05,35,£,,,1.2,1830,false
+288353972,The Sheepwalk Tavern,"Market Place, London, W3 6QS",51.5078484,-0.2712627,pub,,,,3.25,2,£,,,1.2,1950,false
+288598379,The Stag,"177 Acton Lane, London, W4 5DA",51.4992672,-0.2644126,pub,,,,3.35,11,£,,,1.2,2010,false
+288988361,Rose and Crown,,51.4330224,-0.1543083,pub,,,,,,£,,,1.2,1500,false
+289075156,Two Brewers,"121 Whitecross Street, London, EC1Y 8JH",51.5224839,-0.0928541,pub,,,,3.05,18,£,,,1.2,1830,false
+289830212,Pitcher and Piano,"28 Cornhill, London, EC3V 3ND",51.5132258,-0.0867502,pub,,,,2.45,23,£,,,1.2,1470,false
+289996602,The Kings Arms,"2 Shepherd Market, London",51.5062952,-0.146163,pub,,,,,,£,,,1.2,1500,false
+290017300,Elm Park Tavern,,51.4492346,-0.1176409,pub,,,,,,£,,,1.2,1500,false
+290621074,Tommy Tucker,,51.4788399,-0.1927249,pub,,,,,,£,,,1.2,1500,false
+290621086,The Belgravia,,51.4924915,-0.1514301,pub,,,,,,£,,,1.2,1500,false
+290869247,Elephant and Castle,"18 Elephant And Castle, London, SE18 6JY",51.4908177,0.0689386,pub,,398,,1.9,8,£,,,1.2,1367,false
+290971132,North Mitcham Association Club,"49 Woodland Way, Mitcham, CR4 2DZ",51.4172055,-0.1533658,pub,,,,,,£,,,1.2,1500,false
+291047638,Crown and Sceptre,"2A Streatham Hill, London, SW2 4AA",51.4451138,-0.1247972,pub,,341,,,,£,,,1.2,1756,false
+291667366,The Alma Tavern,"129 Lower Addiscombe Road, Croydon, CR0 6PU",51.3793468,-0.0807355,pub,,,,,,£,,,1.2,1500,false
+291671992,The Cyclist,"Balham High Road, London, SW12 9BP",51.4437389,-0.1528177,pub,Su-Tu 12:00-23:00; We-Fr 12:00-00:00; Sa 10:00-13:00,,,2.7,95,£,,,1.2,1620,true
+291676065,Princess Royal,,51.3830398,-0.1103416,pub,,,,,,£,,,1.2,1500,false
+291754220,The Botanist,"35 Broadgate Circle, London, EC2M 2QS",51.5189552,-0.0836417,pub,,,,2.3,11,£,,,1.2,1380,false
+291950464,Ye Olde Clocktower,"35 Whitehorse Road, Croydon, CR0 2JG",51.3845329,-0.0978953,pub,,,,,,£,,,1.2,1500,false
+291977904,White Horse,"94 Brixton Hill, London, SW2 1QN",51.4547784,-0.1199229,pub,,136,,3.8,18,£,,,1.2,2435,false
+291981188,Hemingford Arms,"158 Hemingford Road, London, N1 1DF",51.5430239,-0.1130904,pub,Mo-Sa 11:00-23:00; Su 12:00-22:30,,,3.5,37,£,,,1.2,2100,true
+292002707,The Prince George,,51.6672494,-0.3984152,pub,,,,,,£,,,1.2,1500,false
+292183282,The George,,51.5524009,-0.1673616,pub,,,,,,£,,,1.2,1500,false
+292938407,The Grove,"39 Oldridge Road, London, SW12 8PN",51.4483422,-0.1510468,pub,,100,,3.25,52,£,,,1.2,2048,false
+293018569,Ye Olde Whyte Lyon,"Farnborough Common, Orpington, BR6 8NE",51.3658935,0.0541673,pub,,,,,,£,,,1.2,1500,false
+293390260,The Black Heart,"2-3 Greenland Place, London, NW1 0AP",51.5389171,-0.1418712,pub,Mo-We 15:00-00:00; Th 15:00-01:00; Fr 12:00-02:00; Sa 11:00-02:00; Su 12:00-12:00,,,2.9,44,£,,,1.2,1740,true
+293506221,The Red Lion,"407 Walworth Road, London, SE17 2AW",51.4845509,-0.0935392,pub,,,,,,£,,,1.2,1500,false
+293516727,The Rockingham Arms,"119 Newington Causeway, London, SE1 6DQ",51.4958695,-0.0996325,pub,"Su-Th 08:00-23:00; Fr,Sa 08:00-24:00",865,,,,£,,,1.2,2149,false
+293702008,Brave New World,"22-26 Berrylands Road, Surbiton, KT5 8RA",51.393066,-0.2956153,pub,Mo-Sa 08:00-22:00; Su 09:00-20:00,311,,,,£,,,1.2,1733,true
+293754855,Escape Sports Bar & Restaurant,"2 Lidlington Place, London, NW1 2JU",51.5327738,-0.1373878,pub,Mo-Sa 12:00-23:00; Su 12:00-22:00,,,2.5,4,£,,,1.2,1500,true
+293970330,Rose and Crown,"1 Church Place, London, W5 4HN",51.5040481,-0.3059067,pub,,,,3.1,51,£,,,1.2,1860,false
+294162222,The Dean Swift,"2-6 Deancross Street, London, E1 2QA",51.5139175,-0.05521,pub,,,,2.75,2,£,,,1.2,1650,false
+294277227,Purkins,"174 Streatham Road, Mitcham, CR4 2AF",51.4167786,-0.1525765,pub,,,,,,£,,,1.2,1500,false
+294765140,Eastnor Castle,,51.5333448,-0.1342188,pub,,,,,,£,,,1.2,1500,false
+295466191,Tattersalls Tavern,,51.5011085,-0.1625201,pub,,,,,,£,,,1.2,1500,false
+295905009,Bbar,"43 Buckingham Palace Road, London, SW1W 0PP",51.4981242,-0.1434293,pub,,,,2.85,52,£,,,1.2,1710,false
+295968780,Globe Bar,,51.4924342,-0.2785884,pub,,,,,,£,,,1.2,1500,false
+295971752,The Fire Station,"150 Waterloo Road, London, SE1 8SB",51.5025485,-0.1105758,pub,Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-22:30,,,,,£,,,1.2,1500,true
+295975604,The New Moon,"88 Gracechurch Street, London, EC3V 0DN",51.5128537,-0.0842485,pub,Mo-Fr 06:30-20:30,3019,,2.7,32,£,,,1.2,4065,false
+296506670,The Lamb,"85 Pelly Road, London, E13 0NL",51.5353993,0.0215447,pub,,247,,3.75,2,£,,,1.2,2528,false
+296614817,Balls Brothers,"1 Minster Pavement, London, EC3R 7PP",51.5108903,-0.0808223,pub,,,,,,£,,,1.2,1500,false
+296620391,The Oliver Conquest,"70 Leman Street, London, E1 8EU",51.5128687,-0.0701002,pub,,681,,3.3,11,£,,,1.2,2654,false
+296889741,Shaker and Company,,51.5283514,-0.1389467,pub,,1333,,,,£,,,1.2,2500,false
+296891969,The World's End,"174 Camden High Street, London, NW1 0NE",51.5391316,-0.1422001,pub,,,,,,£,,,1.2,1500,false
+298220599,Lord Wargrave,"40-42 Brendon Street, London",51.5181298,-0.1657799,pub,Mo-Sa 10:00-23:30; Su 10:00-23:00,164,,3.1,46,£,,,1.2,2013,true
+298220963,Duke of York,"45 Harrowby Street, London",51.5175308,-0.1640235,pub,,,,3.6,72,£,,,1.2,2160,false
+298347049,Skinners Arms,"114 Judd Street, London, WC1H 9NT",51.5281822,-0.1251425,pub,,,,3.3,68,£,,,1.2,1980,false
+298347050,The Boot,"116 Cromer Street, London, WC1H 8BS",51.527567,-0.1241966,pub,Mo-Sa 12:00-23:00; Su 12:00-22:30,82,,2.45,28,£,,,1.2,1530,true
+298702963,The Castle,,51.6091055,0.0207591,pub,,489,,,,£,,,1.2,1867,false
+299104088,The Oval Tavern,"131 Oval Road, Croydon, CR0 6BR",51.3782981,-0.087598,pub,,,,,,£,,,1.2,1500,false
+299106201,The Builders Arms,"65 Leslie Park Road, Croydon, CR0 6TP",51.3794773,-0.085901,pub,,262,,,,£,,,1.2,1697,false
+299111195,The Porter and Sorter,"Billinton Hill, Croydon, CR0 6BT",51.3760103,-0.0918905,pub,,,,,,£,,,1.2,1500,false
+299115719,The Royal Standard,"1 Sheldon Street, Croydon, CR0 1SS",51.3699505,-0.1016237,pub,,,,,,£,,,1.2,1500,false
+299310964,The Bull,"100 Upper Street, London, N1 0NP",51.537413,-0.1031553,pub,,,,3.4,37,£,,,1.2,2040,false
+299595796,The King's Head,,51.5375887,-0.1004346,pub,,,,,,£,,,1.2,1500,false
+300500863,The Victory,,51.5292754,-0.1439959,pub,,,,,,£,,,1.2,1500,false
+300587311,Coach and Horses,"Burnhill Road, Beckenham, BR3 3LA",51.4062131,-0.0280348,pub,,,,,,£,,,1.2,1500,false
+301122101,The Dick Whittington,,51.6205627,-0.3879655,pub,,,,,,£,,,1.2,1500,false
+301516360,The Princess of Shoreditch,"76-78 Paul Street, London, EC2A 4NE",51.5253696,-0.08372,pub,Mo-Fr 08:00-17:00,148,,2.95,17,£,,,1.2,1901,true
+302011571,The Grosvenor,"79 Grosvenor Road, London, SW1V 3LA",51.4866135,-0.1315923,pub,,,,3.2,9,£,,,1.2,1920,false
+302013654,The Bull,"4-5 Devonshire Row, London, EC2M 4RH",51.516962,-0.0803573,pub,Mo-Fr 06:00-21:00; Sa 06:30-21:00; Su 08:00-18:00,3147,,2.4,16,£,,,1.2,3706,false
+302166735,The Red Lion & Pineapple,"281 High Street, London, W3 9BP",51.5081822,-0.2764777,pub,,,,2.55,51,£,,,1.2,1530,false
+302172067,George & Dragon,"183 High Street, London, W3 9DJ",51.5072726,-0.2718046,pub,Mo-Th 17:00-23:00; Fr 15:00-24:00; Sa 12:00-24:00; Su 12:00-22:00,485,,2.25,18,£,,,1.2,1677,true
+302410081,The Foxglove,"209 – 211 Liverpool Road, London, N1 1LX",51.5391958,-0.106895,pub,Mo-Tu 16:00-22:00; We 16:00-23:00; Th-Sa 12:00-23:00; Su 12:00-21:00,,,4,5,£,,,1.2,2400,true
+302866774,,,51.4893035,-0.0907551,pub,,,,,,£,,,1.2,1500,false
+303189871,The Windsor,"888 Old Kent Road, London, SE15 1NQ",51.4783235,-0.0539226,pub,,,,2,2,£,,,1.2,1200,false
+304132917,The Fishermans Arms,,51.529606,-0.249311,pub,Mo-Sa 11:00-23:00; Su 12:00-22:30,,,,,£,,,1.2,1500,true
+304421987,Angie's,"127 High Street Harlesden, London, NW10 4TR",51.5354797,-0.2436931,pub,,96,,1.25,4,£,,,1.2,786,false
+304464944,Wishing Well,,51.5401392,-0.2535523,pub,,,,,,£,,,1.2,1500,false
+304687745,Heather Park,,51.5427082,-0.2850591,pub,,,,,,£,,,1.2,1500,false
+304744886,The Green Man,,51.5574542,-0.2895953,pub,,,,,,£,,,1.2,1500,false
+305075246,The Cock Inn,,51.654469,-0.154481,pub,"Mo-Th 11:00-23:00; Fr,Sa 11:00-24:00; Su 11:00-22:30",,,,,£,,,1.2,1500,true
+305271099,The Fusilier,,51.5516164,-0.3109523,pub,,,,,,£,,,1.2,1500,false
+305410614,The Innisfree Free House,,51.5459657,-0.2731942,pub,,,,,,£,,,1.2,1500,false
+305415271,The Jolly Sisters,,51.5457466,-0.112832,pub,,66,,,,£,,,1.2,1550,false
+305415323,The Lamb,"54 Holloway Road, London, N7 8JL",51.5487172,-0.1069806,pub,Mo-Fr 08:00-20:00; Sa-Su 09:00-20:00,231,,3.35,16,£,,,1.2,2242,true
+305415325,The Duchess of Kent,"Liverpool Road, London, N7 8PR",51.5463365,-0.1087488,pub,,,,3.3,25,£,,,1.2,1980,false
+305514124,Black Horse,,51.3353006,0.3048187,pub,,,,,,£,,,1.2,1500,false
+305587200,Springfield Tavern,,51.6055519,-0.1227375,pub,,,,,,£,,,1.2,1500,false
+305728218,The Rising Sun,"Cotmans Ash Lane, TN15 6XD",51.3174134,0.241502,pub,,,,,,£,,,1.2,1500,false
+305760823,The White Swan,"14 New Row, London, WC2N 4LF",51.5111062,-0.1255283,pub,,,,2.7,51,£,,,1.2,1620,false
+306135577,Phoenix,"26 Throgmorton Street, London, EC2N 2AN",51.5149462,-0.0855573,pub,Mo-Fr 06:00-22:00; Sa 07:00-18:00; Su off,,,3.7,10,£,,,1.2,2220,true
+306553504,Prince Edward,,51.5554282,-0.1218795,pub,,,,,,£,,,1.2,1500,false
+306659436,The Stage Door,"30 Webber Street, London, SE1 8QA",51.5012622,-0.1073934,pub,Mo-Su 12:00-23:30,,,3.3,68,£,,,1.2,1980,true
+306666717,The Windmill,"86 The Cut, London, SE1 8LW",51.5029506,-0.1081212,pub,,79,,3.4,61,£,,,1.2,2121,false
+306966699,The Royal Sovereign,"64 Northwold Road, London, E5 8RL",51.5626442,-0.0631966,pub,,,,3.65,12,£,,,1.2,2190,false
+307852339,Queen Adelaide,"272 Kingston Road, KT19 0SH",51.3640598,-0.2577208,pub,,,,,,£,,,1.2,1500,false
+309516675,White Lion of Mortimer,"223 London Road, Mitcham, CR4 2JD",51.4065317,-0.1638081,pub,,357,,,,£,,,1.2,1768,false
+311135491,The Bell,"Bell Lane, KT22 9ND",51.2911387,-0.3548777,pub,,,,,,£,,,1.2,1500,false
+311153571,The Red Lion,"23 Crown Passage, London, SW1A 1EA",51.5056546,-0.1376692,pub,Mo-Fr 08:00-18:00; Sa 10:00-17:00,,,,,£,,,1.2,1500,true
+311188199,The Flask,,51.5566015,-0.1772469,pub,,,,,,£,,,1.2,1500,false
+311481378,Windsor Castle,"3 Lanark Place, London",51.5254495,-0.1788998,pub,,,,2.8,12,£,,,1.2,1680,false
+311877348,Dean's Bar,,51.5209322,-0.1231994,pub,Mo-Sa 12:00-23:00; Su 12:00-22:00,,,,,£,,,1.2,1500,true
+312156665,The Prince of Wales,"150-151 Drury Lane, London, WC2B 5TD",51.5145794,-0.121732,pub,Mo-We 12:00-22:30; Th-Sa 12:00-00:30; Su 12:00-21:30,,,2.45,43,£,,,1.2,1470,true
+312159181,The Albany,"240-242 Great Portland Street, London, W1W 5QU",51.523319,-0.143984,pub,Mo-Fr 06:00-19:30; Sa-Su 06:30-17:30,185,,2.9,51,£,,,1.2,1901,true
+312668636,The Colton Arms,,51.4865599,-0.210879,pub,,,,,,£,,,1.2,1500,false
+312669400,The Seven Stars,,51.4870402,-0.2031196,pub,,301,,,,£,,,1.2,1726,false
+313181168,Newmarket Ale House / Canecão,"17 York Way, London, N7 9QG",51.543225,-0.1260664,pub,,,,2.75,2,£,,,1.2,1650,false
+313234121,The Black Dog,"112 Vauxhall Walk, London, SE11 5ER",51.4886893,-0.1209019,pub,Mo-Sa 12:00-23:30; Su 12:00-21:30,,,2.85,29,£,,,1.2,1710,true
+313492137,The Cricketers,"Downside Common, Cobham, KT11 3NX",51.3119537,-0.4108014,pub,,411,,,,£,,,1.2,1808,false
+313617793,The Carpenter's Arms,,51.4925603,-0.2426718,pub,,,,,,£,,,1.2,1500,false
+313617797,The Cross Keys,,51.4918251,-0.2426222,pub,,,,,,£,,,1.2,1500,false
+314396579,The Jolly Coopers,"84 Wheelers Lane, KT18 7SD",51.3311789,-0.2817364,pub,,279,,,,£,,,1.2,1709,false
+314407484,The Famous Green Man,"71 High Street, KT17 1RX",51.3475594,-0.2497387,pub,,333,,,,£,,,1.2,1750,false
+315569400,Waters Edge,"Reservoir Road, Ruislip, HA4 7TY",51.5910706,-0.4327766,pub,Mo-Th 09:00-23:00; Fr-Su 08:00-23:00,1290,,,,£,,,1.2,2468,false
+315874745,Bricklayers Arms,"39-41 Chevening Road, TN13 2RZ",51.285343,0.1487956,pub,,,,,,£,,,1.2,1500,false
+316076964,The Cherry Tree,"32 Station Road, London, SE25 5AG",51.3973143,-0.0753947,pub,,,,2.6,42,£,,,1.2,1560,false
+316612862,The Boot,,51.6850364,-0.4936249,pub,,,,,,£,,,1.2,1500,false
+316613045,The Cricketers,,51.6822,-0.4918482,pub,,,,,,£,,,1.2,1500,false
+316763478,The Paternoster,"2-4 Queens Head Passage, London, EC4M 7DZ",51.5150683,-0.0983225,pub,,2192,,3.05,16,£,,,1.2,3836,false
+316951209,George and Dragon,"39 High Street, TN13 2RW",51.2846295,0.1535143,pub,,,,,,£,,,1.2,1500,false
+316955930,Harrow,"Harrow Road, TN14 7JT",51.3161445,0.1281919,pub,,,,3.25,4,£,,,1.2,1950,false
+317421622,The Star,"Leatherhead Road, KT22 0DP",51.3268564,-0.327641,pub,,452,,,,£,,,1.2,1839,false
+318020585,Kent House Tavern,,51.4164144,-0.045372,pub,,,,,,£,,,1.2,1500,false
+321477149,Three Horseshoes,,51.3156883,0.1241811,pub,,201,,,,£,,,1.2,1651,false
+321531072,Bullfinch,"London Road, TN13 2DR",51.2873464,0.1679082,pub,Mo-We 12:00-21:00; Th-Sa 12:00-22:00; Su 12:00-19:00,,,,,£,,,1.2,1500,true
+322959268,The Beehive,,51.4861851,-0.098272,pub,,,,,,£,,,1.2,1500,false
+326122792,The Lincoln,,51.6467723,-0.0653782,pub,Mo-Th 13:00-23:00; Fr-Sa 12:00-01:00; Su 12:00-22:00,,,,,£,,,1.2,1500,true
+327426281,The Bishop,"2 Bishop's Hall, Kingston upon Thames, KT1 1PY",51.4103079,-0.308042,pub,"Mo-Th,Su 11:30-22:00; Fr-Sa 11:30-23:00",,,,,£,,,1.2,1500,true
+327776603,Royal Oak,"68 High Street, Caterham, CR3 5UB",51.2850725,-0.088188,pub,Mo-Fr 08:30-15:30; Sa 08:30-16:00,,,,,£,,,1.2,1500,true
+327776606,Blacksmith Arms,"39 High Street, Caterham, CR3 5UE",51.2862707,-0.0883496,pub,"Fr,Sa 12:00-24:00, Su-Th 12:00-11:00",145,,,,£,,,1.2,1609,true
+327776607,The King & Queen,"34 High Street, Caterham, CR3 5UA",51.2860887,-0.0885576,pub,"Fr,Sa 12:00-24:00, Su-Th 12:00-11:00",,,,,£,,,1.2,1500,true
+330128385,The Gryphon Pub,"9 Vera Avenue, London, N21 1RE",51.642833,-0.0986945,pub,,442,,1.6,6,£,,,1.2,1172,false
+330128414,Willow,,51.6382801,-0.1108079,pub,,,,,,£,,,1.2,1500,false
+330128416,Fishmonger's Arms,"3 Winchmore Hill Road, London, N14 6AD",51.6337369,-0.1247827,pub,,,,3.05,16,£,,,1.2,1830,false
+331298014,The Crown,"116 Cloudesley Road, London, N1 0EB",51.5373158,-0.1095229,pub,Mo-Sa 12:00-23:00; Su 12:00-22:30,106,,2.85,51,£,,,1.2,1801,true
+331318827,The Regent,"201-203 Liverpool Road, London, N1 1LX",51.5389818,-0.1069786,pub,Mo-We 15:00-23:00; Th 12:00-23:00; Fr-Sa 12:00-00:00; Su 12:00-22:30,146,,,,£,,,1.2,1610,true
+331362139,The Green Gate,"492 West Green Road, London, N15 3DA",51.5878447,-0.0992823,pub,Mo-Su 12:30-22:00,82,,3.4,8,£,,,1.2,2124,true
+331529890,The Botwell Inn,"25–29 Coldharbour Lane, Hayes, UB3 3EB",51.5082215,-0.4166865,pub,,,,,,£,,,1.2,1500,false
+331933100,The Overdraft Tavern,,51.5394029,0.051311,pub,,633,,,,£,,,1.2,1975,false
+332118048,Euston Flyer,"83-87 Euston Road, London, NW1 2RA",51.5286655,-0.1267001,pub,Mo 10:00-23:00; Tu-Th 10:00-23:30; Fr 10:00-24:00; Sa 08:00-00:00; Su 09:00-23:00,1751,,3.25,109,£,,,1.2,3657,false
+333125738,The Bear,,51.4750095,-0.095975,pub,closed,221,,,,£,,,1.2,1666,true
+333125744,The Old Dispensary,,51.4743058,-0.0935548,pub,,178,,,,£,,,1.2,1634,false
+333205448,Two Brewers,,51.5462316,-0.1155259,pub,,,,,,£,,,1.2,1500,false
+333279289,The Miller's Well,"419-423 Barking Road, London, E6 2JX",51.5334728,0.0563692,pub,,137,,3.05,15,£,,,1.2,1955,false
+338463555,The Argyle,"1 Greville Street, London, EC1N 8PQ",51.5190993,-0.1088628,pub,"Mo-Fr 11:30-23:00, Sa 12:00-20:00",1686,,2.65,6,£,,,1.2,2930,false
+338472534,Sir Christopher Hatton,"4 Leather Lane, London, EC1N 7RA",51.5181575,-0.1088985,pub,"Mo-Th 10:00-23:30, Fr,Sa 10:00-00:30, Su 10:00-22:30",2360,,,,£,,,1.2,3270,false
+338504993,Horse and Wig,"14 Fulwood Place, London, WC1V 6HZ",51.5190282,-0.1135508,pub,,3218,,2.05,9,£,,,1.2,3209,false
+339394917,The Compton Arms,,51.5436556,-0.1020128,pub,,105,,,,£,,,1.2,1579,false
+339719862,BrewDog,"51-55 Bethnal Green Road, London, E1 6LA",51.524592,-0.0726328,pub,Mo-Th 12:00-00:00; Fr 12:00-02:00; Sa 11:00-02:00; Su 11:00-00:00,173,,3.2,17,£,,,1.2,2086,true
+343538005,Emporer Banqueting Suite,,51.586911,-0.097422,pub,,122,,,,£,,,1.2,1592,false
+343588242,Duke of Cambridge,,51.3940304,-0.0932017,pub,,,,,,£,,,1.2,1500,false
+344084670,Craft Beer Co.,"168 High Holborn, London, WC1V 7AA",51.515637,-0.125979,pub,Su-We 12:00-00:00;Th-Sa 12:00-01:00,691,,3.45,12,£,,,1.2,2785,false
+344369989,The Rose Battersea,"74-76 Battersea Bridge Road, London, SW11 3AG",51.4782512,-0.1701422,pub,,,,3.9,13,£,,,1.2,2340,false
+344791683,Bedford Tavern,"160 Seven Sisters Road, London, N7 7PT",51.5614137,-0.1121827,pub,,355,,2.25,4,£,,,1.2,1590,false
+344875284,Highbury Barn Tavern,,51.55382,-0.0980505,pub,Tu-Sa 13:00-22:00,348,,,,£,,,1.2,1761,true
+344875712,The Drayton Park Public House,"66 Drayton Park, London, N5 1ND",51.5534482,-0.1046613,pub,,110,,,,£,,,1.2,1583,false
+345871050,Rockwell,"2 Spring Gardens, London, SW1A 2TS",51.5073963,-0.1291207,pub,,1230,,,,£,,,1.2,2423,false
+347419938,Nº 1 Bar,,51.5060052,-0.08685,pub,,,,,,£,,,1.2,1500,false
+347693434,Running Horses,,51.482015,0.1796656,pub,,,,,,£,,,1.2,1500,false
+348782665,The Walrus,"172 Westminster Bridge Road, London, SE1 7RW",51.4999904,-0.1143845,pub,Mo-Fr 07:00-14:00; Sa-Su 07:00-12:00,113,,3.4,18,£,,,1.2,2155,true
+348817410,The Moon Under Water,"28 Leicester Square, London, WC2H 7LE",51.5102692,-0.1293371,pub,,,,,,£,,,1.2,1500,false
+348867089,Waxy's Little Sister,,51.511115,-0.131813,pub,Mo-Su 12:30-20:30,65,,,,£,,,1.2,1549,true
+348911273,White Horse,,51.51186,-0.133452,pub,Sa 11:00-16:00,77,,,,£,,,1.2,1558,true
+356973074,The Abbey Arms,"384 Barking Road, London, E13 8HL",51.5222325,0.0225555,pub,,205,,,,£,,,1.2,1654,false
+360417291,The Two Brewers,"30 High Street, TN14 7TD",51.3348234,0.1778332,pub,,,,,,£,,,1.2,1500,false
+360896276,Whelans,,51.5366383,-0.1125747,pub,,,,,,£,,,1.2,1500,false
+362359474,The Horatia,"98-100 Holloway Road, London, N7 8JE",51.5499802,-0.1084358,pub,,,,2.2,12,£,,,1.2,1320,false
+362582983,White mustache,"7a Stanhope Parade, London, NW1 3RD",51.5303666,-0.1411399,pub,Mo-Sa 08:00-22:00; Su 08:00-23:00,,,2,2,£,,,1.2,1200,true
+364654278,The Sporting Pages,"6 Camera Place, London",51.4845997,-0.1794648,pub,,120,,,,£,,,1.2,1590,false
+364654823,The Imperial Arms,,51.4786216,-0.1883136,pub,,162,,,,£,,,1.2,1622,false
+364655175,Wolfpack,"17 Vanston Place, London, SW6 1AY",51.4813478,-0.1981412,pub,,223,,3.3,38,£,,,1.2,2201,false
+364655406,The Atlas,"16 Seagrave Road, London",51.4861841,-0.1962858,pub,,,,,,£,,,1.2,1500,false
+366073061,The Old Tea Warehouse,"4-8 Creechurch Lane, London, EC3A 5AY",51.5135527,-0.0788734,pub,Mo-Fr 07:30-17:00,,,3.25,4,£,,,1.2,1950,true
+366073245,Hamilton Hall,"Liverpool Street, London, EC2M 7PY",51.5174006,-0.0809601,pub,Mo-Sa 07:00-23:30; Su 09:00-22:30,,,2.4,140,£,,,1.2,1440,true
+367883196,The Queens Head,"144 Richmond Road, Kingston upon Thames, KT2 5HA",51.4185611,-0.3013806,pub,,,,,,£,,,1.2,1500,false
+367924639,Zigfrid,"11 Hoxton Square, London, N1 6NU",51.5280278,-0.0816764,pub,Mo-We 16:00-01:00; Th 12:00-01:00; Fr-Sa 12:00-15:00; Su 12:00-00:00,107,,2.4,33,£,,,1.2,1517,true
+369119280,The Sterling Bar & Kitchen,"30 St. Mary Axe, London, EC3A 8BF",51.51452,-0.0800751,pub,,,,2.7,9,£,,,1.2,1620,false
+369718003,Letchford Arms,,51.6052933,-0.3588023,pub,,,,,,£,,,1.2,1500,false
+370092612,McCafferty's Bar,"128 Tottenham Lane, London, N8 7EL",51.5838486,-0.1165681,pub,Mo-Th 11:00-23:00; Fr-Sa 11:00-25:00; Su 11:00-23:00,189,,2.75,20,£,,,1.2,1806,true
+370187947,The Priory,"169 Priory Road, London, N8 8NB",51.5872491,-0.1325891,pub,"Mo-Su 11:00-24:00; Fr,Sa 11:00-23:00",234,,3.1,4,£,,,1.2,2078,true
+370202497,The Five Bells,"Church Road, TN15 0AU",51.2892502,0.2209333,pub,,,,,,£,,,1.2,1500,false
+370604215,The Beer House,"Terminus Place, London, SW1V 1JT",51.495503,-0.143319,pub,,,,,,£,,,1.2,1500,false
+371520154,Shoreditch House,"Ebor Street, London, E1 6AW",51.5237708,-0.0759056,pub,Mo-Th 16:00-23:00; Fr-Sa 12:00-23:00,,,,,£,,,1.2,1500,true
+371583850,Bohemia Bar,"1 Great Eastern Street, London, EC2A 3EJ",51.5227715,-0.0780898,pub,24/7,,,,,£,,,1.2,1500,true
+375792331,Dickens Tavern,"25 London Street, London, W2 1HH",51.5157797,-0.1745199,pub,06:00-24:00,,,2.45,41,£,,,1.2,1470,true
+375848733,Duke of Cambridge,"30 St. Peter's Street, London, N1 8JT",51.5345894,-0.0986938,pub,Tu-Sa 12:00-23:00; Su 1200-1800,,,2.9,67,£,,,1.2,1740,true
+377720122,The Durrell Arms,,51.4742491,-0.2072711,pub,,,,,,£,,,1.2,1500,false
+379822603,Pensbury Arms,,51.4712492,-0.1380284,pub,,,,,,£,,,1.2,1500,false
+380331450,The King's Head,"84 High Street, EN5 5SN",51.6534067,-0.2007979,pub,Mo-Sa 07:00-19:00; Su 08:00-18:00,991,,,,£,,,1.2,2243,false
+383932467,The Duke (of York),"London, WC1N 2PB",51.5228039,-0.1165486,pub,,70,,2.75,42,£,,,1.2,1708,false
+383980821,Green Man,"57 Berwick Street, London, W1F 8SR",51.5155449,-0.1366581,pub,Mo-We 11:00-23:30; Th-Sa 10:00-01:00; Su 10:00-22:30,,,2.6,36,£,,,1.2,1560,true
+385018022,The Wooden Cross,"153 Crouch Hill, London, N8 8DH",51.5780068,-0.1237718,pub,Mo-Th 12:00-23:30; Fr-Sa 12:00-24:30; Su 12:00-23:30,147,,2.85,22,£,,,1.2,1836,true
+385560795,The Willow Walk,"25 Wilton Road, London, SW1V 1LW",51.495038,-0.142477,pub,,,,2.3,67,£,,,1.2,1380,false
+385564475,Bradley's Spanish Bar,"42-44 Hanway Street, London",51.5165329,-0.1326779,pub,Mo-Sa 12:00-22:00; Su 12:00-18:00,60,,,,£,,,1.2,1545,true
+387542138,The Grove Tavern,"9 Grove Road, Surbiton, KT6 4BX",51.3965778,-0.3063333,pub,,,,,,£,,,1.2,1500,false
+387542814,The Antelope,"87 Maple Road, Surbiton, KT6 4AW",51.3951523,-0.3077357,pub,Mo-Fr 10:30-19:00; Sa 10:00-18:00; Su 11:00-17:00,,,,,£,,,1.2,1500,true
+387542886,Gordon Bennett!,"75 Maple Road, Surbiton, KT6 4AG",51.394756,-0.3081181,pub,24/7,,,,,£,,,1.2,1500,true
+388369545,Prince Albert,,51.455451,0.1528343,pub,,,,,,£,,,1.2,1500,false
+389031406,Kelsey House Bar & Kitchen,"75 High Street, Beckenham, BR3 1AN",51.4075507,-0.0260899,pub,,,,,,£,,,1.2,1500,false
+389596655,Camino,,51.5312173,-0.1216741,pub,Tu-Sa 17:00-23:00,1557,,,,£,,,1.2,2668,false
+390210193,Brewers Arms,,51.4720716,0.1601117,pub,,,,,,£,,,1.2,1500,false
+392184134,Maya Pub,"3 Shaftesbury Avenue, Harrow, HA2 0AJ",51.5721097,-0.3545269,pub,,1178,,,,£,,,1.2,2384,false
+392625788,O’Neill’s,"196 Clapham High Street, London, SW4 7UD",51.462091,-0.1379819,pub,"Mo-Th,Su 12:00-23:00; Fr-Sa 12:00-01:00",,,1.45,35,£,,,1.2,870,true
+393939213,Well House Inn,,51.2825986,-0.1969586,pub,,,,,,£,,,1.2,1500,false
+394942390,The Wibbas Down Inn,"6-12 Gladstone Road, London, SW19 1QT",51.4190546,-0.2022217,pub,Su-Th 08:00-00:00; Fr-Sa 08:00-01:00,2158,,,,£,,,1.2,3118,false
+394943631,O'Neills,"66 The Broadway, London, SW19 1RQ",51.4197677,-0.2026026,pub,Su-Th 09:00-00:00; Fr-Sa 09:00-02:00,,,2.2,44,£,,,1.2,1320,true
+400899977,The Raven,"375 Goldhawk Road, London",51.4950799,-0.2445682,pub,,,,3.25,71,£,,,1.2,1950,false
+401787724,The White Hart,,51.4809887,0.1813908,pub,,,,,,£,,,1.2,1500,false
+402386714,Pocket Watch,"434 Uxbridge Road, London, W12 0NS",51.5065799,-0.2386957,pub,"Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00 || Mo-Fr 12:00-22:00 open ""Kitchen"" || Sa 10:00-22:00; Su 10:00-21:00 open ""Kitchen""",169,,2.6,12,£,,,1.2,1692,true
+403454627,Big Red,"385 Holloway Road, London, N7 0RY",51.5573872,-0.1191956,pub,Mo 09:30-18:00; Tu 09:30-19:00; We-Fr 09:30-18:00; Sa 09:00-18:00; Su 10:30-16:00,,,3.25,50,£,,,1.2,1950,true
+404338924,Halfway House,"165 Lower Road, DA17 6DQ",51.490328,0.162122,pub,,,,,,£,,,1.2,1500,false
+408561640,Angie's III,,51.5480318,-0.2235729,pub,"Mo-Fr 10:00-19:00, Sa 10:00-05:00, Su 11:00-04:00",128,,,,£,,,1.2,1596,true
+408822880,The Leather Bottle,,51.4889555,0.1428164,pub,,,,,,£,,,1.2,1500,false
+410770997,The Haydon Arms,,51.6424863,-0.3779581,pub,,,,,,£,,,1.2,1500,false
+410936555,Lucky 7,,51.5572254,-0.2148383,pub,Mo-Sa 07:00-23:00; Su 11:00-17:00,,,,,£,,,1.2,1500,true
+410949906,McGovern's,"Cricklewood Broadway, London",51.5559388,-0.2145933,pub,,,,2.3,7,£,,,1.2,1380,false
+411005630,The Elephant's Head,,51.2886682,0.1984407,pub,,,,,,£,,,1.2,1500,false
+411018671,The Corner Pin,,51.4714497,0.1932779,pub,,,,,,£,,,1.2,1500,false
+411115264,The Windmill,Cricklewood Broadway,51.5535658,-0.2120334,pub,Mo-Sa 09:00-18:00,,,,,£,,,1.2,1500,true
+411115268,The Beaten Docket,"Cricklewood Broadway, London",51.5536653,-0.2115593,pub,,,,,,£,,,1.2,1500,false
+411823454,Blue Anchor,,51.2902423,0.3241153,pub,,,,,,£,,,1.2,1500,false
+411842443,White Bear,,51.634092,-0.4671166,pub,,,,,,£,,,1.2,1500,false
+411901766,The Castlebar,"84 Uxbridge Road, London, W13 8RA",51.5116701,-0.3154088,pub,,,,,,£,,,1.2,1500,false
+412209049,The Rusty Bucket,"11 Court Yard, London, SE9 5PR",51.450381,0.0521384,pub,Mo-Th 16:00-23:00; Fr 16:00-23:00; Sa 12:00-23:00; Su 16:00-22:00,,,1.3,14,£,,,1.2,780,true
+412811751,The New Inn,,51.286174,0.195424,pub,,,,,,£,,,1.2,1500,false
+415409958,The Duke's Head,"53 Crayford High Street, DA1 4EJ",51.4530415,0.1766114,pub,,,,,,£,,,1.2,1500,false
+415580971,The Copper Tap,"190-192 Peckham High Street, London, SE15 5EG",51.473719,-0.0641206,pub,,,,3.5,5,£,,,1.2,2100,false
+415673841,The Bear and Ragged Staff,"2 London Road, DA1 4BH",51.4518527,0.1779385,pub,,,,,,£,,,1.2,1500,false
+416631800,The Bell,,51.5621378,-0.4133708,pub,,,,,,£,,,1.2,1500,false
+419139639,The Hammersmith Ram,,51.4924346,-0.2283606,pub,Mo-Sa 10:00-18:00; Su 12:00-16:00,,,,,£,,,1.2,1500,true
+420314199,The Oak,"206 Widmore Road, Bromley, BR1 2RH",51.4057763,0.0343248,pub,,,,,,£,,,1.2,1500,false
+420364348,The Crown of Bromley,14 Masons Hill,51.3979054,0.0204984,pub,Mo off; Tu-Th 12:00-22:30; Fr-Sa 12:00-23:30; Su 12:00-22:00,285,,,,£,,,1.2,1714,true
+420598822,The Sydney Arms,,51.4149186,0.0881226,pub,,,,,,£,,,1.2,1500,false
+420752275,Metropolis,"256 High Street, Bromley, BR1 1PG",51.4069343,0.0118379,pub,,,,,,£,,,1.2,1500,false
+420752293,Star & Garter,"227 High Street, Bromley, BR1 1NZ",51.4067816,0.0125496,pub,,,,,,£,,,1.2,1500,false
+420771845,The Railway Tavern,"45 East Street, Bromley, BR1 1QQ",51.4077635,0.0164973,pub,Mo-Th 16:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-22:30,,,,,£,,,1.2,1500,true
+420771859,O'Neills,"27-29 East Street, Bromley, BR1 1QE",51.4070401,0.0159088,pub,Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su off,,,,,£,,,1.2,1500,true
+422887154,The Ram,"34 High Street, Kingston upon Thames, KT1 1HL",51.4081202,-0.3076987,pub,"Mo-Th,Su 12:00-23:00; Fr-Sa 12:00-24:00",,,,,£,,,1.2,1500,true
+425175495,King Charles I,"55-57 Northdown Street, London, N1 9BL",51.5324518,-0.1197093,pub,Mo-Th 12:00-23:00; Fr 12:00-00:00; Sa 12:00-23:00; Su 12:00-22:00,,,3.5,100,£,,,1.2,2100,true
+425362689,The Shepherd and Flock,84 Goldhawk Road,51.5021889,-0.228507,pub,,,,3.1,20,£,,,1.2,1860,false
+427032664,The Lounge,,51.4219574,0.0619025,pub,Mo-Su 06:30-22:00,,,,,£,,,1.2,1500,true
+429257204,The Great North Wood,"3 Knights Hill, London, SE27 0HS",51.4315293,-0.1039329,pub,,,,2.3,7,£,,,1.2,1380,false
+430432974,The Water Rats,"328 Gray's Inn Road, London, WC1X 8BZ",51.5290018,-0.1195828,pub,"Su-Th 08:00-24:00, Fr-Sa 08:30-01:00",,,2.65,24,£,,,1.2,1590,true
+432011113,The Cannon,"17 High Street, West Molesey, KT8 2NA",51.4024646,-0.370847,pub,,,,,,£,,,1.2,1500,false
+441202439,Duke of Cambridge,"228 Battersea Bridge Road, London, SW11 3AA",51.4729383,-0.1660967,pub,Mo-Sa 11:00-23:00; Su 11:00-22:30,,,2.9,28,£,,,1.2,1740,true
+441292032,Plume of Feathers,,51.485632,0.0996762,pub,,,,,,£,,,1.2,1500,false
+441312009,O'Dowds,,51.4885639,0.0893341,pub,,,,,,£,,,1.2,1500,false
+443032351,The Phoenix,23 Smith Street,51.4885827,-0.16266,pub,,,,,,£,,,1.2,1500,false
+444540131,Amersham Arms,"388 New Cross Road, London, SE14 6TY",51.4757315,-0.0325764,pub,Su-We 12:00-24:00; Th-Sa 12:00-27:00,,,3.55,63,£,,,1.2,2130,true
+444635647,Five Bells Public House,"Church Road, Orpington, BR6 7RE",51.357365,0.1276536,pub,,240,,,,£,,,1.2,1680,false
+446882323,Nova Cafe,,51.518181,-0.2088068,pub,"Fr,Sa,Su",,,,,£,,,1.2,1500,true
+446882529,The Knight of Notting Hill,"139 Lancaster Road, London, W10 6HJ",51.5169298,-0.20989,pub,"Su-Th 11:00-24:00, Fr,Sa 11:00-01:00",,,,,£,,,1.2,1500,true
+447490509,The White Horse,"64 Palace Road, Bromley, BR1 3JX",51.4097827,0.0210575,pub,,,,,,£,,,1.2,1500,false
+447785371,The Rose,"1 Rose Street, Northfleet, DA11 9EQ",51.4453931,0.327051,pub,,,,,,£,,,1.2,1500,false
+448037423,Ivyleaf,,51.4413705,0.2244757,pub,,,,,,£,,,1.2,1500,false
+448751013,The Sun,"16 Swanscombe Street, Dartford, DA10 0BG",51.4426378,0.3117353,pub,,,,,,£,,,1.2,1500,false
+449207412,Old Tigers Head,"351 Lee High Road, London, SE12 8RU",51.4568581,0.0113057,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-22:00,,,2.8,21,£,,,1.2,1680,true
+449213965,Duke of Edinburgh,"394 Lee High Road, London, SE12 8RW",51.4567562,0.0093084,pub,Su 10:00-19:00; Tu-Th 12:00-20:00; Fr 12:00-21:00; Sa 10:00-21:00,,,1.55,10,£,,,1.2,930,true
+452215462,The Leicester Arms,"44 Glasshouse Street, London",51.510566,-0.1376134,pub,,192,,,,£,,,1.2,1644,false
+452433527,The Gunmakers,,51.5224993,-0.1104184,pub,,,,,,£,,,1.2,1500,false
+454200832,Kings Arms,,51.3352487,0.0297436,pub,,115,,,,£,,,1.2,1586,false
+456408662,Patrick's,"5 High Street, Beckenham, BR3 1AZ",51.4106029,-0.0247443,pub,,,,,,£,,,1.2,1500,false
+458213711,Cressy Arms,"1 Hawley Road, Dartford, DA1 1NP",51.4346017,0.2156993,pub,,,,,,£,,,1.2,1500,false
+459250820,Kings Head,"126 Blackstock Road, London, N4 2DR",51.5615953,-0.0998166,pub,Su-th 11:00-24:00; fr-sa 11:00-01:00,,,4,8,£,,,1.2,2400,true
+459269359,The Clarence,"102 Stoke Newington Church Street, London, N16 0LA",51.5622912,-0.0789926,pub,Tu-Fr 09:30-18:00; Sa 09:00-17:00; Su 09:30-16:00,,,3,60,£,,,1.2,1800,true
+459805640,Golden Fleece,,51.6176396,-0.0636349,pub,,,,,,£,,,1.2,1500,false
+459819389,The Bill Nicholson,,51.6056756,-0.061585,pub,,,,,,£,,,1.2,1500,false
+460531077,P.J. O'Connor's,"239 High Road, London",51.5982203,-0.1109739,pub,,,,,,£,,,1.2,1500,false
+460668847,Mannions Prince Arthur,"158 Broad Lane, London, N15 4QJ",51.5847587,-0.0642382,pub,,,,3.45,8,£,,,1.2,2070,false
+462025244,Barley Mow,"82 Duke Street, London",51.5129113,-0.1509087,pub,Mo-Fr 08:00-18:00; Sa-Su 09:00-18:00,,,3.7,31,£,,,1.2,2220,true
+466926232,The Crown,,51.5111757,-0.1363142,pub,"Tu 17:00-23:00; We-Sa 12:00-15:00, 17:00-01:30; Su 12:00-20:00",,,,,£,,,1.2,1500,true
+472446463,Hare and Hounds,,51.5687971,-0.0287631,pub,,,,,,£,,,1.2,1500,false
+475257316,The Hanover Arms,"326 Kennington Park Road, London, SE11 4PP",51.4813791,-0.1130873,pub,,,,3.3,36,£,,,1.2,1980,false
+475933772,The Castle,"34-35 Cowcross Street, London, EC1M 6DB",51.5202193,-0.1041739,pub,Mo-Su 10:00-23:00,,,3.1,71,£,,,1.2,1860,true
+477938811,The Phoenix,"Alexandra Palace Way, London, N10 2QE",51.5933146,-0.131956,pub,Mo-Th 11:00-22:30; Fr-Sa 11:00-23:00; Su 11:00-22:30,30183,,,,£,,,1.2,24137,false
+479625238,The Talma,,51.4307728,-0.065099,pub,,,,,,£,,,1.2,1500,false
+479652529,The Fox & Hounds Pub,"150 Kirkdale, London, SE26 4BB",51.4309935,-0.0598895,pub,Su-Th 12:00-23:00; Fr-Sa 12:00-00:00,,,2.7,7,£,,,1.2,1620,true
+480829681,The Mother Redcap,,51.5648097,-0.1329722,pub,,169,,,,£,,,1.2,1627,false
+489280707,The Oak,"98 Richmond Road, Kingston upon Thames, KT2 5EN",51.4163692,-0.3012289,pub,,,,,,£,,,1.2,1500,false
+489706578,The Mitre,"40 Holland Park Avenue, London, W11 3QY",51.5079559,-0.2034601,pub,Mo-Sa 12:00-22:00; Su 12:00-21:00,,,2.5,41,£,,,1.2,1500,true
+489826802,Shepherds Tavern,"50 Hertford Street, London",51.5061405,-0.1477362,pub,,,,,,£,,,1.2,1500,false
+491564007,The Beehive,"36 New North Road, London, N1 6TE",51.5318451,-0.0863304,pub,,,,2.5,7,£,,,1.2,1500,false
+496843507,The Olive Branch,"169 Park Lane, London, N17 0HJ",51.602594,-0.0599533,pub,,1482,,2.9,6,£,,,1.2,3029,false
+499350848,The Argyll Arms,"18 Argyll Street, London",51.5150632,-0.141263,pub,Mo-Sa 10:00-20:00; Su 12:00-18:00,70,,,,£,,,1.2,1553,true
+501851083,The North Pole,"189-190 New North Road, London",51.53747,-0.091168,pub,Tu-Fr 16:00+; Sa-Su 12:00+,,,,,£,,,1.2,1500,true
+512246937,The Sovereign of the Seas,"109-111 Queensway, Orpington, BR5 1DG",51.3893065,0.0720908,pub,,218,,,,£,,,1.2,1664,false
+517569262,The Saddlers Arms,"Send Marsh Road, GU23 6JQ",51.2900774,-0.5095569,pub,,220,,,,£,,,1.2,1665,false
+520017940,The Royal Hotel,,51.4828236,0.2311482,pub,,,,,,£,,,1.2,1500,false
+520913454,The Antwerp Arms,"168-170 Church Road, London, N17 8AS",51.6018786,-0.0747509,pub,Tu-Th 16:00-23:00; Fr 14:00-00:00; Sa 12:00-00:00; Su 12:00-22:30,,,3.25,13,£,,,1.2,1950,true
+521894618,The Williow Tree,,51.370384,-0.2497953,pub,Mo-Su 11:00-23:00,,,,,£,,,1.2,1500,true
+529116490,The Ship,"499 High Road, London, N17 6QA",51.5933152,-0.0698235,pub,Mo-Sa 09:00-18:00; Su off,,,1.75,14,£,,,1.2,1050,true
+529875654,Fox @ Excel,"2 Western Gateway, London, E16 1XL",51.5088147,0.0255735,pub,,,,,,£,,,1.2,1500,false
+529912984,The Crown and Anchor,"19 Park Road, Bromley, BR1 3HJ",51.4077953,0.021055,pub,"Tu-Th,Su 12:00-23:00; Fr,Sa 12:00-23:30",,,,,£,,,1.2,1500,true
+530221602,The Taps,,51.653092,-0.0803774,pub,,,,,,£,,,1.2,1500,false
+534962782,The Sheaf,"21 Southwark Street, London, SE1 1TY",51.5048141,-0.0911485,pub,"Mo-Th 12:00-23:00; Fr,Sa 12:00-24:00; Su 12:00-22:30",,,3.4,71,£,,,1.2,2040,true
+535099403,Railway Tavern,"129 Hale Lane, London, NW7 3SB",51.6166359,-0.2594853,pub,Mo-Th 11:30-23:00; Fr-Sa 11:30-25:00; Su 11:30-22:30,,,2.2,16,£,,,1.2,1320,true
+537956105,The Builders Arms,,51.6507828,-0.1730982,pub,,223,,,,£,,,1.2,1667,false
+538095703,The Black Lion,,51.3761759,0.3040356,pub,,,,,,£,,,1.2,1500,false
+538095704,White Swan,,51.357184,0.294213,pub,,,,,,£,,,1.2,1500,false
+538095707,Rising Sun,DA3 8NL,51.366628,0.275959,pub,,,,,,£,,,1.2,1500,false
+539689482,Eastside,,51.4989739,-0.1720838,pub,,,,,,£,,,1.2,1500,false
+540426530,The Swan,,51.5201894,-0.5037862,pub,,,,,,£,,,1.2,1500,false
+544327272,The Turk's Head,,51.5320798,-0.455457,pub,,,,,,£,,,1.2,1500,false
+547540206,The New Moon,"25-26 Kenton Road, Harrow, HA3 8DN",51.5872693,-0.304253,pub,"Mo-Th 10:00-00:00,Fr 10:00-01:00,Sa 09:00-01:00,Su 09:00-00:00",,,,,£,,,1.2,1500,true
+550437192,The Fat Walrus,"44 Lewisham Way, London, SE14 6NP",51.4739677,-0.0341953,pub,We-Fr 16:00-23:00; Sa 12:00-23:00; Su 12:00-20:00,,,1.9,25,£,,,1.2,1140,true
+559985361,The Old Justice,Farncombe Street,51.5001947,-0.0642294,pub,,,,,,£,,,1.2,1500,false
+565470149,Royal George,"133 Charing Cross Road, London, WC2H 0EA",51.5151393,-0.130809,pub,"Mo-Su 23:00-23:59, 00:00-03:00",,,3.2,52,£,,,1.2,1920,true
+566313869,Punch & Judy,,51.5118249,-0.1230419,pub,"Mo-Sa 10:00-20:00; Su,PH 10:00-19:00",,,,,£,,,1.2,1500,true
+567052197,The New Inn,"62 St Marys Road, London, W5 5EX",51.5050789,-0.3057201,pub,Mo-Fr 08:30-17:00; Sa-Su 09:00-17:00; Fr-Sa 18:00-23:00,,,2.9,36,£,,,1.2,1740,true
+568198493,Fox and Hounds,"29 Passmore Street, London, SW1W 8HR",51.4910922,-0.1549035,pub,,,,3.35,66,£,,,1.2,2010,false
+573854610,The Henry Addington,"22-28 Mackenzie Walk, London, E14 4PH",51.5043058,-0.0225667,pub,Mo-Sa 12:00-23:00; Su 12:00-18:00,,,2.45,42,£,,,1.2,1470,true
+587850226,Spit and Sawdust,"21 Bartholomew Street, London, SE1 4AL",51.4948102,-0.0887005,pub,,203,,2.5,4,£,,,1.2,1652,false
+591974938,The Monument,"18 Fish Street Hill, London, EC3R 6DB",51.5100863,-0.0862828,pub,"Mo-We, Fr-Sa 11:00-23:00; Th 11:00-00:00; Su 12:00-19:00",,,,,£,,,1.2,1500,true
+592037510,Clinks Bar,,51.5053968,-0.0952802,pub,,1820,,,,£,,,1.2,2865,false
+593452626,The Ranelagh,,51.6087366,-0.1271943,pub,,,,,,£,,,1.2,1500,false
+596495525,The Birchwood,"Grovebury Road, London, SE2 9BB",51.497791,0.1151296,pub,,976,,3.4,4,£,,,1.2,3036,false
+596791858,South End Green Social,"154-156 Fleet Road, London",51.554133,-0.164588,pub,,,,,,£,,,1.2,1500,false
+596791860,The Magdala,"2a South Hill Park, London, NW3 2SB",51.5555828,-0.1656213,pub,,,,3.75,24,£,,,1.2,2250,false
+597238716,The Aspen Tree,,51.6003652,0.1772876,pub,,,,,,£,,,1.2,1500,false
+597243177,The Alderman,,51.605323,0.2187224,pub,,,,,,£,,,1.2,1500,false
+597262984,The Morris Dancer,,51.5992056,0.2303524,pub,,,,,,£,,,1.2,1500,false
+598355051,The Victoria,"Axe Street, Barking, IG11 7LZ",51.535343,0.0796786,pub,,,,,,£,,,1.2,1500,false
+599572738,Charlotte Despard,,51.5683619,-0.1366167,pub,,,,,,£,,,1.2,1500,false
+601521583,The Tankard,"111 Kennington Road, London, SE11 6SF",51.4953279,-0.1106915,pub,,,,2.55,7,£,,,1.2,1530,false
+601523012,The Ship,"171 Kennington Road, London, SE11 6SF",51.4931919,-0.1105588,pub,Mo-Th 15:00-23:00; Fr 15:00-00:00; Sa 11:30-00:00; Su 12:00-22:30,,,,,£,,,1.2,1500,true
+603248300,White Horse,,51.3889404,-0.0908287,pub,,,,,,£,,,1.2,1500,false
+605393006,The Gladstone,,51.4894265,-0.093757,pub,,,,,,£,,,1.2,1500,false
+605393296,The Bell,,51.488455,-0.093289,pub,,,,,,£,,,1.2,1500,false
+605393557,Good Intent,"24-26 East Street, London, SE17 2DN",51.487872,-0.094495,pub,,,,,,£,,,1.2,1500,false
+611889351,Railway Tavern,"401 Southend Lane, London, SE26 5BH",51.4279898,-0.0332121,pub,,,,2.15,3,£,,,1.2,1290,false
+615621429,Fox and Hounds,"66-68 Latchmere Road, London, SW11 2JU",51.4671126,-0.1628828,pub,"Mo-Th 17:00-23:00; Fr,Sa 12:00-23:00; Su 12:00-22:30",126,,3,32,£,,,1.2,1913,true
+618596228,The Green Man,"144a Essex Road, London, N1 8LX",51.5395657,-0.09727,pub,,,,2.25,4,£,,,1.2,1350,false
+618653525,Wetherspoons,London,51.495106,-0.1441475,pub,Mo-We 05:30-23:00; Th-Fr 05:30-24:00; Sa 05:30-00:30; Su 05:30-23:00,,,,,£,,,1.2,1500,true
+622515303,Corbet Place,"15 Hanbury Street, London, E1 6QR",51.520691,-0.07375,pub,,,,,,£,,,1.2,1500,false
+623428274,The Riverfront pub,,51.5072244,-0.1157002,pub,Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 11:00-22:00,4210,,,,£,,,1.2,4658,false
+630503145,Alice House,"283-285 West End Lane, London, NW6 1RD",51.5509213,-0.1916885,pub,,,,3.15,10,£,,,1.2,1890,false
+631298788,Duke of Cornwall,,51.4905527,-0.2237557,pub,,,,,,£,,,1.2,1500,false
+631298804,Distillers,,51.4893138,-0.223209,pub,,178,,,,£,,,1.2,1634,false
+631298816,Old Suffolk Punch,,51.4887915,-0.2229529,pub,"Mo-Th 10:30-23:30; Fr 10:30-01:00, Sa 12:00-01:00, Su 12:00-22:30",,,,,£,,,1.2,1500,true
+638573373,The Cock,"Shoreham Lane, TN14 7DD",51.3307042,0.1359497,pub,,,,,,£,,,1.2,1500,false
+638573426,Rose and Crown,"Otford Lane, TN14 7EA",51.3293434,0.1361749,pub,,,,,,£,,,1.2,1500,false
+638738965,The Manor Arms,"150 East India Dock Road, London, E14 0BP",51.5107112,-0.0191418,pub,,,,,,£,,,1.2,1500,false
+638940780,The Rising Sun,"Twitton Lane, TN14 5JR",51.313611,0.1677084,pub,,,,,,£,,,1.2,1500,false
+646585258,The Barrel Vault,"Unit 23 The Circle, Saint Pancras Station, London, N1C 4QP",51.5327455,-0.1262925,pub,"Mo-Th 07:00-00:00; Fr, Sa 07:00-01:00; Su 08:00-23:00",45400,,,,£,,,1.2,35550,false
+647873586,The Dolphin Tavern,"44, London, WC1R 4PF",51.519968,-0.117691,pub,Mo-Fr 11:30-15:00,,,2.25,31,£,,,1.2,1350,true
+651539992,The Tichenham Inn,"11 Swakeleys Road, Uxbridge, UB10 8DF",51.5644308,-0.4447813,pub,,223,,,,£,,,1.2,1667,false
+656954583,Small Beer,"22 Tottenham Lane, London, N8 8PT",51.5802977,-0.1231212,pub,Mo-We 16:00-01:00; Th-Fr 16:00-02:00; Sa 12:00-02:00; Su 12:00-01:00,123,,3.1,9,£,,,1.2,1974,true
+658958423,Yucatan Bar,"121 Stoke Newington Road, London, N16 8BT",51.55592,-0.0746704,pub,,,,3.6,19,£,,,1.2,2160,false
+659512226,The Pavillion,"325 Kirkdale, London, SE26 4QB",51.4267585,-0.0549107,pub,Mo-Th 11:00-23:00; Fr-Sa 11:00-01:00; Su 11:00-22:30,157,,2.55,8,£,,,1.2,1650,true
+663887781,The Jolly Sailor,"64 High Street, London, SE25 6EB",51.3992942,-0.0745606,pub,Mo-We 14:00-23:00; Th 14:00-00:00; Fr 13:00-00:00; Sa 12:00-00:00; Su 12:00-23:00,,,2.75,15,£,,,1.2,1650,true
+663887799,The Albion,"26 High Street, London, SE25 6HA",51.3996517,-0.0745544,pub,,,,2.05,14,£,,,1.2,1230,false
+666209570,Berneliu Uzeiga - Shepherds Inn,"16 Mary Rose Mall, London, E6 5LX",51.5143494,0.0571765,pub,Mo-Su 12:00-22:00,527,,1.55,7,£,,,1.2,1175,false
+671436568,The Office,"15 Oldfields Circus, Northolt, UB5 4RR",51.5521446,-0.350405,pub,,,,,,£,,,1.2,1500,false
+672510074,Abercorn Arms,Stanmore Hill,51.6210616,-0.3159056,pub,,,,,,£,,,1.2,1500,false
+672835711,The Alfred Herring,"316-322 Green Lanes, London, N13 5TT",51.6193797,-0.1068029,pub,,525,,2.55,31,£,,,1.2,1932,false
+675803384,The Golden Lion,,51.5063153,-0.1374883,pub,,,,,,£,,,1.2,1500,false
+675808547,Davy's,"Crown Passage, London, SW1Y 6QY",51.5060459,-0.1380125,pub,Mo-Fr 12:00-22:00,615,,3.25,28,£,,,1.2,2550,false
+675867856,The Red Lion,,51.5083234,-0.1364346,pub,,,,,,£,,,1.2,1500,false
+675942580,Three Crowns,"Babmaes Street, London",51.5086113,-0.1351466,pub,,2174,,2.95,12,£,,,1.2,3694,false
+676853367,The North Star,,51.5458914,-0.1782275,pub,,,,,,£,,,1.2,1500,false
+677225981,O'Donnell's Bar,"399 Northolt Road, Harrow, HA2 8JE",51.5604007,-0.3581432,pub,,,,,,£,,,1.2,1500,false
+679821063,Hawkins Forge,"110 Battersea Rise, London, SW11 1EJ",51.4606421,-0.1690263,pub,,,,2.1,23,£,,,1.2,1260,false
+684522391,The Rising Sun,"120 Loampit Vale, London, SE13 7SN",51.4655611,-0.0183026,pub,,194,,3.4,20,£,,,1.2,2238,false
+686784644,The Kenley Hotel,"62 Godstone Road, Kenley, CR8 5AA",51.3257979,-0.1008116,pub,,165,,,,£,,,1.2,1624,false
+687158190,The Swimmer At The Grafton Arms,"13 Eburne Road, London, N7 6AR",51.5595085,-0.1194561,pub,Mo-Fr 17:00-23:00; Sa 12:00-23:00; Su 12:00-22:30,,,3.35,58,£,,,1.2,2010,true
+689572058,The White Horse,"205 - 213 High Street, Beckenham, BR3 1AH",51.4066324,-0.0309764,pub,11:30-22:00,,,,,£,,,1.2,1500,true
+689658582,The Wheatsheaf,"135 High Street, West Wickham, BR4 0LU",51.3769321,-0.0210828,pub,,,,,,£,,,1.2,1500,false
+689658583,The Apple Tree,,51.3697407,-0.0307264,pub,,,,,,£,,,1.2,1500,false
+691632516,Brewmaster,,51.5113231,-0.1281015,pub,"Mo-Fr 11:00-24:00; Sa,Su 10:00-24:00",112,,,,£,,,1.2,1584,true
+691636621,Round Table,"26-27 St Martin's Court, London, WC2N 4AL",51.5109133,-0.1280618,pub,Mo-Su 11:30-22:00; Th-Sa 11:30-23:00,,,,,£,,,1.2,1500,true
+692162535,Lamb Tavern,"10-12 Leadenhall Market, London, EC3V 1LR",51.5128384,-0.0832871,pub,Mo 11:30-20:00; Tu-Fr 11:30-22:30; Sa-Su 12:00-17:00,,,3.45,76,£,,,1.2,2070,true
+701191952,The Waggon & Horses,,51.3717235,-0.4984943,pub,,,,,,£,,,1.2,1500,false
+715509382,The Crayford Arms,"37 Crayford High Street, Dartford, DA1 4HH",51.4526941,0.1769785,pub,,,,,,£,,,1.2,1500,false
+733975796,The New Crown,"80-84 Chase Side, London, N14 5PH",51.6333482,-0.1305923,pub,Mo-Sa 09:00-17:30; Su 11:00-17:00,,,2.2,9,£,,,1.2,1320,true
+739464861,The Bell Inn,"4 Bell Road, East Molesey, KT8 0SS",51.3982037,-0.3541646,pub,,,,,,£,,,1.2,1500,false
+739967562,The Walrus & The Carpenter,"45 Monument Street, London, EC3R 8BU",51.5095114,-0.0842105,pub,"Mo-Fr 11:30-15:00, 18:00-23:00",,,2.8,48,£,,,1.2,1680,true
+763170888,General Havelock,,51.5598078,0.0765491,pub,Mo-Su 06:00-23:00,224,,,,£,,,1.2,1668,true
+766996017,British Legion,,51.3830786,-0.3207803,pub,,607,,,,£,,,1.2,1955,false
+790572009,The Three Fishes,"35 Green Street, Sunbury-on-Thames, TW16 6RE",51.4056891,-0.4135296,pub,,,,,,£,,,1.2,1500,false
+796482320,Cock and Woolpack,"6 Finch Lane, London, EC3V 3NA",51.5137032,-0.0858011,pub,,,,3.55,41,£,,,1.2,2130,false
+800705084,The Sun Inn,"7 Church Road, London, SW13 9HE",51.4734842,-0.2473424,pub,,,,2.15,118,£,,,1.2,1290,false
+802966782,Furlong,"89 Colney Hatch Lane, London, N10 1LR",51.5997639,-0.1476478,pub,Mo-Sa 12:00-23:00,,,3.45,11,£,,,1.2,2070,true
+812151434,Whelan's,"341 Oxgate Lane, London, NW2 7HS",51.5667671,-0.233309,pub,,,,3,4,£,,,1.2,1800,false
+812415878,The Rocket,"Brewhouse Lane, London, SW15 2JQ",51.4655321,-0.2130828,pub,,,,,,£,,,1.2,1500,false
+815398933,The Bill Murray,"39 Queen's Head Street, London, N1 8NQ",51.5362508,-0.0988191,pub,,,,3.6,106,£,,,1.2,2160,false
+831456411,The Lord Southampton,,51.5497411,-0.156314,pub,,,,,,£,,,1.2,1500,false
+833772427,The Dolphin,"47 Tonbridge Street, London, WC1H 9DW",51.5288971,-0.124761,pub,,,,,,£,,,1.2,1500,false
+849138031,The Cavalier,,51.6297824,-0.1578989,pub,,,,,,£,,,1.2,1500,false
+850211093,Manor Farm Barn,,51.4134316,0.3287632,pub,,415,,,,£,,,1.2,1811,false
+851223228,Callaghan's,"Coram Street, London, WC1N 1HT",51.5240185,-0.1249796,pub,"Mo-Su,PH 00:00-23:59+",,,1.75,13,£,,,1.2,1050,true
+851267854,The Britannia,"5 Brewer's Lane, Richmond, TW9 1HH",51.460913,-0.3050555,pub,Mo-Sa 09:00-17:00,,,,,£,,,1.2,1500,true
+851802181,The Running Mare,"45 Tilt Road, Cobham, KT11 3EZ",51.3245577,-0.4014392,pub,"Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",,,,,£,,,1.2,1500,true
+858431027,Duke of Wellington,"12-14 Toynbee Street, London, E1 7NE",51.517868,-0.07459,pub,,,,3,22,£,,,1.2,1800,false
+862464724,The Crown,"153 Dovehouse Street, London",51.4902108,-0.1733776,pub,"Mo-Fr 12:00-15:00,17:00-22:00; Sa 12:00-21:00; Su 12:00-19:00",,,,,£,,,1.2,1500,true
+867528389,Wheelwrights Arms,"60 Clarence Street, Kingston upon Thames, KT1 1NP",51.4106074,-0.3016953,pub,Mo-Sa 10:00-19:00; Su 11:00-19:00,9510,,,,£,,,1.2,8633,false
+867529169,O'Neills,"3 Eden Street, Kingston upon Thames, KT1 1BQ",51.4092146,-0.3055864,pub,Mo-Sa 07:00-17:00; Su 08:00-17:00,469,,,,£,,,1.2,1852,true
+881370103,Sir Robert Peel,"108 Malden Road, London, NW5 4DA",51.5490983,-0.1527848,pub,,,,3,6,£,,,1.2,1800,false
+896149763,Tony's,,51.54892,-0.2415688,pub,,,,,,£,,,1.2,1500,false
+896383686,Ward's Free House,"38-40 Lowlands Road, Harrow, HA1 3AT",51.5792367,-0.3396357,pub,,,,,,£,,,1.2,1500,false
+899374404,Marian Bar,,51.5309996,-0.195836,pub,,,,,,£,,,1.2,1500,false
+915100777,The George,,51.5826203,-0.3323063,pub,,,,,,£,,,1.2,1500,false
+918115149,The Queens Head,"2 High Road, West Byfleet, KT14 7QG",51.3398442,-0.4816322,pub,,,,,,£,,,1.2,1500,false
+923084994,King's Arms,"55 The Grove, London, W5 5DX",51.5109852,-0.3021186,pub,"Mo-Fr 12:00-15:00,17:00-22:00; Sa 11:00-22:00; Su 12:00-21:00",,,3.15,29,£,,,1.2,1890,true
+946889300,Railway Bar & Grill,,51.6252492,0.0462191,pub,Mo-Sa 10:00-18:00,,,,,£,,,1.2,1500,true
+951344064,The New Cross Turnpike,"55 Bellegrove Road, Welling, DA16 3PB",51.4629158,0.1039166,pub,,,,,,£,,,1.2,1500,false
+956476073,Rose and Crown,"Farnborough Way, Orpington, BR6 6BT",51.3503053,0.0882937,pub,,364,,,,£,,,1.2,1773,false
+958771969,The Great Harry,,51.4899129,0.0667107,pub,,,,,,£,,,1.2,1500,false
+958785623,Coopers Arms,,51.493609,0.0631706,pub,Mo-Su 07:00-18:00,107,,,,£,,,1.2,1580,true
+958790121,The Castle Tavern,"179 Powis Street, London, SE18 6JL",51.4928826,0.0614609,pub,,959,,2.05,8,£,,,1.2,1820,false
+974679679,Tap Tavern,"The Square, Richmond, TW9 1ED",51.4615147,-0.302433,pub,,,,,,£,,,1.2,1500,false
+988573532,,,51.5298098,-0.1048949,pub,,128,,,,£,,,1.2,1596,false
+993017354,Five Bells,"165-167 East End Road, London, N2 0LZ",51.5908058,-0.1722957,pub,,210,,2.7,26,£,,,1.2,1790,false
+996533375,The Wellington,,51.4823451,-0.2030471,pub,,,,,,£,,,1.2,1500,false
+1005552834,De Burgh Arms,"High Street, West Drayton, UB7 7DQ",51.5101823,-0.4737045,pub,,,,,,£,,,1.2,1500,false
+1044881306,The Lucky Rover,"312 Hook Road, Chessington, KT9 1NY",51.3680366,-0.3067387,pub,Mo-Sa 12:00-23:00; Su 12:00-22:00,,,,,£,,,1.2,1500,true
+1057410294,King's Head,,51.6526134,-0.082537,pub,,172,,,,£,,,1.2,1629,false
+1097959374,Roddy's Bar,,51.4984745,-0.3061795,pub,Mo-Su 12:00-23:00,117,,,,£,,,1.2,1588,true
+1103275887,The Derby,"336 Kennington Park Road, London, SE11 4PP",51.4811678,-0.1132925,pub,Su-Tu 12:00-23:30; We-Th 12:00-00:30; Fr-Sa 12:00-01:00,141,,,,£,,,1.2,1606,true
+1110092576,The Albert Tavern,"Harrington Road, London, SE25 4LX",51.3974221,-0.0664347,pub,,,,3.15,21,£,,,1.2,1890,false
+1111103378,The Gardeners Arms,"107 London Road, Mitcham, CR4 2JA",51.4100782,-0.1617585,pub,,,,,,£,,,1.2,1500,false
+1112222569,The Plough Inn,,51.4681008,-0.1447743,pub,,,,,,£,,,1.2,1500,false
+1112279162,Brewdog The Northcote,"94 Northcote Road, London, SW11 6QW",51.4574347,-0.1659716,pub,,57,,2.15,13,£,,,1.2,1327,false
+1112279179,The Old Bank,"31-37 Northcote Road, London, SW11 1NJ",51.4597692,-0.1663243,pub,,,,1.7,21,£,,,1.2,1020,false
+1117274863,The Lodge Tavern,,51.513793,-0.2995294,pub,,641,,,,£,,,1.2,1981,false
+1117274890,The Sir Michael Balcon,"46-47 The Mall, London, W5 3TJ",51.5136177,-0.2988011,pub,,,,2.7,29,£,,,1.2,1620,false
+1132744385,The Whispering Moon,"25 Ross Parade, Wallington, SM6 8QF",51.3600646,-0.1496904,pub,,,,,,£,,,1.2,1500,false
+1134441899,Broadway Bar and Grill,"474,476 Fulham Road, London, SW6 1BY",51.4801804,-0.1956699,pub,,,,2,85,£,,,1.2,1200,false
+1139265343,Hyde Arms,,51.6226095,-0.0660681,pub,,,,,,£,,,1.2,1500,false
+1139431615,Railway Tavern,"19-20 Market Square, London, N9 0TZ",51.6248503,-0.0575427,pub,,,,2.6,6,£,,,1.2,1560,false
+1144626359,The Sea Horse,"64 Queen Victoria Street, London, EC4N 4SJ",51.5121486,-0.0955817,pub,,,,2.85,29,£,,,1.2,1710,false
+1149064292,The Captain Cook,"203-205 Dawes Road, London, SW6 7QY",51.481119,-0.2097328,pub,,185,,1.85,18,£,,,1.2,1213,false
+1150003215,Keats at the Globe,,51.5178081,-0.0886538,pub,Mo-Fr 09:00-18:00,,,,,£,,,1.2,1500,true
+1151341442,Six Bells,,51.6611962,-0.0867588,pub,,1136,,,,£,,,1.2,2352,false
+1165394890,William The Conqueror,,51.6057708,0.2335988,pub,,,,,,£,,,1.2,1500,false
+1175794362,Ye Olde Mitre Inne,,51.6530747,-0.199487,pub,,,,,,£,,,1.2,1500,false
+1199372547,Clyde,,51.4824675,0.0668964,pub,,,,,,£,,,1.2,1500,false
+1199974660,The Star Inn,"158 Plumstead Common Road, London, SE18 2UL",51.4808347,0.079028,pub,,,,3.15,14,£,,,1.2,1890,false
+1215861506,The Queen's Head,"66 Acton Street, London, WC1X 9NB",51.5284524,-0.1181488,pub,Tu-Sa 12:00-00:00; Su-Mo 12:00-23:00,,,3.65,56,£,,,1.2,2190,true
+1216059065,Fifteen York Hill,15 York Hill,51.6512355,0.0578517,pub,,,,,,£,,,1.2,1500,false
+1228996982,The Queen,"58 New Road, South Darenth, DA4 9AR",51.4018904,0.2492572,pub,,,,,,£,,,1.2,1500,false
+1233766466,The Walnut Tree,,51.5264519,-0.393206,pub,,,,,,£,,,1.2,1500,false
+1275835684,Masons Arms,"169 Battersea Park Road, London, SW8 4BT",51.4768147,-0.1468975,pub,,,,2.7,30,£,,,1.2,1620,false
+1295894932,The Royal Standard,"180 High Street Colliers Wood, London, SW19 2BN",51.4183453,-0.178222,pub,,,,2.55,26,£,,,1.2,1530,false
+1296827396,The Antelope,"76 Mitcham Road, London, SW17 9NG",51.4260884,-0.1659185,pub,Mo-Th 16:00-23:00; Fr 16:00-24:00; Sa 12:00-24:00; Su 12:00-22:30,,,3.2,47,£,,,1.2,1920,true
+1313266926,,,51.538361,-0.3796767,pub,,,,,,£,,,1.2,1500,false
+1314591894,The Leigham Arms,"1-3 Wellfield Road, London, SW16 2BT",51.4301215,-0.1271884,pub,,122,,3.65,24,£,,,1.2,2324,false
+1314592576,The White Lion,"232-234 Streatham High Road, London, SW16 1BB",51.4307931,-0.1296637,pub,Mo-Sa 08:00-22:00; Su 11:00-17:00,,,3.1,19,£,,,1.2,1860,true
+1314925438,The Perky Nel,"7-8 Cavendish Road, London, SW4 9DW",51.4536596,-0.1464242,pub,Tu-Th 16:00-22:00; Fr 16:00-00:00; Sa 12:00-00:00; Su 12:00-22:30,,,2.3,12,£,,,1.2,1380,true
+1316301006,The Woodman,"222 Durnsford Road, London, SW19 8DR",51.434765,-0.196272,pub,Mo-Fr 12:00-23:30; Sa 11:00-23:30; Su 12:00-23:00,,,2.95,27,£,,,1.2,1770,true
+1319497234,The Ascott,"144 Field End Road, HA5 1RJ",51.5789398,-0.3998946,pub,Su-Th 12:00-22:00; Fr-Sa 11:00-22:00,,,,,£,,,1.2,1500,true
+1320961201,The Belmont,,51.6008185,-0.3196329,pub,,,,,,£,,,1.2,1500,false
+1360505703,Stanhope Arms,"97 Gloucester Road, London",51.4940964,-0.1821606,pub,,,,,,£,,,1.2,1500,false
+1375162583,The Chelsea Gate,"358 Fulham Road, London, SW10 9UU",51.4816598,-0.1875734,pub,Tu-Th 17:00-00:00; Fr 15:00-00:00; Sa 13:00-00:00; Su 13:00-21:00,,,1.8,12,£,,,1.2,1080,true
+1375172418,The Fest,"678-680 Fulham Road, London, SW6 5SA",51.4750782,-0.2064016,pub,"Mo-Th,Su 12:00-23:00; Fr-Sa 12:00-24:00",,,2.8,37,£,,,1.2,1680,true
+1375172419,The Brown Cow,"676 Fulham Road, London, SW6 5SA",51.4751367,-0.2063716,pub,"Mo-Th,Su 12:00-23:00; Fr-Sa 12:00-24:00",426,,,,£,,,1.2,1820,true
+1376880625,The Bucher's Arms,"148 High Street, EN5 5XP",51.6555251,-0.2016884,pub,"Tu-Th 09:00-20:00; Fr,Sa 09:00-18:00",1653,,,,£,,,1.2,2740,false
+1387549550,Central Station,"37 Wharfdale Road, London, N1 9SD",51.5334362,-0.120925,pub,Mo-Su 17:00-24:00+,142,,1.75,6,£,,,1.2,1125,true
+1403481400,The Wheatsheaf,"34 Kingston Road, KT17 2AA",51.3522409,-0.2507794,pub,,143,,,,£,,,1.2,1607,false
+1413502743,The Tower Arms,,51.5044533,-0.5018825,pub,,,,,,£,,,1.2,1500,false
+1420042285,The Sun Tavern,"441 Bethnal Green Road, London, E2 0AN",51.5272941,-0.0584212,pub,Mo-Fr 08:00-19:00; Sa 10:00-17:00; Sa 11:00-16:00,,,3.55,49,£,,,1.2,2130,true
+1431338517,The Malt Shovel,"69 Iver Lane, Uxbridge, UB8 2JE",51.5297405,-0.4856068,pub,Mo-Tu 12:00-22:00; We-Fr 12:00-23:00; Sa 09:00-23:00; Su 09:00-22:30,402,,,,£,,,1.2,1802,true
+1431338523,Waters Edge,"Packet Boat Lane, Uxbridge, UB8 2JS",51.5199653,-0.4830879,pub,Tu-Sa 12:00-23:00; Su 12:00-22:30,370,,,,£,,,1.2,1778,true
+1434251318,Three Crowns,,51.6368615,-0.346933,pub,,249,,,,£,,,1.2,1687,false
+1478210424,FiveSixEight,,51.5004131,-0.1779662,pub,"Th,Sa-Tu 12:00-22:30, We,Fr 12:00-24:00+",,,,,£,,,1.2,1500,true
+1492363680,Southern Cross,,51.6645574,-0.4042511,pub,,583,,,,£,,,1.2,1937,false
+1494249893,New Inn,,51.6868368,0.0011534,pub,,,,,,£,,,1.2,1500,false
+1494249894,Green Man,,51.6875277,0.0090014,pub,,,,,,£,,,1.2,1500,false
+1494252702,Welsh Harp,,51.6870887,-0.0028618,pub,08:30-17:00,,,,,£,,,1.2,1500,true
+1496718867,The Bull,"Ariel Way, London, W12 7GA",51.50638,-0.2201483,pub,,,,,,£,,,1.2,1500,false
+1497452177,Simpson's Tavern,"38 1/2 Ball Court, London, EC3V 9DR",51.5130283,-0.0859508,pub,Tu-Fr 08:30-15:30; Mo 11:30-15:30,,,,,£,,,1.2,1500,true
+1516630076,The Kings Head,,51.6346573,-0.1032999,pub,,,,,,£,,,1.2,1500,false
+1532645515,Reynold's Bar,,51.4879025,-0.219236,pub,,1658,,,,£,,,1.2,2744,false
+1538769529,The Old Ship,,51.2930166,0.0255645,pub,,,,,,£,,,1.2,1500,false
+1538908200,The Halfway House Bar,,51.559266,-0.1165035,pub,,,,,,£,,,1.2,1500,false
+1561417481,"Hung, Drawn and Quartered","26-27 Great Tower Street, London, EC3R 5AQ",51.5095282,-0.0807865,pub,Mo-Sa 12:00-23:00; Su 12:00-18:00,,,3.3,54,£,,,1.2,1980,true
+1561523525,The Change of Horses,"87 High Street, Orpington, BR6 7BB",51.359557,0.0698702,pub,,,,,,£,,,1.2,1500,false
+1567280887,The Buff,"Pinewood Drive, Orpington, BR6 9NL",51.3599916,0.0877533,pub,,,,,,£,,,1.2,1500,false
+1587485161,The Tabernacle,,51.51677,-0.201699,pub,,,,,,£,,,1.2,1500,false
+1588266926,The Shamrock,,51.6516662,-0.42206,pub,11:00-23:00,,,,,£,,,1.2,1500,true
+1598072442,The Lord Nelson,,51.6524761,-0.2100384,pub,,,,,,£,,,1.2,1500,false
+1598393379,The Fountain,"125-127 West Green Road, London, N15 5DE",51.5850325,-0.0794707,pub,Su-Th 17:30-21:30; Fr-Sa 17:30-22:30,,,2.65,18,£,,,1.2,1590,true
+1600324548,Arnos Arms,"338 Bowes Road, London, N11 1AN",51.6161752,-0.1320087,pub,,,,2.6,6,£,,,1.2,1560,false
+1600414553,The Black Horse,,51.653131,-0.206677,pub,,,,,,£,,,1.2,1500,false
+1601053417,The Plough,"89 St. John's Hill, London, SW11 1SY",51.4615658,-0.1733056,pub,Mo-Fr 07:30-19:00; Sa 09:00-18:00; Su 10:00-16:00,,,1.5,20,£,,,1.2,900,true
+1629050418,Ye Olde Monken Holt,"193 High Street, EN5 5SU",51.6581377,-0.2013105,pub,,,,,,£,,,1.2,1500,false
+1657901115,The Rebel Inn,"78A-78B Streatham High Road, London, SW16 1BS",51.4354235,-0.1284003,pub,,,,3.9,25,£,,,1.2,2340,false
+1666149588,The Kerfield Arms,"16 Grove Lane, London, SE5 8SY",51.4729515,-0.0899048,pub,Mo-Su closed,,,3.65,27,£,,,1.2,2190,true
+1678321931,The Rocket (Student Bar),,51.5516766,-0.1106216,pub,,,,,,£,,,1.2,1500,false
+1678982781,The Morden Brook,"Lower Morden Lane, SM4 4SS",51.3910884,-0.2218995,pub,,,,,,£,,,1.2,1500,false
+1687799181,The Osidge Arms,"Osidge Lane, London, N14 5JP",51.6318052,-0.1432225,pub,,,,2.2,9,£,,,1.2,1320,false
+1693229102,The Duchess & Dressmaker,"129-129a High Street, Brentwood, CM14 4RZ",51.6195156,0.298384,pub,Mo-Th 10:00-23:00; Fr-Sa 10:00-01:00; Su 10:00-22:00,,,,,£,,,1.2,1500,true
+1706419131,The George and Dragon,,51.3084043,0.3094908,pub,,,,,,£,,,1.2,1500,false
+1706419176,Rose and Crown,,51.3082595,0.3102221,pub,,184,,,,£,,,1.2,1638,false
+1707216586,The Thirsty Bear,"62 Stamford street, London, SE1 9LX",51.5070706,-0.1081175,pub,,,,2.1,13,£,,,1.2,1260,false
+1708956919,Old Post Office,"4 Passey Place, London, SE9 5DQ",51.4503207,0.0539598,pub,,,,1.15,27,£,,,1.2,690,false
+1710347203,Rising Sun,,51.6516528,-0.4240702,pub,,,,,,£,,,1.2,1500,false
+1713315332,The Central Bar,"Shepherd's Bush Green, London, W12 8PP",51.5038323,-0.2191034,pub,,,,,,£,,,1.2,1500,false
+1720298837,Eagle Ale House,,51.4551121,-0.1632003,pub,,118,,,,£,,,1.2,1589,false
+1737829080,The Wandle,"332 Garratt Lane, London, SW18 4EJ",51.4428801,-0.1891411,pub,Mo-Su 12:00-23:00,265,,2.15,62,£,,,1.2,1461,true
+1765203848,The Fox and Goose,,51.5332135,-0.2956664,pub,,,,,,£,,,1.2,1500,false
+1768843679,OJ's,"64-68 High Street, Hornchurch, RM12 4UW",51.562803,0.2166693,pub,,,,,,£,,,1.2,1500,false
+1777189056,,,51.5950358,0.0980035,pub,,1354,,,,£,,,1.2,2516,false
+1786388184,Feeleys,,51.471497,-0.1349448,pub,,137,,,,£,,,1.2,1603,false
+1786418431,The Watchman,"184 High Street, New Malden, KT3 4ES",51.3988939,-0.2550754,pub,"Tu-Th 12:00-15:00, 17:30-22:00; Fr 12:00-15:00, 17:30-22:30; Sa 12:00-22:30; Su 12:00-21:30; Mo 17:30-22:00",,,,,£,,,1.2,1500,true
+1795493240,The Glasshouse,"14 Coombe Road, New Malden, KT3 4QE",51.4043231,-0.2572003,pub,"Mo-Tu, Th-Fr 12:00-16:00, 18:00-22:00; Sa 12:00-16:00, 17:00-23:00; Su 12:00-16:00, 17:00-22:00",,,,,£,,,1.2,1500,true
+1799705550,The Greyhound,,51.5902101,0.3156261,pub,Mo-We 12:00-22:00; Th-Sa 12:00-23:00; Su 12:00-22:00,460,,,,£,,,1.2,1845,true
+1828784790,Clarendon Arms,"225 Camberwell New Road, London, SE5 0TH",51.477497,-0.101174,pub,,,,2.5,2,£,,,1.2,1500,false
+1837956202,Green Dragon,,51.6867343,-0.0028825,pub,,,,,,£,,,1.2,1500,false
+1847410247,Cricketers on the Green,,51.382571,-0.3469651,pub,,,,,,£,,,1.2,1500,false
+1847410265,The Greyhound,,51.3821089,-0.3472869,pub,,,,,,£,,,1.2,1500,false
+1887791389,The Crown,,51.3130024,0.1900477,pub,,1418,,,,£,,,1.2,2564,false
+1916888139,The Scotsman,,51.5020678,-0.3942182,pub,,,,,,£,,,1.2,1500,false
+1926817676,Lennards Inn,,51.505538,0.2255194,pub,,,,,,£,,,1.2,1500,false
+1932068392,Stag & Hounds,,51.6354113,-0.0780594,pub,"Mo-Su,PH 11:30-24:00",,,,,£,,,1.2,1500,true
+1932068442,The Beehive,,51.634544,-0.0781264,pub,,196,,,,£,,,1.2,1647,false
+1933445586,Sylvan Post,"24-28 Dartmouth Road, London, SE23 3XU",51.4380542,-0.0546961,pub,Mo-Sa 12:00-23:00; Su 12:00-22:30,,,2.9,6,£,,,1.2,1740,true
+1933514303,The Queens Head,"73 High Street, Orpington, BR6 6BQ",51.35226,0.089809,pub,,,,,,£,,,1.2,1500,false
+1933514945,The Royal Oak,"High Street, Orpington, BR6 6BJ",51.3509742,0.0886972,pub,Mo-We 12:00-22:00; Th-Sa 12:00-23:00; Su 12:00-22:00,,,,,£,,,1.2,1500,true
+1941233361,The Station House,"Churchfield Road, London, W3 6BH",51.5087338,-0.2631006,pub,Mo-Sa 07:00-16:00; Su 08:00-16:00,,,2.75,10,£,,,1.2,1650,true
+1958568591,The Bolingbroke,"174-172 Northcote Road, London, SW11 6RE",51.4539089,-0.1640944,pub,,,,3.25,12,£,,,1.2,1950,false
+1969846667,The Magpie,"64 Thames Street, Sunbury-on-Thames, TW16 6AF",51.4056956,-0.4077703,pub,,,,,,£,,,1.2,1500,false
+1973954225,The Open Page,"573 Garratt Lane, London, SW18 4ST",51.4398179,-0.1866171,pub,"Mo-Th 08:00-17:00, Fr-Sa 08:00-22:30, Su 09:00-17:00,",106,,3.15,22,£,,,1.2,1990,true
+1975218592,Slug and Lettuce,"184 George Lane, London, E18 1AY",51.5944516,0.0240387,pub,,,,1.8,16,£,,,1.2,1080,false
+1990939951,The Woodman,"50 High Street, Orpington, BR6 7BA",51.3592459,0.0676213,pub,,,,,,£,,,1.2,1500,false
+1993188851,Hennessys,,51.5846669,-0.2796475,pub,Mo-Su 09:00-22:00,,,,,£,,,1.2,1500,true
+1998691296,Shinner and Sudtone,"67 High Street, SM1 1DT",51.3618581,-0.1925404,pub,"Su,Mo 12:00-23:00, Tu-Th 12:00-24:00, Fr,Sa 12:00-01:00",,,3.5,3,£,,,1.2,2100,true
+1998691305,Ebb & Flow,"59-61 High Street, SM1 1DT",51.3616662,-0.1924599,pub,Mo-Fr 08:00-22:00; Sa 08:00-19:00; Su 09:00-19:00,,,,,£,,,1.2,1500,true
+2018688106,BrewDog,"2 Churchill Place, London, E14 5RB",51.5046438,-0.0146973,pub,Mo-Sa 12:00-23:00; Su 12:00-22:00,,,,,£,,,1.2,1500,true
+2090422183,Ridgeway,,51.6627004,-0.1039305,pub,,385,,,,£,,,1.2,1789,false
+2097977437,Black Swan,"Old Lane, Ockham, KT11 1NG",51.3044517,-0.4391472,pub,,549,,,,£,,,1.2,1912,false
+2109642493,The Travellers Friend,"496-498 High Road, Woodford Green, IG8 0PN",51.6150506,0.0255395,pub,,202,,,,£,,,1.2,1652,false
+2112979632,The Bull's Head,"Laud Street, Croydon, CR0 1SX",51.3695997,-0.1011088,pub,,,,,,£,,,1.2,1500,false
+2121900018,The Wandle Arms,,51.373983,-0.1083794,pub,,,,,,£,,,1.2,1500,false
+2131140884,The Surprise,"107 Upper Shirley Road, Croydon, CR0 5HF",51.3680407,-0.0536187,pub,,,,,,£,,,1.2,1500,false
+2144360157,The Woodman,"2 High Street, TN14 5PQ",51.3130159,0.1911257,pub,,,,2.5,61,£,,,1.2,1500,false
+2147605894,The Jolly Farmer,"354 Lewisham High Street, London",51.4551359,-0.0161035,pub,Mo-Fr 08:00-14:30,131,,,,£,,,1.2,1598,true
+2153030788,Oxymoron - The Royal Oak,"78 Fitzalan Street, London, SE11 6QU",51.4933071,-0.1131345,pub,closed,566,,2.35,3,£,,,1.2,1809,false
+2161746039,Waterman's Arms,"10 Water Lane, Richmond, TW9 1TJ",51.4593768,-0.3071316,pub,,,,,,£,,,1.2,1500,false
+2182219226,Dover Castle,"6a Great Dover Street, London, SE1 4XW",51.5004719,-0.0928618,pub,,,,2.1,28,£,,,1.2,1260,false
+2207164222,The Ship,"High Street, Ripley, GU23 6AZ",51.300435,-0.4918878,pub,,,,,,£,,,1.2,1500,false
+2208150035,The Islington,"13 Liverpool Road, London, N1 0RW",51.5337144,-0.1069716,pub,Mo-Sa 10:00-22:00; Su 10:00-20:00,,,3.15,25,£,,,1.2,1890,true
+2217127366,Balham Bowls Club,"7-9 Ramsden Road, London, SW12 8QX",51.4449518,-0.1523815,pub,Mo-We 16:00-23:00; Th 16:00-00:00; Fr 14:00-01:00; Sa 12:00-01:00; Su 12:00-23:00,,,3,2,£,,,1.2,1800,true
+2252633852,George & Dragon,London,51.4856569,-0.1993009,pub,,,,,,£,,,1.2,1500,false
+2256219333,Sports Bar,"125 Wembley Park Drive, Wembley, HA9 8HQ",51.5620416,-0.2824529,pub,Mo-Sa 09:00-21:00; Su 10:00-20:00,,,,,£,,,1.2,1500,true
+2256219334,The Wembley Tavern,"121 Wembley Park Drive, Wembley, HA9 8HG",51.5620416,-0.2826353,pub,Mo-Sa 09:00-21:00; Su 10:00-20:00,,,,,£,,,1.2,1500,true
+2261568916,The Tooting Tavern,"196 Tooting High Street, London, SW17 0SF",51.4238635,-0.1725702,pub,"Mo-We 16:00-23:00; Th,Fr 16:00-24:00; Sa,Su 12:00-24:00",,,2.65,52,£,,,1.2,1590,true
+2261572101,The Bridge House,"13 Westbourne Terrace Road, London",51.5210275,-0.1842132,pub,,,,,,£,,,1.2,1500,false
+2267462478,The Bluecoats Pub,"614 High Road, London, N17 9TA",51.5969321,-0.0680521,pub,"Mo-Th 16:00-23:00; Fr,Sa 12:00-23:00; Su 13:00-22:00",,,,,£,,,1.2,1500,true
+2273086361,The Surrey Cricketers,"23 West Street, Croydon, CR0 1DJ",51.3680036,-0.101643,pub,,127,,,,£,,,1.2,1595,false
+2287275689,Paya and Horse,"181 Battersea Park Road, London, SW11 4LB",51.4758826,-0.1489065,pub,,,,3.2,5,£,,,1.2,1920,false
+2296112253,Crate Brewery & Pizza,"43 White Post Lane, London, E9 5EN",51.5429973,-0.0220788,pub,"Mo-Th,Su 12:00-23:00; Fr-Sa 12:00-01:00",,,3.6,10,£,,,1.2,2160,true
+2306997291,Pawsons Arms,"69 Pawson's Road, Croydon, CR0 2QA",51.3929231,-0.0963685,pub,,,,,,£,,,1.2,1500,false
+2306997292,The Lion Inn,"182 Pawson's Road, Croydon, CR0 2QD",51.3912936,-0.0999382,pub,,,,,,£,,,1.2,1500,false
+2310523851,Bricklayers Arms,"High Road, London",51.6059178,-0.0683957,pub,,,,3,3,£,,,1.2,1800,false
+2311905648,the victory,,51.6391832,-0.3085949,pub,,,,,,£,,,1.2,1500,false
+2316547695,Bosleys,"107-115 The Parade, Watford, WD17 1LU",51.6587586,-0.4005113,pub,,,,,,£,,,1.2,1500,false
+2316821043,Friend at Hand,"2-4 Herbrand Street, London, WC1N 1HX",51.5228503,-0.1245944,pub,Mo-Su 11:00-23:00,,,3.05,22,£,,,1.2,1830,true
+2334811789,Dicey Reilly's,"161 Silver Street, London, N18 1PY",51.6164794,-0.0771939,pub,,144,,3.4,13,£,,,1.2,2187,false
+2341125350,The Bohemia,"762 High Road, London, N12 9QH",51.6153156,-0.176463,pub,Mo-Su 10:00-23:00,,,2.9,26,£,,,1.2,1740,true
+2348069736,Nascot Arms,"11 Stamford Road, Watford, WD17 4QS",51.665155,-0.4017607,pub,,,,,,£,,,1.2,1500,false
+2355855722,Oddfellows Arms,"2 Waxwell Lane, HA5 3EN",51.5956698,-0.3846571,pub,"Mo-Th 17:00-23:00; Fr 17:00-24:00; Sa 12:00-15:00,17:00-24:00; Su 12:00-23:00",,,,,£,,,1.2,1500,true
+2376273449,The Black Horse,"1018 Harrow Road, Wembley, HA0 2QP",51.5605406,-0.3293318,pub,,,,,,£,,,1.2,1500,false
+2395017747,The Greyhound,"313-315 Kirkdale, London, SE26 4QB",51.4270033,-0.0555319,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-00:00; Su 12:00-22:00,,,,,£,,,1.2,1500,true
+2395889474,The Orange Tree,,51.6137042,0.1809886,pub,,,,,,£,,,1.2,1500,false
+2407449923,The Case Is Altered,"High Road Eastcote, HA5 2EW",51.5888434,-0.4036155,pub,Su-Th 11:00-23:00; Fr-Sa 11:00-00:00,,,,,£,,,1.2,1500,true
+2435314188,Old Oak Tree,,51.49518,-0.3879224,pub,,,,,,£,,,1.2,1500,false
+2437697969,Doyle's,"155 Bramley Road, London, N14 4XA",51.6483415,-0.130235,pub,"Su-Th 12:00-23:00;Fr,Sa 12:00-24:00",,,3.1,13,£,,,1.2,1860,true
+2439812541,the fléadh,"278 Preston Road, Harrow, HA3 0QA",51.5728788,-0.2944101,pub,Mo-Su 09:00-21:00,,,,,£,,,1.2,1500,true
+2445347232,The Cock Tavern,"269 Hertford Road, Edmonton",51.633359,-0.0540008,pub,,205,,,,£,,,1.2,1654,false
+2447618917,Prince Alfred,"178 Sydenham Road, London, SE26 5RP",51.4257348,-0.0436314,pub,Mo-We 11:00-23:00; Th-Sa 11:00-00:00; Su 12:00-22:30,,,2.75,2,£,,,1.2,1650,true
+2451287638,The King William,192 Hertford Road,51.6300446,-0.0558813,pub,,,,,,£,,,1.2,1500,false
+2464003776,Draughts,"34 Eltham High Street, London, SE9 1BT",51.4510468,0.0501424,pub,,,,,,£,,,1.2,1500,false
+2476984665,The Scottish Stores,"2-4 Caledonian Road, London, N1 9DT",51.5310789,-0.1208228,pub,Mo-Su 07:00-23:00,,,2.5,2,£,,,1.2,1500,true
+2478195217,Berry and Barrel,"18 Well Hall Parade, London, SE9 6SP",51.4567307,0.0512247,pub,,,,,,£,,,1.2,1500,false
+2492718707,Brewdog Paddington,"Unit 1 West End Quay, London, W2 1JX",51.5190539,-0.1705643,pub,,2094,,3.2,5,£,,,1.2,3930,false
+2510273562,The Sultan,"37-39 New Park Road, London, SW2 4DU",51.447958,-0.1259312,pub,,,,,,£,,,1.2,1500,false
+2522664082,J.J. Moon's,"46–62 High Street, Hornchurch, RM12 4UN",51.5628208,0.2164084,pub,,3796,,,,£,,,1.2,4347,false
+2525348872,The Old Plough,"2 Station Road, Cobham, KT11 3BN",51.3208029,-0.3864061,pub,,,,,,£,,,1.2,1500,false
+2525354717,The Bear,"Leatherhead Road, Oxshott, KT22 0JE",51.3281556,-0.3549149,pub,,,,,,£,,,1.2,1500,false
+2531024418,The White Swan,"255-256 Upper Street, London, N1 1RY",51.545728,-0.1034102,pub,Mo-Su 05:00-01:45,,,2.7,48,£,,,1.2,1620,true
+2541328868,Bush Hill Park,"141 St Mark's Road, Enfield, EN1 1BA",51.6415276,-0.0687715,pub,,428,,,,£,,,1.2,1821,false
+2561724243,Never For Ever,"79 Highgate Road, London, NW5 1TL",51.5542384,-0.1445626,pub,,,,2,9,£,,,1.2,1200,false
+2599418386,The Falcon,"Village Road, Uxbridge, UB9 5BE",51.5729812,-0.499482,pub,,,,,,£,,,1.2,1500,false
+2624195137,London Pub,,51.5238854,-0.1273035,pub,Mo-Su 11:30-22:30,,,,,£,,,1.2,1500,true
+2632761624,Coach & Horses,"14 St Ann's Road, Chertsey, KT16 9DG",51.3945675,-0.5068774,pub,,177,,,,£,,,1.2,1633,false
+2632781272,Barley Mow,"67 Watersplash Road, Shepperton, TW17 0EE",51.4025766,-0.4584406,pub,,,,,,£,,,1.2,1500,false
+2636979676,Dartmouth Arms,,51.5585343,-0.1436626,pub,Mo-Su 17:30-23:00,,,,,£,,,1.2,1500,true
+2654536358,Wheatsheaf & Pigeon,,51.4206637,-0.5083092,pub,,,,,,£,,,1.2,1500,false
+2684055013,The Ship,"205 Plumstead Common Road, London, SE18 2UJ",51.4810866,0.0802208,pub,,,,2.35,3,£,,,1.2,1410,false
+2736265341,Tally Ho,"Main Road, TN14 7NT",51.3035676,0.0904301,pub,,,,,,£,,,1.2,1500,false
+2831429756,Mother Kelly's,"251 Paradise Row, London, E2 9LE",51.5283303,-0.0561726,pub,Mo 16:00-23:00; Tu-Th 12:00-23:00; Fr-Sa 12:00-00:00; Su 12:00-23:00,,,3,2,£,,,1.2,1800,true
+2846285826,LDN Beer Dispensary,"389 Brockley Road, London, SE4 2PH",51.4546705,-0.0370883,pub,Mo-Th 16:00-22:00; Fr-Sa 12:00-22:30; Su 12:00-22:00,51,,3.85,7,£,,,1.2,2369,true
+2847109210,Chandos,"56 Brockley Rise, London, SE23 1LN",51.4476511,-0.0411842,pub,,,,3.15,3,£,,,1.2,1890,false
+2891310929,The Gardeners Arms,,51.5476169,-0.4716244,pub,,164,,,,£,,,1.2,1623,false
+2928247913,Prince of Wales,"62 Boston Road, London, W7 3TP",51.506332,-0.3374822,pub,Mo-Tu off; We-Sa 10:00-15:00; Su 11:00-15:00,285,,3.3,14,£,,,1.2,2262,true
+2928263022,Village Inn,,51.5059033,-0.3372049,pub,,,,,,£,,,1.2,1500,false
+2935383884,Balls Brothers,"2 Minster Court, London, EC3R 7BB",51.510937,-0.0803664,pub,Mo-Fr 11:00-23:00; Sa-Su off,,,,,£,,,1.2,1500,true
+3010570949,The Good Samaritan,"87 Turner Street, London, E1 2AE",51.5173312,-0.061108,pub,Mo-Tu 08:30-21:00; We 08:30-01:00; Th-Fr 08:30-21:00,128,,3.2,18,£,,,1.2,2043,true
+3068306969,The Anchor,"82 Hope Street, London",51.4652553,-0.1792283,pub,,,,,,£,,,1.2,1500,false
+3077522360,The Royal Forest,"4 Ranger's Road, London, E4 7QH",51.6343309,0.0169158,pub,,,,2,4,£,,,1.2,1200,false
+3128532357,J.J. Moon's,12 Victoria Road,51.5733166,-0.4133247,pub,,,,,,£,,,1.2,1500,false
+3154333461,The Waterway,"54 Formosa Street, London, W9 2JU",51.5226664,-0.1877985,pub,Mo-Fr 11:00-23:00;Sa 10:00-23:00;Su 10:00-22:30,489,,1.65,18,£,,,1.2,1232,true
+3196094985,Hind and Hart,,51.6020997,-0.2448176,pub,,,,,,£,,,1.2,1500,false
+3217265638,The Plough,89 North Road,51.513502,-0.3729223,pub,,,,,,£,,,1.2,1500,false
+3223507051,Travellers Tavern,"4 Elizabeth Street, London, SW1W 9RB",51.4929364,-0.1488249,pub,Mo-Fr 05:45-19:00; Sa 06:30-19:00; Su 07:00-19:00,,,3.05,19,£,,,1.2,1830,true
+3257304725,The Music Box,,51.5031806,-0.4408973,pub,,,,,,£,,,1.2,1500,false
+3259057405,Railway Arms,"1 Station Road, West Drayton, UB7 7BT",51.5096566,-0.4739547,pub,Mo-Su 11:00-23:00,,,,,£,,,1.2,1500,true
+3261904462,Dodo,"52 Boston Road, London, W7 3TR",51.5067295,-0.3374416,pub,"We,Th 17:00-22:00; Fr 16:00-22:30; Sa 15:00-22:30; Su 14:00-19:00",,,2.35,3,£,,,1.2,1410,true
+3282498381,The Kings Tun,"153-157 Clarence Street, Kingston upon Thames, KT1 1QT",51.4113298,-0.3006922,pub,,,,,,£,,,1.2,1500,false
+3294939314,The King Stag,"15 Bournehall Road, Bushey, WD23 3EH",51.6454823,-0.3630005,pub,"Mo-Th 12:00-23:00; Fr,Sa 12:00-24:00; Su 12:00-22:30",,,,,£,,,1.2,1500,true
+3297347669,The Cat & Fiddle,"162 Rowan Road, West Drayton, UB7 7UF",51.4971838,-0.4728242,pub,Mo-Tu 12:00-22:00; We-Th 14:00-22:00; Fr 14:00-00:00; Sa 10:00-00:00; Su 10:00-22:00,,,,,£,,,1.2,1500,true
+3314587634,Prince of Wales,"202 Western Road, UB2 5ED",51.4990024,-0.391896,pub,Mo-Su 11:30-00:00,,,,,£,,,1.2,1500,true
+3325121405,Black Horse,"High Street, DA2 8AS",51.4254789,0.2846808,pub,,282,,,,£,,,1.2,1712,false
+3340684903,The Crown,"102 Lavender Hill, London, SW11 5RD",51.4656767,-0.1560344,pub,,,,2.8,15,£,,,1.2,1680,false
+3362469515,The Magic Garden,"231 Battersea Park Road, London, SW11 4LG",51.4753058,-0.1508474,pub,,147,,2.65,11,£,,,1.2,1707,false
+3423539966,The Earlsfield,"511 Garratt Lane, London, SW18 4SW",51.4423773,-0.1880911,pub,,229,,,,£,,,1.2,1672,false
+3468565224,The Lost Society,"339 Battersea Park Road, London, SW11 4LS",51.4740944,-0.1570764,pub,,284,,2.35,3,£,,,1.2,1610,false
+3485070520,Shaker and Co,,51.5281206,-0.1388221,pub,,,,,,£,,,1.2,1500,false
+3493582134,Orbit Beers Brewery Tap Room,"Fielding Street, London, SE17 3HD",51.4851591,-0.095928,pub,We-Fr 16:00-22:30; Sa 12:00-00:00; Su 12:00-21:30,,,,,£,,,1.2,1500,true
+3497250394,The Elmhurst,"131 Lordship Lane, London, N17 6XE",51.598349,-0.075939,pub,,298,,2.8,9,£,,,1.2,1930,false
+3510377459,The Bull,,51.4692994,0.0665873,pub,Mo 15:00-23:00; Tu-Th 14:00-23:00; Fr-Sa 13:00-24:00; Su 12:00-23:00,,,,,£,,,1.2,1500,true
+3569354105,The Foxley Hatch,"8-9 Russell Parade, Purley, CR8 2LE",51.3394139,-0.1176527,pub,,,,,,£,,,1.2,1500,false
+3576622823,Star of the East,"805A Commercial Road, London, E14 7HG",51.5122205,-0.0287538,pub,24/7,676,,2.6,5,£,,,1.2,2087,false
+3598403423,The Anchor Pub,"Horton Road, Spelthorne, TW19 6AQ",51.4624723,-0.5022812,pub,,,,,,£,,,1.2,1500,false
+3637918315,Badger Badger,"543 Norwood Road, London, SE27 9DL",51.4341103,-0.1035139,pub,,,,,,£,,,1.2,1500,false
+3655799625,The One Crown,,51.6534858,-0.3928864,pub,,114,,,,£,,,1.2,1586,false
+3681486426,The Old Red Lion,,51.4330058,-0.4995179,pub,,215,,,,£,,,1.2,1661,false
+3727939637,The Wanstead Tap,"Arch 352 Winchelsea Road, London, E7 0AQ",51.5555258,0.0187872,pub,"Su-We closed, Th-Fr 15:00-23:30, Sa 15:00-23:30",,,,,£,,,1.2,1500,true
+3730997811,The Edinboro Castle,"57 Mornington Terrace, London",51.5361199,-0.1448555,pub,,354,,3.65,3,£,,,1.2,2578,false
+3731791377,The Door Hinge,"11 Welling High Street, DA16 1TR",51.4619423,0.1132222,pub,Tu-Th 15:00-17:00; Fr 15:00-22:00; Sa 12:00-22:00; Su 12:00-17:00,,,,,£,,,1.2,1500,true
+3735026264,The Hope,"3 Melon Road, London, SE15 5QW",51.4736629,-0.0711057,pub,Mo-Fr 16:00-00:00; Sa 12:00-00:00; Su 12:00-23:00,164,,3.25,2,£,,,1.2,2110,true
+3750381862,The Toll Gate,"26-30 Turnpike Lane, London, N8 0PS",51.5899928,-0.1052284,pub,Mo-Sa 09:00-19:00; Su 10:00-16:00,,,3.1,38,£,,,1.2,1860,true
+3782616223,Steins,"56 High Street, Kingston upon Thames, KT1 1HN",51.4071456,-0.3080226,pub,,720,,,,£,,,1.2,2040,false
+3790021587,The Vault,"1 The Row, Longfield, DA3 8JB",51.3664267,0.3044523,pub,,1587,,,,£,,,1.2,2690,false
+3793532459,The Craft Beer Co.,"17-18 Broadway Shopping Centre, London",51.4916954,-0.2241818,pub,,,,,,£,,,1.2,1500,false
+3796261415,Royal British Legion,,51.4874059,-0.10409,pub,,101,,,,£,,,1.2,1576,false
+3796265638,The Tankard,"178 Walworth Road, London, SE17 1JL",51.4901547,-0.097159,pub,,119,,,,£,,,1.2,1589,false
+3813864109,Canterbury Arms,"2-4, London, SE17 3NH",51.4827551,-0.1027726,pub,,477,,,,£,,,1.2,1858,false
+3815898017,Crown & Sugar Loaf,"26 Bride Lane, London, EC4Y 8DT",51.5140324,-0.1050005,pub,,,,,,£,,,1.2,1500,false
+3861527347,Penny Farthing,"3 Waterside, Dartford, DA1 4JJ",51.4522255,0.1784858,pub,,,,,,£,,,1.2,1500,false
+3892264316,The Flying Dutchman,"156 Wells Way, London, SE5 7SY",51.4785402,-0.0854863,pub,,109,,,,£,,,1.2,1582,false
+3932136290,SALT Woolwich,"15 Major Draper Street, London, SE18 6GD",51.4923617,0.0717588,pub,Mo-Th 16:00-23:00; Fr-Sa 12:00-23:00; Su 12:00-22:00,889,,,,£,,,1.2,2167,false
+4009487830,City Bar & Kitchen,"9 Stoney Lane, London, E1 7BH",51.5152081,-0.0774089,pub,,4039,,,,£,,,1.2,4529,false
+4020316989,The Black Lion,"295-297 West End Lane, London, NW6 1RD",51.551175,-0.1918711,pub,,167,,,,£,,,1.2,1625,false
+4026677008,Queen Elisabeth,,51.4746783,-0.1888037,pub,,420,,,,£,,,1.2,1815,false
+4067222289,Waterloo Tap,"Sutton Walk, London, SE1 7ES",51.5045928,-0.1148896,pub,Mo-Tu 13:30-23:00; We-Th 12:00-23:00; Fr 12:00-24:30; Sa 11:00-24:30; Su 12:00-21:00,,,2.75,6,£,,,1.2,1650,true
+4117016441,601 Queens Road,"The Broadway, London, SW19 8ND",51.4209255,-0.2056591,pub,"Mo-Fr 06:00-19:00; Sa 07:00-18:00; Su,PH 08:00-18:00",13847,,4.25,2,£,,,1.2,20205,false
+4172844859,EeBria,"15 Almond Road, London, SE16 3LR",51.4913821,-0.0587851,pub,Sa 12:30-20:00,,,,,£,,,1.2,1500,true
+4238029494,The Griff Inn Bar & Kitchen,"Newark Street, London, E1 2AT",51.517315,-0.0613634,pub,Mo-Tu 08:30-21:00; We 08:30-01:00; Th-Fr 08:30-21:00,676,,,,£,,,1.2,2007,false
+4250008044,The Auld Triangle,,51.5620169,-0.105091,pub,,171,,,,£,,,1.2,1628,false
+4284878229,BrewDog,"1 Plough Place, London, EC4A 1DE",51.5166863,-0.1089721,pub,Mo-Sa 12:00-23:00,,,1.5,2,£,,,1.2,900,true
+4324081805,Beer Asylum,"1 Bridge Street, Pinner, HA5 3JD",51.5944136,-0.3825329,pub,,1027,,,,£,,,1.2,2270,false
+4354425004,Dulwich Beer Dispensary,"481 Lordship Lane, London, SE22 8JY",51.4444476,-0.0685982,pub,,64,,,,£,,,1.2,1548,false
+4413975955,Duchess of Kent,,51.4743801,0.1574564,pub,,,,,,£,,,1.2,1500,false
+4436916522,Bricklayers Arms,"6 Queens Road, Walton-on-Thames, KT12 5LS",51.3663194,-0.4021628,pub,Mo-Th 11:00-23:00; Fr-Sa 11:00-23:30; Su 11:00-22:30,,,,,£,,,1.2,1500,true
+4463795243,The Long Pond,"110 Westmount Road, London, SE9 1UT",51.4569365,0.0596235,pub,"Mo 17:00-22:00; Tu-We 11:30-14:30,17:00-22:00; Th-Fr 11:30-14:30, 17:00-23:00; Sa 11:00-15:00,18:00-23:00; Su 12:30-14:30",,,4.1,6,£,,,1.2,2460,true
+4464548883,Little Green Dragon,928 Green Lanes,51.6360608,-0.0909623,pub,,,,,,£,,,1.2,1500,false
+4467119633,The Three Greyhounds,,51.5134435,-0.1303052,pub,Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 12:00-22:30,71,,,,£,,,1.2,1553,true
+4470034364,Southwark Brewing,"46 Druid Street, London, SE1 2EZ",51.5005941,-0.0771444,pub,"Tu,Th,Fr 17:00-22:00; Sa 12:00-18:30; We,Su,Mo off",4712,,,,£,,,1.2,5034,false
+4515363508,The Guard House,"No 1 Street, London, SE18 6GH",51.4918809,0.0691701,pub,Mo-Fr 10:00-23:00; Sa 08:00-23:00; Su 09:00-23:00,251,,3.2,14,£,,,1.2,2161,true
+4525422451,The Queen's Arms,TW6 1EW,51.4689781,-0.4511445,pub,Mo-Su 05:30-21:30,,,,,£,,,1.2,1500,true
+4527208488,London's Pride,,51.4692303,-0.4487541,pub,,,,,,£,,,1.2,1500,false
+4527215244,Big Smoke,,51.4691296,-0.4485977,pub,,,,,,£,,,1.2,1500,false
+4548682168,The Cally,"427 Caledonian Road, London, N7 9BG",51.5457513,-0.1180862,pub,,,,,,£,,,1.2,1500,false
+4558839822,The Bethnal Green Tavern,"456 Bethnal Green Road, London, E2 0EA",51.5269533,-0.0583505,pub,,,,3.55,47,£,,,1.2,2130,false
+4564380187,The Elephant and Castle,"119 Newington Causeway, London, SE1 6BN",51.4953555,-0.0996603,pub,Su-We 12:00-24:00; Th 12:00-25:00; Fr-Sa 12:00-26:00,,,2.85,18,£,,,1.2,1710,true
+4564625488,Nancy Spains,"143 Fenchurch Street, London, EC3M 6BL",51.5116889,-0.0826189,pub,Mo-Fr 08:00-18:30; Sa-Su off,547,,3.65,22,£,,,1.2,2789,false
+4607932812,Cheers Bar & Lounge,"5-9 Leytonstone Road, London, E15 1JA",51.5461024,0.0046061,pub,Mo-Sa 18:00-23:00; Su 17:00-22:00,61,,2.7,5,£,,,1.2,1669,true
+4617068622,Ganley's Irish Bar,"43-45 London Road, SM4 5HT",51.4024188,-0.1935054,pub,Mo-Sa 09:00-17:30; Su 10:00-16:00,663,,,,£,,,1.2,1997,false
+4631588190,The Breakfast Pub,"9 Battersea Rise, London, SW11 1HG",51.4608635,-0.1629048,pub,,58,,3.35,11,£,,,1.2,2068,false
+4636003065,The Dairyman,"16-18 High Street, Brentwood, CM14 4AB",51.6207556,0.3044383,pub,"Mo-Th, Su 08:00-24:00; Fr-Sa 08:00-25:00",,,,,£,,,1.2,1500,true
+4682459836,The Racehorse,,51.3663292,-0.1673205,pub,,289,,,,£,,,1.2,1717,false
+4706545131,The Man of Aran,,51.5732914,-0.3708659,pub,Mo-Su 11:30-22:45,,,,,£,,,1.2,1500,true
+4717389968,The King & Co.,"100 Clapham Park Road, London, SW4 7BZ",51.4595004,-0.1340734,pub,"Mo-We 16:00-23:00, Th 16:00-00:00, Fr 16:00-01:00, Sa 12:00-01:00, Su 12:00-23:00",,,,,£,,,1.2,1500,true
+4810177421,Heist Bank,"5 North Wharf Road, London, W2 1LA",51.5188127,-0.1761484,pub,Mo 12:00-22:00; Tu 12:00-23:00; We-Th 12:00-23:30; Fr-Sa 12:00-24:00; Su 12:00-20:00,1273,,,,£,,,1.2,2455,false
+4821946845,The Phoenix,"Windsor Walk, London, SE5 8BB",51.4680147,-0.0896697,pub,,740,,2.45,64,£,,,1.2,2014,false
+4894490332,The Highgate Inn,,51.5782645,-0.148846,pub,,95,,,,£,,,1.2,1571,false
+4926469145,The Merton Apprentice,"14 Watermill Way, London, SW19 2RD",51.4132666,-0.1832663,pub,Tu-Su 12:00-21:30; Mo off; PH 11:00-18:00,314,,2.85,63,£,,,1.2,1978,true
+4928682125,The Cricketers,,51.3678236,-0.3114189,pub,,165,,,,£,,,1.2,1624,false
+4969009472,Long Arm Pub & Brewery,"20-26 Worship Street, London, EC2A 2DX",51.5219834,-0.0855031,pub,Th-Sa 11:00-02:00; Mo-We 11:00-00:00; Su 11:00-23:00,,,,,£,,,1.2,1500,true
+4975270291,Nine Elms Tavern,"3 Riverlight Quay, London, SW11 8AY",51.4825263,-0.1375016,pub,,,,,,£,,,1.2,1500,false
+5101640778,The Royal Surrey,,51.4028738,-0.1918306,pub,,459,,,,£,,,1.2,1844,false
+5141625722,The Sir John Hawkshaw,"Cannon Street, London, EC4N 6AP",51.510926,-0.0899801,pub,,16491,,3,3,£,,,1.2,16642,false
+5192841322,Ninth Ward,"99-101 Farringdon Road, London, EC1R 3BN",51.5224158,-0.1074931,pub,Tu-We 16:00-26:00; Th-Fr 12:00-27:00; Sa 17:00-27:00,2353,,,,£,,,1.2,3265,false
+5202423829,Fabal Beerhall,"88 Druid Street, London, SE1 2HQ",51.4993771,-0.0747406,pub,Th-Fr 17:00-22:00 Sa 15:00-23:00,22,,,,£,,,1.2,1516,true
+5202722021,The Bootlegger Vault,"5 Hill Street, Richmond, TW9 1SX",51.4593606,-0.3063852,pub,Mo-Fr 08:30-18:00; Sa 08:30-16:00,,,3.4,12,£,,,1.2,2040,true
+5205813437,Lane7,,51.4971488,-0.1391026,pub,,,,,,£,,,1.2,1500,false
+5223910042,"Guy, Earl of Warwick",,51.4610664,0.1155388,pub,,,,,,£,,,1.2,1500,false
+5238249940,The Running Horse,"7 Piazza Walk, London, E1 8FU",51.5136121,-0.0698082,pub,Mo-Th 11:00-23:00; Fr 11:00-00:0; Sa 12:00-00:00; Su 12:00-21:30,643,,,,£,,,1.2,1982,false
+5264614507,Catford Cricket Club,"Penerley Road, London, SE6 2LQ",51.4417841,-0.019064,pub,,,,,,£,,,1.2,1500,false
+5298709221,Upminster TapRoom,"1b Sunnyside Gardens, RM14 3DT",51.5560177,0.251602,pub,,96,,,,£,,,1.2,1572,false
+5314020623,The Rose,,51.5021916,-0.0855668,pub,Mo-Fr 09:00-17:00,,,,,£,,,1.2,1500,true
+5318608431,Brewers Fayre,,51.455812,0.1429912,pub,,1782,,,,£,,,1.2,2837,false
+5318857042,Foresters Arms,,51.4753607,0.1086134,pub,,,,,,£,,,1.2,1500,false
+5318857043,Rose and Crown,"15 Welling High Street, DA16 1TR",51.4620055,0.1128861,pub,Tu-Th 15:00-17:00; Fr 15:00-22:00; Sa 12:00-22:00; Su 12:00-17:00,,,,,£,,,1.2,1500,true
+5370783634,Ivy Tree,"113-117, RM1 1NX",51.5757041,0.1831804,pub,Mo-Th 06:00-23:45; Fr-Sa 06:00-04:00; Su 07:00-24:00,4546,,,,£,,,1.2,4910,false
+5382875197,The Golden Lion,"2 High Street, Romford, RM1 1HR",51.5784833,0.1800662,pub,,5767,,,,£,,,1.2,5825,false
+5396322682,The Ring,"72 Blackfriars Road, London, SE1 8HA",51.5035696,-0.1048294,pub,Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-21:30,,,3.25,54,£,,,1.2,1950,true
+5418886554,The Space Bar,"269 Westferry Road, London, E14 3RS",51.4921523,-0.0241157,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-22:30,200,,3.75,6,£,,,1.2,2475,true
+5493122124,The Charlotte,,51.5038279,-0.1019917,pub,,,,,,£,,,1.2,1500,false
+5513818707,The Wigmore,"15 Langham Place, London",51.5174615,-0.1431601,pub,Mo-We 12:00-00:00; Th-Sa 12:00-01:00; Su 12:00-19:00,,,2.75,2,£,,,1.2,1650,true
+5522217684,Dirty South,"162 Lee High Road, London, SE13 5PR",51.4587707,-0.003004,pub,,357,,2.2,19,£,,,1.2,1556,false
+5567081656,The North Star,"271 Hook Road, Chessington, KT9 1EQ",51.3709474,-0.3055479,pub,,,,,,£,,,1.2,1500,false
+5593327043,BrewDog,"Great Tower Street, London, EC3R 5AR",51.5099031,-0.0807577,pub,Mo-We 12:00-23:00; Th 12:00-01:00; Fr 12:00-00:00; Sa 11:00-00:00; Su 11:00-23:00,9762,,,,£,,,1.2,8822,false
+5641663540,One Under Lime,"1 Leadenhall Place, London, EC3M 7DX",51.5129709,-0.0828055,pub,,4403,,,,£,,,1.2,4802,false
+5656299527,Red Lion,,51.6524746,-0.1990388,pub,,,,,,£,,,1.2,1500,false
+5722196422,Exchange Square,,51.5200131,-0.0808406,pub,,,,,,£,,,1.2,1500,false
+5762034694,Bridge Tavern,,51.6141423,-0.2490155,pub,Mo-Sa 08:00-20:00; Su 10:00-16:00,,,,,£,,,1.2,1500,true
+5776764640,The Cotton Mill,"Station Road, Swanley, BR8 8ET",51.3950476,0.1754828,pub,"Mo-Fr 16:00-22:00; Sa, Su 12:00-22:00",,,,,£,,,1.2,1500,true
+5782065244,The Country House,"2 Groton Road, London, SW18 4EP",51.4420315,-0.1889649,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-22:30,,,3.9,16,£,,,1.2,2340,true
+5793837555,The Colley Rowe Inn,"54-56 Collier Row Road, Romford, RM5 3PA",51.5988869,0.1609218,pub,"Mo,Tu,We,Th,Fr,Sa,Su 08:00-24:00",,,,,£,,,1.2,1500,true
+5808945114,The Naturalist,"14, London, N4 2GB",51.5709833,-0.092781,pub,,,,2.45,58,£,,,1.2,1470,false
+5810947062,The Waterside Venue,,51.6332248,-0.4941487,pub,,,,,,£,,,1.2,1500,false
+5838556142,The Hangar,"37 The Oval, DA15 9ER",51.4452939,0.1026691,pub,,,,,,£,,,1.2,1500,false
+5839570763,The Radius Arms,"205 Godstone Road, Whyteleafe, CR3 0EL",51.3093548,-0.0796121,pub,"Tu-Th 16:00-21:30; Fr,Sa 14:00-22:30; Su 12:00-17:00",481,,,,£,,,1.2,1861,true
+5843761645,Salt Deptford,"Market Yard, London, SE8 4BX",51.4780491,-0.0265975,pub,Mo-Th 16:00-23:00; Fr-Sa 12:00-23:00; Su 12:00-22:00,,,,,£,,,1.2,1500,true
+5892620632,Welcome Inn,"300 Parchmore Road, Thornton Heath, CR7 8HB",51.4074239,-0.1050308,pub,,,,,,£,,,1.2,1500,false
+5892671249,The Cricketers,"47 Shirley Road, Croydon, CR0 7ER",51.3812987,-0.0629125,pub,,,,,,£,,,1.2,1500,false
+5966233133,The Orchard,"116 Orchard Way, Croydon, CR0 7NN",51.3858533,-0.0401536,pub,Mo-Su 07:00-22:00,,,,,£,,,1.2,1500,true
+6019922913,Tiffty Tom's,"249 Neasden Lane, London, NW10 1QG",51.5594154,-0.2501576,pub,24/7,114,,2.75,8,£,,,1.2,1744,true
+6052873806,The Star,,51.5634509,-0.1426426,pub,,350,,,,£,,,1.2,1763,false
+6090098885,VII Hotel and Indian Food,"760-762 Bath Road, TW5 9TY",51.4798171,-0.412172,pub,,,,,,£,,,1.2,1500,false
+6119354792,The Gun,"54 Brushfield Street, London, E1 6AG",51.5189211,-0.0761157,pub,Mo-Sa 12:00-23:30; Su 12:00-22:00,,,2.5,52,£,,,1.2,1500,true
+6176371085,Northumberland Arms,"11 London Road, TW8 8JB",51.4822506,-0.3127708,pub,,,,,,£,,,1.2,1500,false
+6185626255,Stag's Head,"102 New Cavendish Street, London",51.5199434,-0.1432132,pub,,126,,2.85,20,£,,,1.2,1818,false
+6187878854,Comrades Club,,51.3329849,-0.2663093,pub,,,,,,£,,,1.2,1500,false
+6284663193,J.J. Moon's,"553 Kingsbury Road, London, NW9 9EL",51.5846271,-0.2800026,pub,Mo-Su 09:00-22:00,,,3.3,21,£,,,1.2,1980,true
+6284670927,J.J. Moon's,,51.4278691,-0.1684081,pub,Tu-We 17:00-12:00; Th 17:00-00:30; Fr 17:00-02:00; Sa 14:00-02:00; Su:17:00-00:00,,,,,£,,,1.2,1500,true
+6293653478,On Broadway,,51.6319862,-0.0957415,pub,,,,,,£,,,1.2,1500,false
+6293653585,The Three Wishes,,51.6317023,-0.0959212,pub,,,,,,£,,,1.2,1500,false
+6337495198,The Black Dog,,51.4855411,-0.3018164,pub,"Mo,We,Th 12:00-23:00; Fr,Sa 12:00-23:30; Su 12:00-22:30",221,,,,£,,,1.2,1666,true
+6345003065,Battersea Brewery,"12-14 Arches Lane, London, SW11 8AB",51.4828518,-0.147044,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-23:00,,,,,£,,,1.2,1500,true
+6351723681,The Grazing Goat,"6 New Quebec Street, London",51.5152677,-0.1581425,pub,Mo-Fr 10:30-18:00; Sa 10:00-18:00; Su 10:00-17:00,,,2.25,2,£,,,1.2,1350,true
+6358222785,The Pregnant Man,"40 Chancery Lane, London, WC2A 1JA",51.5165968,-0.1122479,pub,Mo-We 12:00-23:00; Th-Fr 12:00-00:00,,,,,£,,,1.2,1500,true
+6364969835,The High Cross,"350 High Road, London, N17 9HT",51.5893789,-0.0701255,pub,Su 12:00-22:30; Tu-We 16:00-23:00; Th-Sa 12:00-23:00,,,,,£,,,1.2,1500,true
+6374297856,The Bell on the Green,"661 Staines Road, Feltham, TW14 8PA",51.4511716,-0.4386407,pub,Su-Th 11:00-23:00; Fr-Sa 11:00-00:30,297,,,,£,,,1.2,1723,true
+6381240591,The Signal Box,"Eversholt Street, London, NW1 2HS",51.5280324,-0.1328679,pub,Mo-Sa 06:00-23:00; Su 07:00-22:00,59677,,,,£,,,1.2,46258,false
+6488078275,Mother Kelly's E20,"27-30 Victory Parade, London, E20 1FS",51.5480468,-0.0099843,pub,,,,,,£,,,1.2,1500,false
+6503338427,The Hare and Hounds,"325 Purley Way, Croydon, CR0 4NU",51.3715457,-0.1170962,pub,,,,,,£,,,1.2,1500,false
+6561669265,The Station Pantry,,51.5317471,-0.1263722,pub,Mo-Sa 06:00-21:00; Su 07:00-21:00,,,,,£,,,1.2,1500,true
+6568034385,Bullfinch Brewery,"London, SE24 9EH",51.4481716,-0.1016817,pub,Tu-Su 12:00-22:00,,,,,£,,,1.2,1500,true
+6572865790,O'Briens,"137 Uxbridge Road, London, W13 9AU",51.5113903,-0.3155599,pub,,,,,,£,,,1.2,1500,false
+6634608910,The Wheatsheaf,"6 Windus Road, London, N16 6UP",51.5661351,-0.0722466,pub,,,,,,£,,,1.2,1500,false
+6646417005,The Swan,"25 Park Road, Bushey, WD23 3EE",51.6454739,-0.3642928,pub,Mo-Sa 12:00-23:00; Su 12:00-22:30,,,,,£,,,1.2,1500,true
+6677415686,The Ice Wharf,"Jamestown Road, London, NW1 7BY",51.5407576,-0.1456555,pub,"Mo,Tu,We,Su 08:00-23:30; Th 08:00-24:30; Fr,Sa 08:00-25:30",,,3.2,7,£,,,1.2,1920,true
+6795775062,Battersea Brewery,"8 Almond Road, London, SE16 3LR",51.491708,-0.0595038,pub,Sa 12:00-21:00,,,,,£,,,1.2,1500,true
+6796796385,Karamel,"4 Coburg Road, London",51.5944758,-0.1124687,pub,,,,,,£,,,1.2,1500,false
+6802993456,The Telegraph,"11 Telegraph Street, London, EC2R 7AR",51.5157141,-0.0886215,pub,,,,3,21,£,,,1.2,1800,false
+6939589391,Pressure Drop,,51.5905271,-0.0580414,pub,,,,,,£,,,1.2,1500,false
+6954207936,BrewDog,"London, W5 2TD",51.5134063,-0.3057929,pub,Mo-Sa 06:30-18:30; Su 06:30-18:00,,,,,£,,,1.2,1500,true
+6960153522,The Eva Hart,"1128 High Road, Romford, RM6 4AH",51.5704744,0.1300529,pub,,,,,,£,,,1.2,1500,false
+7037984244,The Bolthole,"12 Falconwood Parade, DA16 2PL",51.4567531,0.0944014,pub,,,,,,£,,,1.2,1500,false
+7039548576,White Swan,"21 Alie Street, London, E1 8DE",51.5136334,-0.0717175,pub,Mo-Fr 11:00-23:00,300,,,,£,,,1.2,1725,true
+7039559892,Black Horse,"40 Leman Street, London, E1 8EU",51.5137054,-0.0707311,pub,Mo-Sa 12:00-23:29,,,,,£,,,1.2,1500,true
+7056928285,Exale Taproom,"Blackhorse Lane, London, E17 5QJ",51.5932478,-0.0414688,pub,Th 16:00-23:00; Fr 16:00-02:00; Sa 12:00-02:00; Su 12:00-20:00,20619,,,,£,,,1.2,16964,false
+7061825385,The Surprise,"16 Southville, London, SW8 2PP",51.47448,-0.1313166,pub,,,,3.45,32,£,,,1.2,2070,false
+7089487689,,,51.4708086,-0.4814933,pub,,,,,,£,,,1.2,1500,false
+7099537759,The Hayden,,51.5153695,-0.1913501,pub,Mo-Sa 10:00-23:00; Su 10:00-22:30,,,,,£,,,1.2,1500,true
+7179078030,The Leather Saddle,"138 Broadway, London, W13 0TL",51.5097694,-0.3272,pub,,,,,,£,,,1.2,1500,false
+7179078032,The Old Hat,"128 Broadway, London, W13 0SY",51.509947,-0.3265639,pub,,97,,3.4,19,£,,,1.2,2139,false
+7250542203,The Tommy Flowers,"50 Aberfeldy Street, London, E14 0NU",51.513588,-0.0053807,pub,Th-Sa 11:00-16:00,,,,,£,,,1.2,1500,true
+7398105829,The Barrel Project,"80 Druid Street, London, SE1 2HQ",51.4994717,-0.0748793,pub,We-Fr 16:00-23:00; Sa 11:00-23:00; Su 12:00-19:00,,,,,£,,,1.2,1500,true
+7398105830,Moor Beer Co,"71 Enid Street, London, SE16 3RA",51.4978208,-0.0727331,pub,Th 16:00-22:30; Fr 14:00-22:30; Sa 12:00-23:30; Su 13:00-19:00+,10892,,,,£,,,1.2,9669,false
+7398105832,Gosnells Meadery Taproom,"72 Enid Street, London, SE16 3RA",51.4977781,-0.0726563,pub,We-Fr 16:00-22:30; Sa-Su 12:00-22:30,,,,,£,,,1.2,1500,true
+7523464145,The Windjammer,"25 Admiralty Avenue, London, E16 2PN",51.4994426,0.031017,pub,Mo-Sa 12:00-23:00; Su 12:00-22:00,1143,,,,£,,,1.2,2357,false
+7549942987,The Perseverance,"63 Lamb's Conduit Street, London",51.5222375,-0.1188581,pub,"Mo-We 08:50-20:00, Th 08:50-13:00, Fr 08:50-18:30",,,2,41,£,,,1.2,1200,true
+7550093574,The Queens Head,"64 Theobalds Road, London, WC1X 8SF",51.5206791,-0.1170161,pub,,,,3.1,19,£,,,1.2,1860,false
+7550117864,The Rugby Tavern,"19 Great James Street, London, WC1N 3ES",51.5219851,-0.1173567,pub,,,,3.1,37,£,,,1.2,1860,false
+7581534029,The Kings Arms,"110 Uxbridge Road, London, W7 3SU",51.5086895,-0.3373287,pub,,,,1.55,17,£,,,1.2,930,false
+7590593053,The Lady Ottoline,"11a Northington Street, London, WC1N 2JF",51.5220506,-0.1150708,pub,,,,3.1,27,£,,,1.2,1860,false
+7616166984,Three Hounds,"57 Beckenham Road, Beckenham, BR3 4PR",51.4085153,-0.0391288,pub,Mo-We 15:00-22:00; Th 14:00-22:00; Fr 09:00-18:00; Sa 12:00-22:00; Su 12:00-21:00,,,,,£,,,1.2,1500,true
+7804014021,Tap Room,,51.606551,-0.1188983,pub,,,,,,£,,,1.2,1500,false
+7858027226,The Duke of Clarence,"148 Old Brompton Road, London, SW5 0BE",51.4908911,-0.1825444,pub,,,,3.55,13,£,,,1.2,2130,false
+7929807779,London Welsh Bar,"157-163 Gray's Inn Road, London, WC1X 8UE",51.5248677,-0.1170162,pub,Mo Off; Tu-Th 18:00-23:00; Fr Off; Sa Off; Su Off,,,,,£,,,1.2,1500,true
+8132648120,K K McCools,"265 West Green Road, London, N15 3BH",51.5862995,-0.0889222,pub,Mo-Th 11:00-00:00; Fr-Sa 11:00-01:00; Su 12:00-00:00,,,,,£,,,1.2,1500,true
+8167917118,The Pembroke,"261 Old Brompton Road, London, SW5 9JA",51.4889152,-0.1914946,pub,,227,,2.75,14,£,,,1.2,1837,false
+8308248176,The Sydney Arms,"70 Sydney Street, London, SW3 6NJ",51.4887592,-0.1695057,pub,,,,1.75,22,£,,,1.2,1050,false
+8324913615,The Lord Nelson,"386 Old Kent Road, London, SE1 5AA",51.4867601,-0.0741916,pub,Mo-Fr 11:00-23:00; Sa 11:00-01:00; Su 12:00-22:30,,,2.95,10,£,,,1.2,1770,true
+8355222754,Gravity Well Taproom,"Arch 155 Midland Road, London, E10 6JT",51.5697138,-0.007739,pub,We-Th 16:00-22:00; Fr 16:00-24:00; Sa 12:00-24:00; Su 12:00-18:00,,,,,£,,,1.2,1500,true
+8363665233,Rose & Crown,"90-92 Lower Sloane Street, London, SW1W 8BU",51.4901063,-0.1569458,pub,,,,2.4,26,£,,,1.2,1440,false
+8427001121,Black George,"181 Uxbridge Road, London, W13 9AA",51.5111175,-0.3173636,pub,,215,,,,£,,,1.2,1661,false
+8475949320,The Craft Beer Rooms,,51.3759898,0.0102046,pub,Mo-Fr 11:00-00:00; Sa-Su 12:00-00:00;,,,,,£,,,1.2,1500,true
+8478118703,The Coney,"35 Croydon Road, West Wickham, BR4 9HZ",51.3701653,0.0006925,pub,,,,,,£,,,1.2,1500,false
+8494272578,The Wheatsheaf on the Green,"40 Esher Green, Esher, KT10 8AG",51.371597,-0.3665668,pub,,,,,,£,,,1.2,1500,false
+8568369522,The Dolphin,,51.5436041,-0.4878349,pub,,,,,,£,,,1.2,1500,false
+8572811479,The Oddfellows,"14 Fearnley Street, Watford",51.6523997,-0.4007681,pub,,,,,,£,,,1.2,1500,false
+8605476853,Tooting Tram & Social,,51.426693,-0.1667803,pub,Mo-Th 06:00-02:00; Fr-Sa 06:00-03:00; Su 06:00-02:00,,,,,£,,,1.2,1500,true
+8620475154,Queens Tavern,"121 South Africa Road, London, W12 7PA",51.5104553,-0.230398,pub,Mo-Su 06:00-22:00,246,,1.9,15,£,,,1.2,1280,true
+8632612927,Creative Juices Brewing Company,"Denham Way, Rickmansworth, WD3 9XQ",51.6284246,-0.5092132,pub,,713,,,,£,,,1.2,2035,false
+8707334318,The Owl and the Pussycat,"106 Northfield Avenue, London, W13 9RT",51.5029728,-0.3170027,pub,Mo-Sa 16:00-22:00; Su 13:00-17:00,71,,3.5,2,£,,,1.2,2175,true
+8714409426,Players,"184 Northfield Avenue, London, W13 9SB",51.5009748,-0.3154255,pub,,60,,,,£,,,1.2,1545,false
+8736085499,Ramble Inn,,51.4226708,-0.1601958,pub,,1919,,,,£,,,1.2,2939,false
+8737259738,Ryan's,"282-284 Northfield Avenue, London, W5 4UB",51.49837,-0.3140408,pub,,106,,3.35,32,£,,,1.2,2117,false
+8757588717,The Joiners Arms,"50-52 Woodside Green, London, SE25 5EU",51.3870114,-0.0703479,pub,,,,3.75,15,£,,,1.2,2250,false
+8821717717,Babel Beerhouse,"1 Lewis Cubitt Walk, London, N1C 4DL",51.5377081,-0.125856,pub,Mo 12:00-22:00; Tu-Fr 12:00-23:00; Sa 12:00-24:00; Su 12:00-22:00,,,,,£,,,1.2,1500,true
+8830280452,The Dark Horse,"87/88 North Yard, London, NW1 8AH",51.5426466,-0.148964,pub,,,,2.45,29,£,,,1.2,1470,false
+8901025031,Bickley & Widmore Working Men's Club,,51.4015272,0.035294,pub,,251,,,,£,,,1.2,1688,false
+8904125782,Wishful Drinking Bottleshop & Taproom,"124 High Street, Rickmansworth, WD3 1AB",51.6392156,-0.4723185,pub,Su-Th 12:00-23:00; Fr 12:00-23:30; Sa 11:00-23:30,47,,,,£,,,1.2,1535,true
+9008497216,Cloudwater,"73 Enid Street, London, SE16 3RA",51.4977423,-0.072581,pub,Mo 17:00-22:00; Tu-Th 15:00-22:00; Fr-Sa 13:00-22:00; Su 13:00-20:00,10892,,,,£,,,1.2,9669,false
+9008509217,Bianca Road Brew Co.,"83-84 Enid Street, London, SE16 3RA",51.4974282,-0.0719546,pub,We-Fr 14:00-22:00; Sa 13:00-21:00; Su 12:00-19:00,10892,,,,£,,,1.2,9669,false
+9008509218,Craft Beer Junction,"86 Enid Street, London, SE16 3RA",51.4973064,-0.0717147,pub,We-Th 16:00-23:00; Fr 15:00-23:00; Sa 12:00-23:00; Su 12:00-22:00,10892,,,,£,,,1.2,9669,false
+9026571820,Villages,"21-26 Resolution Way, London, SE8 4NT",51.4784965,-0.0238312,pub,Th-Fr 18:00-23:00; Sa 12:00-23:00; Su 12:00-22:00,,,,,£,,,1.2,1500,true
+9117411107,The Blythe Hill Tavern,"319 Stanstead Road, London, SE23 1JB",51.4423194,-0.033722,pub,Mo-We 11:00-23:00; Th-Sa 11:00-24:00; Su 12:00-23:00,,,3.85,57,£,,,1.2,2310,true
+9205363977,The Albion,"121 Hammersmith Road, London, W14 0QL",51.4944109,-0.2127554,pub,,,,3.05,48,£,,,1.2,1830,false
+9316184134,Grosvenor Arms,"17 Sidney Road, London, SW9 0TP",51.4699105,-0.1172631,pub,"Mo-Fr 16:00-23:59,00:00-11:30; Sa 12:00-23:30; Su 12:00-22:30",604,,3.5,9,£,,,1.2,2734,false
+9349335666,Prince of Wales,"23 Bridge Road, East Molesey, KT8 9EU",51.4026419,-0.3446994,pub,,393,,1.9,5,£,,,1.2,1364,false
+9389683114,The Market Tavern,"28 Market Street, Watford",51.6546184,-0.3989006,pub,,966,,,,£,,,1.2,2225,false
+9394266492,The Hoxton Hound,,51.5308048,-0.0757684,pub,"""See openning of museum""",,,,,£,,,1.2,1500,true
+9470159573,The Pick & Shovel,"148 Shenley Road, Borehamwood, WD6 1EQ",51.657275,-0.2721574,pub,,388,,,,£,,,1.2,1791,false
+9510946145,Parlez,"16 Coulgate Street, London, SE4 2RW",51.4642009,-0.0373021,pub,,232,,,,£,,,1.2,1674,false
+9522865779,The Growler Stop,"Spital Street, Dartford, DA1 2EH",51.4454917,0.21303,pub,Mo-Th 11:00-01:15; Fr-Sa 11:00-02:30; Su 11:00-01:15,833,,,,£,,,1.2,2125,false
+9534867395,Mad Squirrel Taproom,"High Street, Watford",51.6539263,-0.394,pub,Mo-Sa 12:00-23:30,,,,,£,,,1.2,1500,true
+9607793865,Joiners Arms,"66 Lewisham High Street, London, SE13 5JH",51.4632432,-0.0107425,pub,,41,,2.05,22,£,,,1.2,1255,false
+9657161178,Badger Badger,"139-145 Deptford High Street, London, SE8 3NU",51.4790804,-0.0262163,pub,Mo-Th 10:00-23:00; Fr 10:00-25:00; Sa-Su 12:00-25:00,154,,,,£,,,1.2,1616,true
+9658592156,Champions Bar,,51.4367221,0.2311618,pub,,,,,,£,,,1.2,1500,false
+9669182144,The Plum Tree Beer Shop,"154 Plumstead Common Road, London, SE18 2UL",51.4808444,0.078666,pub,,,,,,£,,,1.2,1500,false
+9762808911,The Anchor & Hope,"36 The Cut, London, SE1 8LP",51.5034633,-0.1066199,pub,Mo-Tu 16:00-22:30; We-Sa 11:00-22:30; Su 12:00-18:00,107,,2.7,32,£,,,1.2,1707,true
+9805131739,The Twelve Pins,"263 Seven Sisters Road, London, N4 2DE",51.5648205,-0.1047935,pub,"Mo-Th 12:00-24:00; Fr 11:00-24:00; Sa 00:00-01:00,11:00-24:00; Su 00:00-01:00,11:00-24:00",554,,3.25,57,£,,,1.2,2490,false
+9833906511,Brick Brewery Taproom,,51.4696022,-0.0695297,pub,,,,,,£,,,1.2,1500,false
+9837045117,Horse & Chains,,51.6412351,-0.3586477,pub,,200,,,,£,,,1.2,1650,false
+9878756230,Old Town Tavern,29 North Street,51.4661168,-0.1421957,pub,"Mo 17:00-22:00; Tu-Th 17:00-00:00; Fr, Sa 14:00-02:00; Su 12:00-23:00",105,,2.65,18,£,,,1.2,1673,true
+9891375140,The Green Goddess,"43A Vanbrugh Park, London, SE3 7AB",51.4771393,0.0188457,pub,Tu 16:00-22:30; We-Sa 12:00-22:30; Su 12:00-21:00,226,,,,£,,,1.2,1670,true
+9908253789,Bishops,"399 Fulham Palace Road, London, SW6 6TA",51.474133,-0.2131703,pub,,,,,,£,,,1.2,1500,false
+9962758030,BrewDog,"1 The Sidings, London",51.5021808,-0.1154758,pub,,58614,,,,£,,,1.2,45461,false
+10062643211,The Rosy Hue,,51.4938637,-0.0973295,pub,,693,,,,£,,,1.2,2020,false
+10087011293,Brixton Brewery Tap Room,"548 Brixton Station Road, London, SW9 8PF",51.4634936,-0.1094562,pub,,,,,,£,,,1.2,1500,false
+10092511647,The Hanbury,"33 Linton Street, London, N1 7DU",51.5361093,-0.0934055,pub,Mo 15:00-22:00; Tu-Th 12:00-22:00; Fr-Sa 12:00-23:00; Su 12:00-22:00,,,2.65,14,£,,,1.2,1590,true
+10095833252,Prince Albert Rose's,,51.4933673,0.0634517,pub,,119,,,,£,,,1.2,1589,false
+10105926112,The Graduate,"107-109 Blackheath Road, London, SE10 8PD",51.4731439,-0.0153915,pub,"Mo-Th, Sa 11:00-24:00; Fr 11:00-26:30; Su 11:30-23:00",,,3.05,9,£,,,1.2,1830,true
+10112312066,Life of Reilly,,51.6008844,-0.3181673,pub,,,,,,£,,,1.2,1500,false
+10155383322,The Grey Horse,"46 Richmond Road, Kingston upon Thames, KT2 5EE",51.414309,-0.3006312,pub,Su-Th 12:00-23:00; Fr-Sa 12:00-01:00,2903,,,,£,,,1.2,3677,false
+10213894381,Finchley Tavern,"686 High Road, London, N12 9PT",51.6129652,-0.1756474,pub,,886,,3.8,14,£,,,1.2,3290,false
+10245706076,Brick Lane Taproom,"Brick Lane, London, E1 6QL",51.520961,-0.0724088,pub,,2054,,2.6,39,£,,,1.2,3162,false
+10251784717,The Buxton,"42 Osborn Street, London, E1 6TD",51.5172501,-0.0702726,pub,"Mo-Th 08:00-23:00; Fr,Sa 08:00-23:30; Su 08:00-19:30",80,,2,12,£,,,1.2,1248,true
+10253245701,The River Ale House,"131 Woolwich Road, London, SE10 0RJ",51.4862674,0.0132944,pub,Mo-Th 16:00-23:00; Fr 14:00-23:00; Sa 12:00-23:00; Su 13:00-23:00,,,,,£,,,1.2,1500,true
+10263469468,No.8 Tottenham,"724-726 High Road, London, N17 0AG",51.6020531,-0.0674609,pub,Mo-We 12:00-22:00; Th-Fr 12:00-23:00; Sa 11:00-23:00; Su 11:00-21:00,305,,2.05,8,£,,,1.2,1418,true
+10266440541,Kings Arms,"16 King William Walk, London, SE10 9JH",51.4808515,-0.007991,pub,Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 12:00-23:00,95,,2.95,46,£,,,1.2,1854,true
+10266440578,The Coach and Horses,"13, London, SE10 9HZ",51.4812645,-0.0090227,pub,Mo-Sa 11:00-23:00; Su 12:00-22:30,,,3.3,19,£,,,1.2,1980,true
+10266440595,The Spanish Galleon,"48 Greenwich Church Street, London, SE10 9BL",51.4816772,-0.0098856,pub,Mo-We 10:30-23:00; Th 10:30-24:00; Fr 10:30-26:00; Sa 10:00-26:00; Su 10:00-23:00,216,,3.2,69,£,,,1.2,2127,true
+10266440600,The Admiral Hardy,"7 College Approach, London, SE10 9HY",51.4819384,-0.0091343,pub,Mo 12:00-19:00; Tu-We 12:00-21:00; Th-Sa 12:00-23:00; Su 12:00-20:00,,,2.9,16,£,,,1.2,1740,true
+10266440633,The Gipsy Moth,"60 Greenwich Church Street, London, SE10 9BL",51.4822685,-0.0097961,pub,Su-Th 12:00-23:00; Fr-Sa 12:00-00:00,,,,,£,,,1.2,1500,true
+10266443623,Greenwich Tavern,"1 King William Walk, London, SE10 9JH",51.4798001,-0.0071684,pub,,,,,,£,,,1.2,1500,false
+10266449760,The Plume of Feathers,"19 Park Vista, London, SE10 9LZ",51.481845,-0.0011257,pub,Mo-Th 12:00-23:00; Fr 12:00-23:30; Sa 11:00-23:30; Su 12:00-22:30,88,,3.6,110,£,,,1.2,2255,true
+10280296806,O'Neill's,"52 Tranquil Vale, London, SE3 0BH",51.4667202,0.0078239,pub,Mo-Th 12:00-23:00; Fr 12:00-24:00; Sa 10:00-24:00; Su 10:00-23:00,282,,2.45,69,£,,,1.2,1677,true
+10557816972,Daylight Inn,"Station Square, Orpington, BR5 1LZ",51.3893975,0.0751533,pub,,634,,,,£,,,1.2,1976,false
+10582361575,The Duke of Wellington,"94A Crawford Street, London, W1H 2HQ",51.5193391,-0.1614773,pub,,79,,3,40,£,,,1.2,1871,false
+10582631413,Jono's,"Cranbrook Road, Ilford",51.559642,0.0698741,pub,,,,,,£,,,1.2,1500,false
+10728654718,The Chequers,"2 High Street, Ilford, IG6 2DD",51.5884349,0.0810853,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-00:00; Su 12:00-23:00,381,,,,£,,,1.2,1786,true
+10803150329,The Tranquil Tiger,,51.4924675,-0.0653751,pub,Mo-Fr 12:00-23:00; Sa-Su 12:00-24:00,,,,,£,,,1.2,1500,true
+10816378577,The Alfred Arms,"22 Shenley Road, Borehamwood, WD6 1AE",51.6542856,-0.2784736,pub,Mo-Su 11:15-23:25,,,,,£,,,1.2,1500,true
+10880980667,The Lord Herbert,"47 Herbert Road, London, SE18 3SZ",51.4795761,0.0690296,pub,,,,,,£,,,1.2,1500,false
+10895507318,The Mad Bishop & Bear,,51.5160154,-0.1769998,pub,,,,,,£,,,1.2,1500,false
+10924079510,Erins Hope,"189 Edgware Road, London, NW9 6LP",51.5871138,-0.2514525,pub,,,,1.75,8,£,,,1.2,1050,false
+10948970968,Two Brewers,,51.6219773,0.1201361,pub,,,,,,£,,,1.2,1500,false
+10965193065,Man on the Moon,,51.3526443,-0.0164885,pub,,406,,,,£,,,1.2,1805,false
+11006274641,Ghost Whale,"70 Atlantic Road, London, SW9 8PX",51.4609224,-0.111238,pub,"Mo 16:00-20:00; Tu 16:00-21:00; We 16:00-23:00; Th-Sa 12:00-23:00; Su, PH 12:00-20:00",608,,,,£,,,1.2,1956,false
+11007684249,Enid Street Tavern,87 Enid Street,51.4972723,-0.0716422,pub,We-Th 16:00-23:00; Fr 15:00-23:00; Sa 12:00-23:00; Su 12:00-22:00,10892,,,,£,,,1.2,9669,false
+11019827413,The Prince of Wales,"117 Ewell Road, Surbiton, KT6 6AL",51.3896258,-0.29768,pub,"Mo-Fr 09:00-17:30; Sa ""By Appointment Only""; Su off",,,,,£,,,1.2,1500,true
+11045432726,3 Locks Brewing Company,,51.5422013,-0.1433341,pub,,,,,,£,,,1.2,1500,false
+11061470043,Untraditional Pub,"35 St James Street, London, E17 7FY",51.5805937,-0.0322753,pub,Tu 16:00-22:30; We 14:00-22:30; Th-Sa 12:00-22:30; Su 12:00-21:30; Mo off,466,,,,£,,,1.2,1850,true
+11128539820,Great Beyond Brewery,"417 Union Walk, London",51.5293915,-0.076803,pub,,,,,,£,,,1.2,1500,false
+11146695407,CROL&CO,"Tanner Street, London, SE1 3LE",51.5004616,-0.0808232,pub,,,,,,£,,,1.2,1500,false
+11191798690,The Europa,"171 Walton Road, East Molesey, KT8 0DX",51.4010686,-0.3599326,pub,,98,,,,£,,,1.2,1574,false
+11266940563,Radnall Tavern,,51.3555302,-0.0203953,pub,,,,,,£,,,1.2,1500,false
+11269168700,Chestnut Tree,"Alderman's Hill, London",51.6178159,-0.1098123,pub,,,,,,£,,,1.2,1500,false
+11293946841,Fox & Hounds,"57 Plumstead Common Road, London, SE18 3AS",51.4822347,0.0698498,pub,,,,,,£,,,1.2,1500,false
+11294886973,"It ain't much, if it ain't Dutch",67-68 Enid Street,51.4979274,-0.0729433,pub,Th 17:00-22:00; Fr 15:00-22:30; Sa 12:00-22:30; Su 12:00-21:00,,,,,£,,,1.2,1500,true
+11304573103,HOP KINGDOM,"16 Druid Street, London, SE1 2EY",51.5019458,-0.0797555,pub,Mo-Th 16:00-23:00; Fr-Sa 12:00-23:00; Su 12:00-22:00;,1167,,,,£,,,1.2,2375,false
+11343785904,Westwood,,51.5095827,-0.2228276,pub,,,,,,£,,,1.2,1500,false
+11383287247,Stanley's of Streatham,"Streatham High Road, London",51.4365801,-0.1280279,pub,,,,2.15,3,£,,,1.2,1290,false
+11383287251,Five Bells,"68-70 Streatham High Road, London, SW16 1DA",51.4362887,-0.1280882,pub,,,,2.4,21,£,,,1.2,1440,false
+11400151675,One Inn the Wood,"209 Petts Wood Road, Orpington, BR5 1LA",51.390089,0.0738376,pub,,62,,,,£,,,1.2,1547,false
+11402769342,The White Swan,"26 Old Palace Lane, Richmond, TW9 1PG",51.4612183,-0.3112934,pub,"Mo-Sa 12:00-23:00, Su 12:00-22:30",108,,,,£,,,1.2,1581,true
+11445942141,The Captain Flinders,"34-38 Eversholt Street, London",51.5289697,-0.1323497,pub,"Mo-Th 12:00-15:00,17:00-22:00; Fr-Su 12:00-22:00",,,,,£,,,1.2,1500,true
+11446454119,The Laurels,,51.6038797,-0.3396724,pub,,,,,,£,,,1.2,1500,false
+11545207226,Werewolf Beer,"87 Randolph Street, London, NW1 0SR",51.5415191,-0.1363874,pub,"We, Fr 16:00-21:00; Sa 12:00-21:00; Su 14:00-21:00",,,,,£,,,1.2,1500,true
+11603173108,Crate,"14 Water Street, London, E14 5GX",51.5028307,-0.0134968,pub,,2270,,,,£,,,1.2,3202,false
+11626222191,The Bull Hotel,,51.308416,0.3115984,pub,,,,,,£,,,1.2,1500,false
+11626270361,The Moat,,51.3057957,0.3297969,pub,,,,,,£,,,1.2,1500,false
+11687714203,Mother Kelly's,"16 Ashley Road, London, N17 9ST",51.5901221,-0.0615959,pub,Tu-We 16:00-23:00; Th 12:00-23:00; Fr-Sa 12:00-00:00; Su 12:00-22:30,,,,,£,,,1.2,1500,true
+11735382754,The Phoenix,"Plough Lane, London, SW17 0NR",51.4307605,-0.1869567,pub,,3915,,,,£,,,1.2,4436,false
+11739120991,Good Companion,"Shenley Road, Borehamwood, WD6 1AH",51.6566812,-0.2745026,pub,Mo-Sa 09:00-18:00; Su 10:00-17:00,,,,,£,,,1.2,1500,true
+11786475613,Joyce,"294 Brockley Road, London, SE4 2RA",51.4591881,-0.0340818,pub,Tu-Th 16:00-23:00; Fr 16:00-24:00; Sa 12:00-24:00; Su 12:00-23:00,,,,,£,,,1.2,1500,true
+11901214589,Annie Twomeys,"110-112 Chase Side, London, N14 5PH",51.6335353,-0.1316385,pub,Mo-Fr 09:00-17:30,142,,,,£,,,1.2,1607,true
+11926973569,Waxy O'Connor's London,"14-16 Rupert Street, London",51.5107981,-0.1323302,pub,,391,,3.2,105,£,,,1.2,2295,false
+11952231689,Whelans,"20 Richmond Road, Kingston Upon Thames, KT2 5EB",51.4130392,-0.3004908,pub,,1610,,,,£,,,1.2,2708,false
+12007863407,Three Compasses,"62 High Street, London, N8 7NX",51.5874988,-0.1186871,pub,Mo-Th 15:00-23:00; Fr 15:00-00:00; Sa 12:00-00:00; Su 12:00-23:00,,,3.4,59,£,,,1.2,2040,true
+12007863429,North Eight,"26 High Street, London, N8 7PB",51.5872319,-0.1204597,pub,Mo-Th 12:00-00:00; Fr-Sa 11:00-27:00; Su 11:00-00:00,275,,,,£,,,1.2,1706,true
+12023263602,The White Horse,"4 Wembley Park Boulevard, London, HA9 0HP",51.5581683,-0.2807653,pub,Mo-Sa 12:00-23:00; Su 12:00-22:30,,,,,£,,,1.2,1500,true
+12029142595,Flamingo Electric,,51.4617441,-0.1118766,pub,,356,,,,£,,,1.2,1767,false
+12077358666,Ashbourne Bar and Restaurant,,51.529258,-0.2916185,pub,,,,,,£,,,1.2,1500,false
+12093799635,VennStreet Records,78 Venn Street,51.4623566,-0.137969,pub,"Mo-Tu,Su 17:00-24:00; We 17:00-01:00; Th-Sa 17:00-02:00",165,,,,£,,,1.2,1624,true
+12183990594,The Ganton Arms,"Ganton Street, London",51.5130058,-0.1391809,pub,"Mo-We,Su 11:30-23:00; Th-Sa 11:30-24:00",,,,,£,,,1.2,1500,true
+12185302738,The Royal Standard,"44 Vanbrugh Park, London, SE3 7JQ",51.4767777,0.0187041,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-22:30,,,,,£,,,1.2,1500,true
+12189261755,The Princess of Wales,"1a Montpelier Row, London, SE3 0RL",51.469352,0.0104158,pub,Mo-Sa 12:00-23:00; Su 12:00-22:30,368,,3.05,75,£,,,1.2,2167,true
+12197064449,Bob's Courtyard Bar,"92A Balham High Road, London, SW12 9AG",51.4461436,-0.1500124,pub,Mo-Su 18:00-23:00,,,2.55,9,£,,,1.2,1530,true
+12199018632,Balham House,"92A Balham High Road, London, SW12 9AG",51.4462618,-0.1501313,pub,Mo-Su 18:00-23:00,330,,,,£,,,1.2,1748,true
+12202023783,The Crown,"49 Tranquil Vale, London, SE3 0BS",51.4665378,0.0071768,pub,Mo-Fr 12:00-23:00; Sa 11:00-23:00; Su 12:00-22:30,197,,2.85,55,£,,,1.2,1878,true
+12229930329,Katie's Bar,,51.5604669,-0.2526225,pub,,3627,,,,£,,,1.2,4220,false
+12231843057,Wetherspoons - The Lion & The Unicorn,"The Sidings, Waterloo Station, London, SE1 7BH",51.5028376,-0.1150963,pub,,58614,,,,£,,,1.2,45461,false
+12250692107,Goldwood,,51.5145461,-0.0908832,pub,,516,,,,£,,,1.2,1887,false
+12400890860,The Lamb,,51.6254907,-0.0636229,pub,"Mo 08:00-14:00; Tu-Fr 08:00-14:00,16:00-19:00; Th 08:00-14:00,16:00-20:00; Sa 08:00-15:00",366,,,,£,,,1.2,1775,true
+12431593816,The Wren Tavern,"67-69 Watling Street, London",51.5129827,-0.093276,pub,Mo-Fr 11:30-15:00,,,2.3,14,£,,,1.2,1380,true
+12437701305,The Blue Stoops,"127-129 Kensington Church Street, London, W8 7LP",51.5072365,-0.1948618,pub,"Mo-We 12:00-23:30, Th-Sa 12:00-24:00, Su 12:00-22:30",169,,,,£,,,1.2,1627,true
+12438617775,Lingfield,11 Lingfield Crescent,51.4589403,0.0802428,pub,,136,,,,£,,,1.2,1602,false
+12529152052,Goodman's Field,"87-91 Mansell Street, London, E1 8AP",51.511524,-0.0727234,pub,,,,3.05,41,£,,,1.2,1830,false
+12531850553,Lvls,"Succession Walk, London, E3 2RX",51.5405898,-0.0208404,pub,,1151,,,,£,,,1.2,2363,false
+12532959124,The Shirker's Rest,"9 Lewisham Way, London, SE14 6PP",51.4754484,-0.0356579,pub,Mo-Th 14:00-24:00; Fr-Sa 12:00-25:00; Su 12:00-24:00,,,,,£,,,1.2,1500,true
+12532959125,Marquis of Granby,"322 New Cross Road, London, SE14 6AG",51.4755875,-0.0359293,pub,Mo-Th 14:00-24:00; Fr-Sa 12:00-25:00; Su 12:00-24:00,,,3.4,28,£,,,1.2,2040,true
+12532965637,Jam Circus,"120-122 Deptford High Street, London, SE8 4NS",51.4783704,-0.025882,pub,Mo-Th 16:00-23:00; Fr 16:00-25:00; Sa 12:00-25:00; Su 12:00-22:30,,,3.15,3,£,,,1.2,1890,true
+12534156760,The Fenchurch,"72 Fenchurch Street, London",51.5126038,-0.0784658,pub,,,,,,£,,,1.2,1500,false
+12534156761,The Bolter,"Queen Street, London",51.5117408,-0.0926706,pub,,261,,,,£,,,1.2,1696,false
+12569614013,Beer Rebellion,"129 Queen's Road, London, SE15 2NB",51.4737143,-0.0586599,pub,,98,,,,£,,,1.2,1574,false
+12572448542,The Tiger,"18-19 Camberwell Green, London, SE5 7AA",51.4738085,-0.0926516,pub,Mo-Su 09:00-04:00,240,,2.1,36,£,,,1.2,1411,true
+12572448556,The Hermits Cave,"28 Camberwell Church Street, London, SE5 8QU",51.4738247,-0.0906436,pub,"Mo 12:00-22:00, Tu-Th 12:00-12:30, Fr-Sa 12:00-23:00, Su 12:00-22:30",,,3.35,49,£,,,1.2,2010,true
+12572448581,Stormbird,"25 Camberwell Church Street, London, SE5 8TR",51.4740302,-0.0903889,pub,Mo 16:00-23:00; Tu-Fr 16:00-24:00; Sa 12:30-24:00; Su 12:30-23:00,112,,2.9,38,£,,,1.2,1837,true
+12572476234,The Joiners Arms,"35 Denmark Hill, London, SE5 8RS",51.4723805,-0.0928715,pub,Mo-Fr 08:00-17:00; Sa-Su 09:00-17:00,186,,2.75,25,£,,,1.2,1803,true
+12572476260,The Camberwell Arms,"65 Camberwell Church Street, London, SE5 8TR",51.4737308,-0.0883606,pub,"Mo 17:00-23:00, Tu-Th 12:00-23:00, Fr 12:00-24:00, Sa 11:00-24:00, Su 12:00-23:00",,,,,£,,,1.2,1500,true
+12595899238,Mondo Tap,"86-92 Stewarts Road, London, SW8 4UG",51.4746712,-0.1402311,pub,We-Fr 17:00-23:00; Sa 13:00-23:00; Su 14:00-22:00,399,,,,£,,,1.2,1799,true
+12599228001,Feeney's 5 Lloyds Avenue,"5 Lloyd's Avenue, London, EC3N 3AE",51.5118019,-0.0774811,pub,Mo-Sa 11:00-23:30,,,,,£,,,1.2,1500,true
+12599552601,Three Falcons Indian Gastropub,"Orchardson Street, London, NW8 8NG",51.5241025,-0.1746223,pub,Mo-Su 12:00-23:00,,,,,£,,,1.2,1500,true
+12605423089,BR3WERY Craft Brewing Co.,"253 Beckenham Road, London, BR3 4RP",51.4099147,-0.0456995,pub,Mo-Fr 16:00-22:00; Sa 14:00-22:00; Su 14:00-20:00,,,,,£,,,1.2,1500,true
+12633147087,The Queens,"26 Tottenham Lane, London, N8 9DE",51.5809825,-0.1219242,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-23:00,,,2,44,£,,,1.2,1200,true
+12633199507,The Fox at Crouch End,"2 Park Road, London, N8 8TD",51.5805629,-0.1239783,pub,Mo-Th 12:00-23:00; Fr-Sa 11:00-24:00; Su 11:00-22:30,,,2.4,18,£,,,1.2,1440,true
+12633199509,Maynard Arms,"70 Park Road, London, N8 8SX",51.5817289,-0.1263171,pub,Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-22:30,98,,2.9,26,£,,,1.2,1825,true
+12633199535,The Railway Tavern,"23 Crouch End Hill, London, N8 8DH",51.5776486,-0.1244486,pub,Mo-We 16:00-23:00; Th-Sa 12:00-24:00; Su 12:00-23:00,155,,,,£,,,1.2,1616,true
+12679983901,The Ox,"50 Clapham High Street, London, SW4 7UL",51.4639376,-0.1326362,pub,,,,2.1,5,£,,,1.2,1260,false
+12732751720,The Elm Tree,,51.3920371,-0.3067248,pub,Mo-Th 10:00-23:00; Fr-Sa 10:00-00:00; Su 10:00-22:00,,,,,£,,,1.2,1500,true
+12775906961,The Red Lion,"85 High Street, Thames Ditton, KT7 0SF",51.3921126,-0.3319712,pub,,,,,,£,,,1.2,1500,false
+12797314961,Eko Brewery and Taproom,"Unit 2A-2, 133 Copeland Park, Copeland Rd, London, SE15 3SN",51.4697741,-0.0664803,pub,"Tu-Th 12:00-15:00, 19:00-22:00; Fr 12:00-15:00, 19:00-22:30; Mo 12:00-15:00; Su off",,,,,£,,,1.2,1500,true
+12805958167,No 58 Watling Street,"58 Watling Street, Radlett, WD7 7NN",51.6858202,-0.3185851,pub,,,,,,£,,,1.2,1500,false
+12814480101,The Blue Maid,"173 Borough High Street, London, SE1 1HR",51.5025607,-0.0919382,pub,Mo-We 12:00-23:00; Th-Sa 12:00-00:00; Su 12:00-22:00,113,,2.65,39,£,,,1.2,1680,true
+12819770592,The Crown,"176 Trafalgar Road, London, SE10 9TZ",51.4850474,0.0047255,pub,Mo-Th 16:00-23:00; Fr 12:00-24:00; Sa 11:30-24:00; Su 12:00-22:30,,,2.7,8,£,,,1.2,1620,true
+12827193551,Big J's Biltong Bar,"29 Deptford High Street, London, SE8 4AD",51.4757724,-0.0260653,pub,Mo-We 16:00-22:00; Th 16:00-23:00; Fr 16:00-24:00; Sa 14:00-24:00; Su 16:00-20:00,52,,,,£,,,1.2,1539,true
+12842476349,The Greyhound,"82 Kew Green, Richmond, TW9 3AP",51.4851724,-0.2861184,pub,,,,,,£,,,1.2,1500,false
+12873040978,The City Arms,,51.3909741,-0.322322,pub,,,,,,£,,,1.2,1500,false
+12876881598,Royal George,"85 Tanners Hill, London, SE8 4QD",51.4719833,-0.0286184,pub,,,,3.7,16,£,,,1.2,2220,false
+12876936674,The Little Crown,"495 New Cross Road, London, SE14 6TJ",51.4751413,-0.0268685,pub,Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 12:00-22:30,,,2.6,4,£,,,1.2,1560,true
+12877542100,Golden Goose,"13-15 Leadenhall Market, London",51.5127425,-0.0830857,pub,Mo 11:30-20:00; Tu-Fr 11:30-22:30; Sa-Su 12:00-17:00,,,,,£,,,1.2,1500,true
+12890502853,The Prince Of Greenwich,"70,72 Royal Hill, London, SE10 8RT",51.4761817,-0.0098595,pub,Tu-Fr 16:00-23:00; Sa-Su 12:00-23:00,93,,2.6,36,£,,,1.2,1633,true
+12890502869,Morden Arms,"1 Brand Street, London, SE10 8SP",51.4769854,-0.0115831,pub,,,,2.7,25,£,,,1.2,1620,false
+12920922066,The Cross Keys,"31 Endell Street, London, WC2H 9BA",51.5145144,-0.1247394,pub,Mo-Fr 12:00-23:30; Sa 12:00-02:00; Su 12:00-22:30,116,,,,£,,,1.2,1587,true
+12961239334,The North Pole,"131 Greenwich High Road, London, SE10 8JA",51.4768597,-0.0167946,pub,Su-We 12:00-24:00; Th 12:00-24:30; Fr-Sa 12:00-25:00,189,,2.7,35,£,,,1.2,1773,true
+12979925719,The Black Kitchen,"426-428 Streatham High Road, London, SW16 3PX",51.4216049,-0.1291775,pub,,222,,3.7,5,£,,,1.2,2466,false
+12988179261,Glasshouse Stores,"55 Brewer Street, London",51.5115163,-0.1353915,pub,Mo-Fr 10:00-15:00,78,,,,£,,,1.2,1559,true
+12997749797,The Pineapple,"53 Hercules Road, London, SE1 7DZ",51.4971851,-0.1138818,pub,Mo 12:00-22:00; Tu 12:00-23:00; We-Sa 12:00-24:00; Su 12:00-22:30,91,,2.4,20,£,,,1.2,1506,true
+12997756180,The Three Stags,"67-69 Kennington Road, London, SE1 7PZ",51.4966904,-0.1112741,pub,Mo-Sa 12:00-23:00; 12:00-22:30,104,,3.05,51,£,,,1.2,1925,true
+12997774502,Flowers of the Forest,"14 Westminster Bridge Road, London, SE1 7QX",51.4986975,-0.1065139,pub,Mo-Th 11:00-24:00; Fr-Sa 11:00-25:00; Su 11:00-23:00,152,,,,£,,,1.2,1614,true
+12997774504,Albert Arms,"1 Gladstone Street, London, SE1 6EY",51.4974018,-0.1039252,pub,Mo-Tu 16:00-22:00; We-Th 12:00-22:00; Fr-Sa 12:00-24:00; Su 12:00-20:30,103,,3.5,22,£,,,1.2,2208,true
+12997775906,The Steam Engine,"41-42 Cosser Street, London, SE1 7BU",51.4969202,-0.1126499,pub,Su-Th 09:00-24:00; Fr-Sa 09:00-25:00,182,,2.95,10,£,,,1.2,1931,true
+13017760979,The Three Wishes,,51.6008201,-0.4092886,pub,Mo-Su 07:00-22:00,1977,,,,£,,,1.2,2983,false
+13049119101,The Blenheim,"7 Manor Green Road, Epsom",51.3405298,-0.2712811,pub,,,,,,£,,,1.2,1500,false
+13054215867,The Lucky Anchor,"18 Deptford High Street, London, SE8 4AF",51.4754391,-0.0258346,pub,Mo-Th 15:00-24:30; Fr-Su 13:30-24:30,580,,,,£,,,1.2,1935,false
+13088510760,The Rose,,51.6378068,0.3272342,pub,,280,,,,£,,,1.2,1710,false
+13116885908,Camel & Artichoke,"121 Lower Marsh, London, SE1 7AE",51.5006988,-0.1132497,pub,Mo-Su 12:00-23:00,65,,2.9,48,£,,,1.2,1797,true
+13235500301,The Grenadier,"18 Wilton Row, London, SW1X 7NR",51.5014836,-0.154907,pub,Mo-Sa 12:00-23:00; Su 12:00-22:00,128,,3.05,109,£,,,1.2,1947,true
+13279695976,The Alexandra,163 Parish Lane,51.4171804,-0.0511192,pub,,324,,,,£,,,1.2,1743,false
+13315502601,The Post Bar,"316 High Road, London, N15 4BN",51.588058,-0.0704832,pub,,799,,,,£,,,1.2,2099,false
+13327212416,Three Colts Tavern,"199 Cambridge Heath Road, London, E2 0EL",51.5246889,-0.0551062,pub,,362,,2.5,2,£,,,1.2,1772,false
+13367060313,Nag's Head,"242 Camberwell Road, London, SE5 0DP",51.4769011,-0.0941155,pub,Mo-Sa 07:00-22:00; Su 09:00-17:00,115,,,,£,,,1.2,1586,true
+13376685635,The Sun Wharf,,51.5055788,-0.0857864,pub,"Mo-Fr 06:00-18:00; Sa,Su 07:00-19:00",54186,,,,£,,,1.2,42140,false
+13386371751,Great Guns Social,"96 Southwark Bridge Road, London, SE1 0EF",51.5018437,-0.0980886,pub,,81,,3,17,£,,,1.2,1873,false
+13406887823,The Queen Victoria,,51.6580771,-0.2749195,pub,,107,,,,£,,,1.2,1580,false
+13409071887,The Mulberry Bush,"89 Upper Ground, London, SE1 9PP",51.5071257,-0.1103341,pub,Mo-Sa 11:00-23:00; Su 12:00-21:00,161,,2.3,18,£,,,1.2,1491,true
+13435875145,The Broadcast,,51.509913,-0.2247588,pub,,368,,,,£,,,1.2,1776,false
+13464452837,The Three Wishes,"20 Broadwalk, Pinner Road, Harrow, HA2 6ED",51.5866606,-0.3620631,pub,,,,,,£,,,1.2,1500,false
+13495583735,McCafferty's Bar,"25 Broadwalk, Pinner Road, Harrow, HA2 6ED",51.5869148,-0.3623107,pub,,,,,,£,,,1.2,1500,false
+13504981692,Sixes,,51.5214835,-0.1430944,pub,,,,,,£,,,1.2,1500,false
+13505172132,The Abbey Arms,"31 Wilton Road, London, SE2 9RH",51.4907062,0.1210794,pub,"Mo,Tu 15:00-23:00; We-Sa 12:00-23:00; Su 12:00-22:00",267,,1.8,13,£,,,1.2,1224,true
+13518978862,The Bush Tavern,,51.5029285,-0.2239108,pub,,267,,,,£,,,1.2,1700,false

@@ -1,0 +1,12 @@
+{
+  "merge": "every time there is a change in data (after any fetch)",
+  "merge_script": "jobs/run.js",
+  "merge_estimated_seconds": 15,
+  "sources": [
+    { "name": "OpenStreetMap (POIs)", "script": "pois_osm/fetch.js", "then": "pois_osm/normalize.js", "interval": "1 week", "estimated_seconds": 90, "then_estimated_seconds": 25 },
+    { "name": "Floor area (OSM)", "script": "floor_area/fetch.js", "interval": "1 week", "estimated_seconds": 60 },
+    { "name": "Employees (Companies House)", "script": "employees/fetch.js", "interval": "1 week", "estimated_seconds": 120 },
+    { "name": "Ratings & reviews (Beer In The Evening)", "script": "beerintheevening/fetch.js", "interval": "1 day", "estimated_seconds": 180 },
+    { "name": "Match days (Football Web Pages)", "script": "events/fetch.js", "interval": "2 weeks", "estimated_seconds": 45 }
+  ]
+}

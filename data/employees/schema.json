@@ -1,0 +1,4 @@
+{
+  "osm_id": "number",
+  "employees": "number | null"
+}

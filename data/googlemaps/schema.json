@@ -1,0 +1,7 @@
+{
+  "price_range": {
+    "source": "Google Places API (price_level)",
+    "output": "storage/price_range.json",
+    "shape": [{ "osm_id": "number", "price_range": "£ | ££ | £££" }]
+  }
+}

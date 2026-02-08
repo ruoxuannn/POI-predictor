@@ -33,3 +33,7 @@ out/
 # Data layer local storage (optional; ignore large DBs/dumps)
 # data/storage/db/
 # data/storage/cache/
+
+# Pipeline live-fetch state
+data/.pipeline-status.json
+data/.pipeline-stop

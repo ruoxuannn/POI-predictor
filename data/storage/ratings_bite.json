@@ -1,0 +1,2167 @@
+[
+  {
+    "osm_id": 1215861506,
+    "avg_rating": 3.65,
+    "rating_source_count": 56
+  },
+  {
+    "osm_id": 369119280,
+    "avg_rating": 2.7,
+    "rating_source_count": 9
+  },
+  {
+    "osm_id": 1707216586,
+    "avg_rating": 2.1,
+    "rating_source_count": 13
+  },
+  {
+    "osm_id": 796482320,
+    "avg_rating": 3.55,
+    "rating_source_count": 41
+  },
+  {
+    "osm_id": 316763478,
+    "avg_rating": 3.05,
+    "rating_source_count": 16
+  },
+  {
+    "osm_id": 5141625722,
+    "avg_rating": 3,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 306135577,
+    "avg_rating": 3.7,
+    "rating_source_count": 10
+  },
+  {
+    "osm_id": 89125621,
+    "avg_rating": 1.25,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 13505172132,
+    "avg_rating": 1.8,
+    "rating_source_count": 13
+  },
+  {
+    "osm_id": 596495525,
+    "avg_rating": 3.4,
+    "rating_source_count": 4
+  },
+  {
+    "osm_id": 288041082,
+    "avg_rating": 2.25,
+    "rating_source_count": 68
+  },
+  {
+    "osm_id": 1941233361,
+    "avg_rating": 2.75,
+    "rating_source_count": 10
+  },
+  {
+    "osm_id": 302172067,
+    "avg_rating": 2.25,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 288044068,
+    "avg_rating": 3.45,
+    "rating_source_count": 35
+  },
+  {
+    "osm_id": 302166735,
+    "avg_rating": 2.55,
+    "rating_source_count": 51
+  },
+  {
+    "osm_id": 288353870,
+    "avg_rating": 3.05,
+    "rating_source_count": 35
+  },
+  {
+    "osm_id": 288353972,
+    "avg_rating": 3.25,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 858431027,
+    "avg_rating": 3,
+    "rating_source_count": 22
+  },
+  {
+    "osm_id": 288045288,
+    "avg_rating": 3.25,
+    "rating_source_count": 43
+  },
+  {
+    "osm_id": 366073061,
+    "avg_rating": 3.25,
+    "rating_source_count": 4
+  },
+  {
+    "osm_id": 815398933,
+    "avg_rating": 3.6,
+    "rating_source_count": 106
+  },
+  {
+    "osm_id": 2217127366,
+    "avg_rating": 3,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 12197064449,
+    "avg_rating": 2.55,
+    "rating_source_count": 9
+  },
+  {
+    "osm_id": 251526423,
+    "avg_rating": 2.9,
+    "rating_source_count": 91
+  },
+  {
+    "osm_id": 283614125,
+    "avg_rating": 2.85,
+    "rating_source_count": 62
+  },
+  {
+    "osm_id": 292938407,
+    "avg_rating": 3.25,
+    "rating_source_count": 52
+  },
+  {
+    "osm_id": 291671992,
+    "avg_rating": 2.7,
+    "rating_source_count": 95
+  },
+  {
+    "osm_id": 289830212,
+    "avg_rating": 2.45,
+    "rating_source_count": 23
+  },
+  {
+    "osm_id": 295975604,
+    "avg_rating": 2.7,
+    "rating_source_count": 32
+  },
+  {
+    "osm_id": 289075156,
+    "avg_rating": 3.05,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 800705084,
+    "avg_rating": 2.15,
+    "rating_source_count": 118
+  },
+  {
+    "osm_id": 647873586,
+    "avg_rating": 2.25,
+    "rating_source_count": 31
+  },
+  {
+    "osm_id": 305415325,
+    "avg_rating": 3.3,
+    "rating_source_count": 25
+  },
+  {
+    "osm_id": 291981188,
+    "avg_rating": 3.5,
+    "rating_source_count": 37
+  },
+  {
+    "osm_id": 1112279179,
+    "avg_rating": 1.7,
+    "rating_source_count": 21
+  },
+  {
+    "osm_id": 344369989,
+    "avg_rating": 3.9,
+    "rating_source_count": 13
+  },
+  {
+    "osm_id": 1958568591,
+    "avg_rating": 3.25,
+    "rating_source_count": 12
+  },
+  {
+    "osm_id": 2287275689,
+    "avg_rating": 3.2,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 3340684903,
+    "avg_rating": 2.8,
+    "rating_source_count": 15
+  },
+  {
+    "osm_id": 4631588190,
+    "avg_rating": 3.35,
+    "rating_source_count": 11
+  },
+  {
+    "osm_id": 1112279162,
+    "avg_rating": 2.15,
+    "rating_source_count": 13
+  },
+  {
+    "osm_id": 679821063,
+    "avg_rating": 2.1,
+    "rating_source_count": 23
+  },
+  {
+    "osm_id": 441202439,
+    "avg_rating": 2.9,
+    "rating_source_count": 28
+  },
+  {
+    "osm_id": 3468565224,
+    "avg_rating": 2.35,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 3362469515,
+    "avg_rating": 2.65,
+    "rating_source_count": 11
+  },
+  {
+    "osm_id": 615621429,
+    "avg_rating": 3,
+    "rating_source_count": 32
+  },
+  {
+    "osm_id": 287612487,
+    "avg_rating": 2.25,
+    "rating_source_count": 19
+  },
+  {
+    "osm_id": 287612242,
+    "avg_rating": 1.95,
+    "rating_source_count": 57
+  },
+  {
+    "osm_id": 1275835684,
+    "avg_rating": 2.7,
+    "rating_source_count": 30
+  },
+  {
+    "osm_id": 5808945114,
+    "avg_rating": 2.45,
+    "rating_source_count": 58
+  },
+  {
+    "osm_id": 666209570,
+    "avg_rating": 1.55,
+    "rating_source_count": 7
+  },
+  {
+    "osm_id": 568198493,
+    "avg_rating": 3.35,
+    "rating_source_count": 66
+  },
+  {
+    "osm_id": 13235500301,
+    "avg_rating": 3.05,
+    "rating_source_count": 109
+  },
+  {
+    "osm_id": 8363665233,
+    "avg_rating": 2.4,
+    "rating_source_count": 26
+  },
+  {
+    "osm_id": 256404255,
+    "avg_rating": 1.35,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 288026530,
+    "avg_rating": 2.8,
+    "rating_source_count": 9
+  },
+  {
+    "osm_id": 1420042285,
+    "avg_rating": 3.55,
+    "rating_source_count": 49
+  },
+  {
+    "osm_id": 13327212416,
+    "avg_rating": 2.5,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 2831429756,
+    "avg_rating": 3,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 4558839822,
+    "avg_rating": 3.55,
+    "rating_source_count": 47
+  },
+  {
+    "osm_id": 302013654,
+    "avg_rating": 2.4,
+    "rating_source_count": 16
+  },
+  {
+    "osm_id": 116097730,
+    "avg_rating": 2.2,
+    "rating_source_count": 11
+  },
+  {
+    "osm_id": 12202023783,
+    "avg_rating": 2.85,
+    "rating_source_count": 55
+  },
+  {
+    "osm_id": 10280296806,
+    "avg_rating": 2.45,
+    "rating_source_count": 69
+  },
+  {
+    "osm_id": 12189261755,
+    "avg_rating": 3.05,
+    "rating_source_count": 75
+  },
+  {
+    "osm_id": 2316821043,
+    "avg_rating": 3.05,
+    "rating_source_count": 22
+  },
+  {
+    "osm_id": 7550093574,
+    "avg_rating": 3.1,
+    "rating_source_count": 19
+  },
+  {
+    "osm_id": 29039088,
+    "avg_rating": 3.35,
+    "rating_source_count": 82
+  },
+  {
+    "osm_id": 12814480101,
+    "avg_rating": 2.65,
+    "rating_source_count": 39
+  },
+  {
+    "osm_id": 2182219226,
+    "avg_rating": 2.1,
+    "rating_source_count": 28
+  },
+  {
+    "osm_id": 13386371751,
+    "avg_rating": 3,
+    "rating_source_count": 17
+  },
+  {
+    "osm_id": 274268703,
+    "avg_rating": 2.25,
+    "rating_source_count": 22
+  },
+  {
+    "osm_id": 291977904,
+    "avg_rating": 3.8,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 25729218,
+    "avg_rating": 2.65,
+    "rating_source_count": 28
+  },
+  {
+    "osm_id": 2846285826,
+    "avg_rating": 3.85,
+    "rating_source_count": 7
+  },
+  {
+    "osm_id": 1666149588,
+    "avg_rating": 3.65,
+    "rating_source_count": 27
+  },
+  {
+    "osm_id": 12572448581,
+    "avg_rating": 2.9,
+    "rating_source_count": 38
+  },
+  {
+    "osm_id": 12572448556,
+    "avg_rating": 3.35,
+    "rating_source_count": 49
+  },
+  {
+    "osm_id": 293390260,
+    "avg_rating": 2.9,
+    "rating_source_count": 44
+  },
+  {
+    "osm_id": 49314952,
+    "avg_rating": 3.3,
+    "rating_source_count": 41
+  },
+  {
+    "osm_id": 8830280452,
+    "avg_rating": 2.45,
+    "rating_source_count": 29
+  },
+  {
+    "osm_id": 3730997811,
+    "avg_rating": 3.65,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 293754855,
+    "avg_rating": 2.5,
+    "rating_source_count": 4
+  },
+  {
+    "osm_id": 6677415686,
+    "avg_rating": 3.2,
+    "rating_source_count": 7
+  },
+  {
+    "osm_id": 26610587,
+    "avg_rating": 2.6,
+    "rating_source_count": 76
+  },
+  {
+    "osm_id": 338463555,
+    "avg_rating": 2.65,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 313181168,
+    "avg_rating": 2.75,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 26610590,
+    "avg_rating": 2.9,
+    "rating_source_count": 70
+  },
+  {
+    "osm_id": 362582983,
+    "avg_rating": 2,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 573854610,
+    "avg_rating": 2.45,
+    "rating_source_count": 42
+  },
+  {
+    "osm_id": 5418886554,
+    "avg_rating": 3.75,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 282022744,
+    "avg_rating": 2,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 21593232,
+    "avg_rating": 3.25,
+    "rating_source_count": 80
+  },
+  {
+    "osm_id": 565470149,
+    "avg_rating": 3.2,
+    "rating_source_count": 52
+  },
+  {
+    "osm_id": 10266440578,
+    "avg_rating": 3.3,
+    "rating_source_count": 19
+  },
+  {
+    "osm_id": 1375162583,
+    "avg_rating": 1.8,
+    "rating_source_count": 12
+  },
+  {
+    "osm_id": 27512718,
+    "avg_rating": 2.95,
+    "rating_source_count": 14
+  },
+  {
+    "osm_id": 280835439,
+    "avg_rating": 3,
+    "rating_source_count": 36
+  },
+  {
+    "osm_id": 8308248176,
+    "avg_rating": 1.75,
+    "rating_source_count": 22
+  },
+  {
+    "osm_id": 3077522360,
+    "avg_rating": 2,
+    "rating_source_count": 4
+  },
+  {
+    "osm_id": 262702979,
+    "avg_rating": 3.25,
+    "rating_source_count": 15
+  },
+  {
+    "osm_id": 251811996,
+    "avg_rating": 1.85,
+    "rating_source_count": 50
+  },
+  {
+    "osm_id": 288598379,
+    "avg_rating": 3.35,
+    "rating_source_count": 11
+  },
+  {
+    "osm_id": 248933565,
+    "avg_rating": 2.7,
+    "rating_source_count": 32
+  },
+  {
+    "osm_id": 246112013,
+    "avg_rating": 2.7,
+    "rating_source_count": 40
+  },
+  {
+    "osm_id": 12679983901,
+    "avg_rating": 2.1,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 248921525,
+    "avg_rating": 2.7,
+    "rating_source_count": 45
+  },
+  {
+    "osm_id": 248932665,
+    "avg_rating": 3.1,
+    "rating_source_count": 33
+  },
+  {
+    "osm_id": 392625788,
+    "avg_rating": 1.45,
+    "rating_source_count": 35
+  },
+  {
+    "osm_id": 1314925438,
+    "avg_rating": 2.3,
+    "rating_source_count": 12
+  },
+  {
+    "osm_id": 248921520,
+    "avg_rating": 3.7,
+    "rating_source_count": 106
+  },
+  {
+    "osm_id": 248921522,
+    "avg_rating": 2.15,
+    "rating_source_count": 55
+  },
+  {
+    "osm_id": 9878756230,
+    "avg_rating": 2.65,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 1601053417,
+    "avg_rating": 1.5,
+    "rating_source_count": 20
+  },
+  {
+    "osm_id": 132960560,
+    "avg_rating": 2.9,
+    "rating_source_count": 53
+  },
+  {
+    "osm_id": 273509342,
+    "avg_rating": 2.7,
+    "rating_source_count": 48
+  },
+  {
+    "osm_id": 246115186,
+    "avg_rating": 3.1,
+    "rating_source_count": 23
+  },
+  {
+    "osm_id": 306966699,
+    "avg_rating": 3.65,
+    "rating_source_count": 12
+  },
+  {
+    "osm_id": 7590593053,
+    "avg_rating": 3.1,
+    "rating_source_count": 27
+  },
+  {
+    "osm_id": 7550117864,
+    "avg_rating": 3.1,
+    "rating_source_count": 37
+  },
+  {
+    "osm_id": 10924079510,
+    "avg_rating": 1.75,
+    "rating_source_count": 8
+  },
+  {
+    "osm_id": 1295894932,
+    "avg_rating": 2.55,
+    "rating_source_count": 26
+  },
+  {
+    "osm_id": 266680230,
+    "avg_rating": 2.75,
+    "rating_source_count": 25
+  },
+  {
+    "osm_id": 312156665,
+    "avg_rating": 2.45,
+    "rating_source_count": 43
+  },
+  {
+    "osm_id": 305760823,
+    "avg_rating": 2.7,
+    "rating_source_count": 51
+  },
+  {
+    "osm_id": 410949906,
+    "avg_rating": 2.3,
+    "rating_source_count": 7
+  },
+  {
+    "osm_id": 656954583,
+    "avg_rating": 3.1,
+    "rating_source_count": 9
+  },
+  {
+    "osm_id": 12633199507,
+    "avg_rating": 2.4,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 255012045,
+    "avg_rating": 2.95,
+    "rating_source_count": 34
+  },
+  {
+    "osm_id": 12633199509,
+    "avg_rating": 2.9,
+    "rating_source_count": 26
+  },
+  {
+    "osm_id": 370187947,
+    "avg_rating": 3.1,
+    "rating_source_count": 4
+  },
+  {
+    "osm_id": 26422089,
+    "avg_rating": 2.95,
+    "rating_source_count": 13
+  },
+  {
+    "osm_id": 12633147087,
+    "avg_rating": 2,
+    "rating_source_count": 44
+  },
+  {
+    "osm_id": 385018022,
+    "avg_rating": 2.85,
+    "rating_source_count": 22
+  },
+  {
+    "osm_id": 98170592,
+    "avg_rating": 2.8,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 12572476234,
+    "avg_rating": 2.75,
+    "rating_source_count": 25
+  },
+  {
+    "osm_id": 4821946845,
+    "avg_rating": 2.45,
+    "rating_source_count": 64
+  },
+  {
+    "osm_id": 12572448542,
+    "avg_rating": 2.1,
+    "rating_source_count": 36
+  },
+  {
+    "osm_id": 280606890,
+    "avg_rating": 3.4,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 12876881598,
+    "avg_rating": 3.7,
+    "rating_source_count": 16
+  },
+  {
+    "osm_id": 280606917,
+    "avg_rating": 3.7,
+    "rating_source_count": 46
+  },
+  {
+    "osm_id": 27476034,
+    "avg_rating": 3.3,
+    "rating_source_count": 54
+  },
+  {
+    "osm_id": 27408323,
+    "avg_rating": 2.05,
+    "rating_source_count": 27
+  },
+  {
+    "osm_id": 76660110,
+    "avg_rating": 3.1,
+    "rating_source_count": 37
+  },
+  {
+    "osm_id": 567052197,
+    "avg_rating": 2.9,
+    "rating_source_count": 36
+  },
+  {
+    "osm_id": 27477159,
+    "avg_rating": 3.5,
+    "rating_source_count": 49
+  },
+  {
+    "osm_id": 1117274890,
+    "avg_rating": 2.7,
+    "rating_source_count": 29
+  },
+  {
+    "osm_id": 923084994,
+    "avg_rating": 3.15,
+    "rating_source_count": 29
+  },
+  {
+    "osm_id": 293970330,
+    "avg_rating": 3.1,
+    "rating_source_count": 51
+  },
+  {
+    "osm_id": 8167917118,
+    "avg_rating": 2.75,
+    "rating_source_count": 14
+  },
+  {
+    "osm_id": 5782065244,
+    "avg_rating": 3.9,
+    "rating_source_count": 16
+  },
+  {
+    "osm_id": 1973954225,
+    "avg_rating": 3.15,
+    "rating_source_count": 22
+  },
+  {
+    "osm_id": 1737829080,
+    "avg_rating": 2.15,
+    "rating_source_count": 62
+  },
+  {
+    "osm_id": 993017354,
+    "avg_rating": 2.7,
+    "rating_source_count": 26
+  },
+  {
+    "osm_id": 333279289,
+    "avg_rating": 3.05,
+    "rating_source_count": 15
+  },
+  {
+    "osm_id": 2334811789,
+    "avg_rating": 3.4,
+    "rating_source_count": 13
+  },
+  {
+    "osm_id": 1139431615,
+    "avg_rating": 2.6,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 12997774504,
+    "avg_rating": 3.5,
+    "rating_source_count": 22
+  },
+  {
+    "osm_id": 4564380187,
+    "avg_rating": 2.85,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 412209049,
+    "avg_rating": 1.3,
+    "rating_source_count": 14
+  },
+  {
+    "osm_id": 1708956919,
+    "avg_rating": 1.15,
+    "rating_source_count": 27
+  },
+  {
+    "osm_id": 4463795243,
+    "avg_rating": 4.1,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 332118048,
+    "avg_rating": 3.25,
+    "rating_source_count": 109
+  },
+  {
+    "osm_id": 280145696,
+    "avg_rating": 2.7,
+    "rating_source_count": 51
+  },
+  {
+    "osm_id": 12890502853,
+    "avg_rating": 2.6,
+    "rating_source_count": 36
+  },
+  {
+    "osm_id": 475933772,
+    "avg_rating": 3.1,
+    "rating_source_count": 71
+  },
+  {
+    "osm_id": 4564625488,
+    "avg_rating": 3.65,
+    "rating_source_count": 22
+  },
+  {
+    "osm_id": 344791683,
+    "avg_rating": 2.25,
+    "rating_source_count": 4
+  },
+  {
+    "osm_id": 459250820,
+    "avg_rating": 4,
+    "rating_source_count": 8
+  },
+  {
+    "osm_id": 9805131739,
+    "avg_rating": 3.25,
+    "rating_source_count": 57
+  },
+  {
+    "osm_id": 26197017,
+    "avg_rating": 2.2,
+    "rating_source_count": 34
+  },
+  {
+    "osm_id": 271949863,
+    "avg_rating": 3.6,
+    "rating_source_count": 135
+  },
+  {
+    "osm_id": 257937397,
+    "avg_rating": 3,
+    "rating_source_count": 22
+  },
+  {
+    "osm_id": 6185626255,
+    "avg_rating": 2.85,
+    "rating_source_count": 20
+  },
+  {
+    "osm_id": 9117411107,
+    "avg_rating": 3.85,
+    "rating_source_count": 57
+  },
+  {
+    "osm_id": 150609647,
+    "avg_rating": 2.85,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 1933445586,
+    "avg_rating": 2.9,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 1375172418,
+    "avg_rating": 2.8,
+    "rating_source_count": 37
+  },
+  {
+    "osm_id": 364655175,
+    "avg_rating": 3.3,
+    "rating_source_count": 38
+  },
+  {
+    "osm_id": 1134441899,
+    "avg_rating": 2,
+    "rating_source_count": 85
+  },
+  {
+    "osm_id": 20973316,
+    "avg_rating": 2.6,
+    "rating_source_count": 10
+  },
+  {
+    "osm_id": 1149064292,
+    "avg_rating": 1.85,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 330128385,
+    "avg_rating": 1.6,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 312159181,
+    "avg_rating": 2.9,
+    "rating_source_count": 51
+  },
+  {
+    "osm_id": 10266440600,
+    "avg_rating": 2.9,
+    "rating_source_count": 16
+  },
+  {
+    "osm_id": 12961239334,
+    "avg_rating": 2.7,
+    "rating_source_count": 35
+  },
+  {
+    "osm_id": 12819770592,
+    "avg_rating": 2.7,
+    "rating_source_count": 8
+  },
+  {
+    "osm_id": 10266440595,
+    "avg_rating": 3.2,
+    "rating_source_count": 69
+  },
+  {
+    "osm_id": 10266440541,
+    "avg_rating": 2.95,
+    "rating_source_count": 46
+  },
+  {
+    "osm_id": 10105926112,
+    "avg_rating": 3.05,
+    "rating_source_count": 9
+  },
+  {
+    "osm_id": 12890502869,
+    "avg_rating": 2.7,
+    "rating_source_count": 25
+  },
+  {
+    "osm_id": 10266449760,
+    "avg_rating": 3.6,
+    "rating_source_count": 110
+  },
+  {
+    "osm_id": 2296112253,
+    "avg_rating": 3.6,
+    "rating_source_count": 10
+  },
+  {
+    "osm_id": 52755412,
+    "avg_rating": 3,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 596791860,
+    "avg_rating": 3.75,
+    "rating_source_count": 24
+  },
+  {
+    "osm_id": 3261904462,
+    "avg_rating": 2.35,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 242925249,
+    "avg_rating": 3.85,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 242938605,
+    "avg_rating": 3,
+    "rating_source_count": 27
+  },
+  {
+    "osm_id": 7581534029,
+    "avg_rating": 1.55,
+    "rating_source_count": 17
+  },
+  {
+    "osm_id": 2928247913,
+    "avg_rating": 3.3,
+    "rating_source_count": 14
+  },
+  {
+    "osm_id": 304421987,
+    "avg_rating": 1.25,
+    "rating_source_count": 4
+  },
+  {
+    "osm_id": 25717655,
+    "avg_rating": 2.6,
+    "rating_source_count": 25
+  },
+  {
+    "osm_id": 25717653,
+    "avg_rating": 2.95,
+    "rating_source_count": 49
+  },
+  {
+    "osm_id": 305415323,
+    "avg_rating": 3.35,
+    "rating_source_count": 16
+  },
+  {
+    "osm_id": 25496840,
+    "avg_rating": 3.55,
+    "rating_source_count": 82
+  },
+  {
+    "osm_id": 344084670,
+    "avg_rating": 3.45,
+    "rating_source_count": 12
+  },
+  {
+    "osm_id": 383932467,
+    "avg_rating": 2.75,
+    "rating_source_count": 42
+  },
+  {
+    "osm_id": 338504993,
+    "avg_rating": 2.05,
+    "rating_source_count": 9
+  },
+  {
+    "osm_id": 4284878229,
+    "avg_rating": 1.5,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 7549942987,
+    "avg_rating": 2,
+    "rating_source_count": 41
+  },
+  {
+    "osm_id": 21593236,
+    "avg_rating": 3.45,
+    "rating_source_count": 141
+  },
+  {
+    "osm_id": 489706578,
+    "avg_rating": 2.5,
+    "rating_source_count": 41
+  },
+  {
+    "osm_id": 403454627,
+    "avg_rating": 3.25,
+    "rating_source_count": 50
+  },
+  {
+    "osm_id": 30793153,
+    "avg_rating": 2.15,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 362359474,
+    "avg_rating": 2.2,
+    "rating_source_count": 12
+  },
+  {
+    "osm_id": 687158190,
+    "avg_rating": 3.35,
+    "rating_source_count": 58
+  },
+  {
+    "osm_id": 26992933,
+    "avg_rating": 3.25,
+    "rating_source_count": 25
+  },
+  {
+    "osm_id": 2847109210,
+    "avg_rating": 3.15,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 370092612,
+    "avg_rating": 2.75,
+    "rating_source_count": 20
+  },
+  {
+    "osm_id": 663887799,
+    "avg_rating": 2.05,
+    "rating_source_count": 14
+  },
+  {
+    "osm_id": 12007863407,
+    "avg_rating": 3.4,
+    "rating_source_count": 59
+  },
+  {
+    "osm_id": 3750381862,
+    "avg_rating": 3.1,
+    "rating_source_count": 38
+  },
+  {
+    "osm_id": 46714849,
+    "avg_rating": 3.7,
+    "rating_source_count": 33
+  },
+  {
+    "osm_id": 288170087,
+    "avg_rating": 3.1,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 367924639,
+    "avg_rating": 2.4,
+    "rating_source_count": 33
+  },
+  {
+    "osm_id": 2208150035,
+    "avg_rating": 3.15,
+    "rating_source_count": 25
+  },
+  {
+    "osm_id": 25597628,
+    "avg_rating": 3.1,
+    "rating_source_count": 60
+  },
+  {
+    "osm_id": 280525285,
+    "avg_rating": 3,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 491564007,
+    "avg_rating": 2.5,
+    "rating_source_count": 7
+  },
+  {
+    "osm_id": 299310964,
+    "avg_rating": 3.4,
+    "rating_source_count": 37
+  },
+  {
+    "osm_id": 331298014,
+    "avg_rating": 2.85,
+    "rating_source_count": 51
+  },
+  {
+    "osm_id": 375848733,
+    "avg_rating": 2.9,
+    "rating_source_count": 67
+  },
+  {
+    "osm_id": 618596228,
+    "avg_rating": 2.25,
+    "rating_source_count": 4
+  },
+  {
+    "osm_id": 25746185,
+    "avg_rating": 2.1,
+    "rating_source_count": 20
+  },
+  {
+    "osm_id": 10092511647,
+    "avg_rating": 2.65,
+    "rating_source_count": 14
+  },
+  {
+    "osm_id": 302410081,
+    "avg_rating": 4,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 2531024418,
+    "avg_rating": 2.7,
+    "rating_source_count": 48
+  },
+  {
+    "osm_id": 264041224,
+    "avg_rating": 2.65,
+    "rating_source_count": 63
+  },
+  {
+    "osm_id": 601521583,
+    "avg_rating": 2.55,
+    "rating_source_count": 7
+  },
+  {
+    "osm_id": 475257316,
+    "avg_rating": 3.3,
+    "rating_source_count": 36
+  },
+  {
+    "osm_id": 316955930,
+    "avg_rating": 3.25,
+    "rating_source_count": 4
+  },
+  {
+    "osm_id": 2561724243,
+    "avg_rating": 2,
+    "rating_source_count": 9
+  },
+  {
+    "osm_id": 192399976,
+    "avg_rating": 3.4,
+    "rating_source_count": 124
+  },
+  {
+    "osm_id": 881370103,
+    "avg_rating": 3,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 248453431,
+    "avg_rating": 2.55,
+    "rating_source_count": 28
+  },
+  {
+    "osm_id": 1387549550,
+    "avg_rating": 1.75,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 425175495,
+    "avg_rating": 3.5,
+    "rating_source_count": 100
+  },
+  {
+    "osm_id": 2476984665,
+    "avg_rating": 2.5,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 298347049,
+    "avg_rating": 3.3,
+    "rating_source_count": 68
+  },
+  {
+    "osm_id": 6284663193,
+    "avg_rating": 3.3,
+    "rating_source_count": 21
+  },
+  {
+    "osm_id": 13409071887,
+    "avg_rating": 2.3,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 12997749797,
+    "avg_rating": 2.4,
+    "rating_source_count": 20
+  },
+  {
+    "osm_id": 268430691,
+    "avg_rating": 3.15,
+    "rating_source_count": 17
+  },
+  {
+    "osm_id": 12997756180,
+    "avg_rating": 3.05,
+    "rating_source_count": 51
+  },
+  {
+    "osm_id": 12997775906,
+    "avg_rating": 2.95,
+    "rating_source_count": 10
+  },
+  {
+    "osm_id": 692162535,
+    "avg_rating": 3.45,
+    "rating_source_count": 76
+  },
+  {
+    "osm_id": 5522217684,
+    "avg_rating": 2.2,
+    "rating_source_count": 19
+  },
+  {
+    "osm_id": 449213965,
+    "avg_rating": 1.55,
+    "rating_source_count": 10
+  },
+  {
+    "osm_id": 449207412,
+    "avg_rating": 2.8,
+    "rating_source_count": 21
+  },
+  {
+    "osm_id": 9607793865,
+    "avg_rating": 2.05,
+    "rating_source_count": 22
+  },
+  {
+    "osm_id": 12532965637,
+    "avg_rating": 3.15,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 684522391,
+    "avg_rating": 3.4,
+    "rating_source_count": 20
+  },
+  {
+    "osm_id": 2310523851,
+    "avg_rating": 3,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 2341125350,
+    "avg_rating": 2.9,
+    "rating_source_count": 26
+  },
+  {
+    "osm_id": 3576622823,
+    "avg_rating": 2.6,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 291754220,
+    "avg_rating": 2.3,
+    "rating_source_count": 11
+  },
+  {
+    "osm_id": 366073245,
+    "avg_rating": 2.4,
+    "rating_source_count": 140
+  },
+  {
+    "osm_id": 611889351,
+    "avg_rating": 2.15,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 3154333461,
+    "avg_rating": 1.65,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 311481378,
+    "avg_rating": 2.8,
+    "rating_source_count": 12
+  },
+  {
+    "osm_id": 12431593816,
+    "avg_rating": 2.3,
+    "rating_source_count": 14
+  },
+  {
+    "osm_id": 1144626359,
+    "avg_rating": 2.85,
+    "rating_source_count": 29
+  },
+  {
+    "osm_id": 6351723681,
+    "avg_rating": 2.25,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 10582361575,
+    "avg_rating": 3,
+    "rating_source_count": 40
+  },
+  {
+    "osm_id": 298220963,
+    "avg_rating": 3.6,
+    "rating_source_count": 72
+  },
+  {
+    "osm_id": 27017235,
+    "avg_rating": 2.9,
+    "rating_source_count": 51
+  },
+  {
+    "osm_id": 298220599,
+    "avg_rating": 3.1,
+    "rating_source_count": 46
+  },
+  {
+    "osm_id": 462025244,
+    "avg_rating": 3.7,
+    "rating_source_count": 31
+  },
+  {
+    "osm_id": 5202722021,
+    "avg_rating": 3.4,
+    "rating_source_count": 12
+  },
+  {
+    "osm_id": 259774404,
+    "avg_rating": 3.25,
+    "rating_source_count": 45
+  },
+  {
+    "osm_id": 4926469145,
+    "avg_rating": 2.85,
+    "rating_source_count": 63
+  },
+  {
+    "osm_id": 160548974,
+    "avg_rating": 2.1,
+    "rating_source_count": 40
+  },
+  {
+    "osm_id": 535099403,
+    "avg_rating": 2.2,
+    "rating_source_count": 16
+  },
+  {
+    "osm_id": 259253467,
+    "avg_rating": 3.4,
+    "rating_source_count": 48
+  },
+  {
+    "osm_id": 739967562,
+    "avg_rating": 2.8,
+    "rating_source_count": 48
+  },
+  {
+    "osm_id": 6802993456,
+    "avg_rating": 3,
+    "rating_source_count": 21
+  },
+  {
+    "osm_id": 802966782,
+    "avg_rating": 3.45,
+    "rating_source_count": 11
+  },
+  {
+    "osm_id": 6019922913,
+    "avg_rating": 2.75,
+    "rating_source_count": 8
+  },
+  {
+    "osm_id": 812151434,
+    "avg_rating": 3,
+    "rating_source_count": 4
+  },
+  {
+    "osm_id": 444540131,
+    "avg_rating": 3.55,
+    "rating_source_count": 63
+  },
+  {
+    "osm_id": 550437192,
+    "avg_rating": 1.9,
+    "rating_source_count": 25
+  },
+  {
+    "osm_id": 280593932,
+    "avg_rating": 3,
+    "rating_source_count": 93
+  },
+  {
+    "osm_id": 12876936674,
+    "avg_rating": 2.6,
+    "rating_source_count": 4
+  },
+  {
+    "osm_id": 12532959125,
+    "avg_rating": 3.4,
+    "rating_source_count": 28
+  },
+  {
+    "osm_id": 280592972,
+    "avg_rating": 2.6,
+    "rating_source_count": 38
+  },
+  {
+    "osm_id": 1600324548,
+    "avg_rating": 2.6,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 451271,
+    "avg_rating": 2.45,
+    "rating_source_count": 42
+  },
+  {
+    "osm_id": 10213894381,
+    "avg_rating": 3.8,
+    "rating_source_count": 14
+  },
+  {
+    "osm_id": 273404382,
+    "avg_rating": 3.5,
+    "rating_source_count": 14
+  },
+  {
+    "osm_id": 8707334318,
+    "avg_rating": 3.5,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 8737259738,
+    "avg_rating": 3.35,
+    "rating_source_count": 32
+  },
+  {
+    "osm_id": 2437697969,
+    "avg_rating": 3.1,
+    "rating_source_count": 13
+  },
+  {
+    "osm_id": 8324913615,
+    "avg_rating": 2.95,
+    "rating_source_count": 10
+  },
+  {
+    "osm_id": 248444184,
+    "avg_rating": 2.2,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 301516360,
+    "avg_rating": 2.95,
+    "rating_source_count": 17
+  },
+  {
+    "osm_id": 1687799181,
+    "avg_rating": 2.2,
+    "rating_source_count": 9
+  },
+  {
+    "osm_id": 375792331,
+    "avg_rating": 2.45,
+    "rating_source_count": 41
+  },
+  {
+    "osm_id": 2492718707,
+    "avg_rating": 3.2,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 672835711,
+    "avg_rating": 2.55,
+    "rating_source_count": 31
+  },
+  {
+    "osm_id": 275452092,
+    "avg_rating": 2.6,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 303189871,
+    "avg_rating": 2,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 3735026264,
+    "avg_rating": 3.25,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 415580971,
+    "avg_rating": 3.5,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 2144360157,
+    "avg_rating": 2.5,
+    "rating_source_count": 61
+  },
+  {
+    "osm_id": 25523569,
+    "avg_rating": 2.8,
+    "rating_source_count": 12
+  },
+  {
+    "osm_id": 11926973569,
+    "avg_rating": 3.2,
+    "rating_source_count": 105
+  },
+  {
+    "osm_id": 271387709,
+    "avg_rating": 3.5,
+    "rating_source_count": 83
+  },
+  {
+    "osm_id": 296506670,
+    "avg_rating": 3.75,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 1998691296,
+    "avg_rating": 3.5,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 2684055013,
+    "avg_rating": 2.35,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 1199974660,
+    "avg_rating": 3.15,
+    "rating_source_count": 14
+  },
+  {
+    "osm_id": 5513818707,
+    "avg_rating": 2.75,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 273533110,
+    "avg_rating": 3.25,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 851223228,
+    "avg_rating": 1.75,
+    "rating_source_count": 13
+  },
+  {
+    "osm_id": 402386714,
+    "avg_rating": 2.6,
+    "rating_source_count": 12
+  },
+  {
+    "osm_id": 8620475154,
+    "avg_rating": 1.9,
+    "rating_source_count": 15
+  },
+  {
+    "osm_id": 425362689,
+    "avg_rating": 3.1,
+    "rating_source_count": 20
+  },
+  {
+    "osm_id": 10245706076,
+    "avg_rating": 2.6,
+    "rating_source_count": 39
+  },
+  {
+    "osm_id": 339719862,
+    "avg_rating": 3.2,
+    "rating_source_count": 17
+  },
+  {
+    "osm_id": 6119354792,
+    "avg_rating": 2.5,
+    "rating_source_count": 52
+  },
+  {
+    "osm_id": 383980821,
+    "avg_rating": 2.6,
+    "rating_source_count": 36
+  },
+  {
+    "osm_id": 7858027226,
+    "avg_rating": 3.55,
+    "rating_source_count": 13
+  },
+  {
+    "osm_id": 1110092576,
+    "avg_rating": 3.15,
+    "rating_source_count": 21
+  },
+  {
+    "osm_id": 316076964,
+    "avg_rating": 2.6,
+    "rating_source_count": 42
+  },
+  {
+    "osm_id": 8757588717,
+    "avg_rating": 3.75,
+    "rating_source_count": 15
+  },
+  {
+    "osm_id": 663887781,
+    "avg_rating": 2.75,
+    "rating_source_count": 15
+  },
+  {
+    "osm_id": 269235458,
+    "avg_rating": 2.4,
+    "rating_source_count": 29
+  },
+  {
+    "osm_id": 39741897,
+    "avg_rating": 3.6,
+    "rating_source_count": 122
+  },
+  {
+    "osm_id": 1975218592,
+    "avg_rating": 1.8,
+    "rating_source_count": 16
+  },
+  {
+    "osm_id": 330128416,
+    "avg_rating": 3.05,
+    "rating_source_count": 16
+  },
+  {
+    "osm_id": 733975796,
+    "avg_rating": 2.2,
+    "rating_source_count": 9
+  },
+  {
+    "osm_id": 534962782,
+    "avg_rating": 3.4,
+    "rating_source_count": 71
+  },
+  {
+    "osm_id": 587850226,
+    "avg_rating": 2.5,
+    "rating_source_count": 4
+  },
+  {
+    "osm_id": 1828784790,
+    "avg_rating": 2.5,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 5396322682,
+    "avg_rating": 3.25,
+    "rating_source_count": 54
+  },
+  {
+    "osm_id": 675808547,
+    "avg_rating": 3.25,
+    "rating_source_count": 28
+  },
+  {
+    "osm_id": 675942580,
+    "avg_rating": 2.95,
+    "rating_source_count": 12
+  },
+  {
+    "osm_id": 298347050,
+    "avg_rating": 2.45,
+    "rating_source_count": 28
+  },
+  {
+    "osm_id": 430432974,
+    "avg_rating": 2.65,
+    "rating_source_count": 24
+  },
+  {
+    "osm_id": 400899977,
+    "avg_rating": 3.25,
+    "rating_source_count": 71
+  },
+  {
+    "osm_id": 261348576,
+    "avg_rating": 3.85,
+    "rating_source_count": 11
+  },
+  {
+    "osm_id": 9316184134,
+    "avg_rating": 3.5,
+    "rating_source_count": 9
+  },
+  {
+    "osm_id": 7061825385,
+    "avg_rating": 3.45,
+    "rating_source_count": 32
+  },
+  {
+    "osm_id": 262443436,
+    "avg_rating": 3.45,
+    "rating_source_count": 38
+  },
+  {
+    "osm_id": 459269359,
+    "avg_rating": 3,
+    "rating_source_count": 60
+  },
+  {
+    "osm_id": 262637210,
+    "avg_rating": 3.1,
+    "rating_source_count": 30
+  },
+  {
+    "osm_id": 658958423,
+    "avg_rating": 3.6,
+    "rating_source_count": 19
+  },
+  {
+    "osm_id": 4607932812,
+    "avg_rating": 2.7,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 269253652,
+    "avg_rating": 2.55,
+    "rating_source_count": 26
+  },
+  {
+    "osm_id": 11383287251,
+    "avg_rating": 2.4,
+    "rating_source_count": 21
+  },
+  {
+    "osm_id": 194249790,
+    "avg_rating": 2.8,
+    "rating_source_count": 8
+  },
+  {
+    "osm_id": 1657901115,
+    "avg_rating": 3.9,
+    "rating_source_count": 25
+  },
+  {
+    "osm_id": 1314591894,
+    "avg_rating": 3.65,
+    "rating_source_count": 24
+  },
+  {
+    "osm_id": 11383287247,
+    "avg_rating": 2.15,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 12979925719,
+    "avg_rating": 3.7,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 1314592576,
+    "avg_rating": 3.1,
+    "rating_source_count": 19
+  },
+  {
+    "osm_id": 2447618917,
+    "avg_rating": 2.75,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 479652529,
+    "avg_rating": 2.7,
+    "rating_source_count": 7
+  },
+  {
+    "osm_id": 659512226,
+    "avg_rating": 2.55,
+    "rating_source_count": 8
+  },
+  {
+    "osm_id": 1296827396,
+    "avg_rating": 3.2,
+    "rating_source_count": 47
+  },
+  {
+    "osm_id": 2261568916,
+    "avg_rating": 2.65,
+    "rating_source_count": 52
+  },
+  {
+    "osm_id": 520913454,
+    "avg_rating": 3.25,
+    "rating_source_count": 13
+  },
+  {
+    "osm_id": 10263469468,
+    "avg_rating": 2.05,
+    "rating_source_count": 8
+  },
+  {
+    "osm_id": 529116490,
+    "avg_rating": 1.75,
+    "rating_source_count": 14
+  },
+  {
+    "osm_id": 3497250394,
+    "avg_rating": 2.8,
+    "rating_source_count": 9
+  },
+  {
+    "osm_id": 1598393379,
+    "avg_rating": 2.65,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 496843507,
+    "avg_rating": 2.9,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 49319602,
+    "avg_rating": 2.45,
+    "rating_source_count": 45
+  },
+  {
+    "osm_id": 460668847,
+    "avg_rating": 3.45,
+    "rating_source_count": 8
+  },
+  {
+    "osm_id": 269859953,
+    "avg_rating": 3.25,
+    "rating_source_count": 50
+  },
+  {
+    "osm_id": 294162222,
+    "avg_rating": 2.75,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 25475187,
+    "avg_rating": 2.65,
+    "rating_source_count": 46
+  },
+  {
+    "osm_id": 1561417481,
+    "avg_rating": 3.3,
+    "rating_source_count": 54
+  },
+  {
+    "osm_id": 25744507,
+    "avg_rating": 3.1,
+    "rating_source_count": 13
+  },
+  {
+    "osm_id": 313234121,
+    "avg_rating": 2.85,
+    "rating_source_count": 29
+  },
+  {
+    "osm_id": 261310647,
+    "avg_rating": 0.9,
+    "rating_source_count": 4
+  },
+  {
+    "osm_id": 108035448,
+    "avg_rating": 2.25,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 2153030788,
+    "avg_rating": 2.35,
+    "rating_source_count": 3
+  },
+  {
+    "osm_id": 295905009,
+    "avg_rating": 2.85,
+    "rating_source_count": 52
+  },
+  {
+    "osm_id": 169440015,
+    "avg_rating": 3.65,
+    "rating_source_count": 95
+  },
+  {
+    "osm_id": 148782410,
+    "avg_rating": 3.3,
+    "rating_source_count": 7
+  },
+  {
+    "osm_id": 3223507051,
+    "avg_rating": 3.05,
+    "rating_source_count": 19
+  },
+  {
+    "osm_id": 385560795,
+    "avg_rating": 2.3,
+    "rating_source_count": 67
+  },
+  {
+    "osm_id": 249672865,
+    "avg_rating": 2.1,
+    "rating_source_count": 12
+  },
+  {
+    "osm_id": 26603929,
+    "avg_rating": 3,
+    "rating_source_count": 51
+  },
+  {
+    "osm_id": 169140546,
+    "avg_rating": 2.65,
+    "rating_source_count": 75
+  },
+  {
+    "osm_id": 249310455,
+    "avg_rating": 2.5,
+    "rating_source_count": 10
+  },
+  {
+    "osm_id": 9762808911,
+    "avg_rating": 2.7,
+    "rating_source_count": 32
+  },
+  {
+    "osm_id": 13116885908,
+    "avg_rating": 2.9,
+    "rating_source_count": 48
+  },
+  {
+    "osm_id": 25510381,
+    "avg_rating": 3.25,
+    "rating_source_count": 45
+  },
+  {
+    "osm_id": 266324793,
+    "avg_rating": 3.15,
+    "rating_source_count": 184
+  },
+  {
+    "osm_id": 306659436,
+    "avg_rating": 3.3,
+    "rating_source_count": 68
+  },
+  {
+    "osm_id": 348782665,
+    "avg_rating": 3.4,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 4067222289,
+    "avg_rating": 2.75,
+    "rating_source_count": 6
+  },
+  {
+    "osm_id": 287749130,
+    "avg_rating": 2.85,
+    "rating_source_count": 87
+  },
+  {
+    "osm_id": 306666717,
+    "avg_rating": 3.4,
+    "rating_source_count": 61
+  },
+  {
+    "osm_id": 9349335666,
+    "avg_rating": 1.9,
+    "rating_source_count": 5
+  },
+  {
+    "osm_id": 249786782,
+    "avg_rating": 4.05,
+    "rating_source_count": 32
+  },
+  {
+    "osm_id": 249793689,
+    "avg_rating": 3.05,
+    "rating_source_count": 39
+  },
+  {
+    "osm_id": 7179078032,
+    "avg_rating": 3.4,
+    "rating_source_count": 19
+  },
+  {
+    "osm_id": 331362139,
+    "avg_rating": 3.4,
+    "rating_source_count": 8
+  },
+  {
+    "osm_id": 630503145,
+    "avg_rating": 3.15,
+    "rating_source_count": 10
+  },
+  {
+    "osm_id": 4117016441,
+    "avg_rating": 4.25,
+    "rating_source_count": 2
+  },
+  {
+    "osm_id": 9205363977,
+    "avg_rating": 3.05,
+    "rating_source_count": 48
+  },
+  {
+    "osm_id": 429257204,
+    "avg_rating": 2.3,
+    "rating_source_count": 7
+  },
+  {
+    "osm_id": 273456489,
+    "avg_rating": 2.05,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 287553265,
+    "avg_rating": 3,
+    "rating_source_count": 8
+  },
+  {
+    "osm_id": 169384510,
+    "avg_rating": 2.85,
+    "rating_source_count": 57
+  },
+  {
+    "osm_id": 302011571,
+    "avg_rating": 3.2,
+    "rating_source_count": 9
+  },
+  {
+    "osm_id": 267432002,
+    "avg_rating": 3.45,
+    "rating_source_count": 94
+  },
+  {
+    "osm_id": 10251784717,
+    "avg_rating": 2,
+    "rating_source_count": 12
+  },
+  {
+    "osm_id": 296620391,
+    "avg_rating": 3.3,
+    "rating_source_count": 11
+  },
+  {
+    "osm_id": 277909036,
+    "avg_rating": 3,
+    "rating_source_count": 22
+  },
+  {
+    "osm_id": 3010570949,
+    "avg_rating": 3.2,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 12529152052,
+    "avg_rating": 3.05,
+    "rating_source_count": 41
+  },
+  {
+    "osm_id": 48928595,
+    "avg_rating": 3.3,
+    "rating_source_count": 18
+  },
+  {
+    "osm_id": 246518042,
+    "avg_rating": 3.05,
+    "rating_source_count": 26
+  },
+  {
+    "osm_id": 394943631,
+    "avg_rating": 2.2,
+    "rating_source_count": 44
+  },
+  {
+    "osm_id": 1316301006,
+    "avg_rating": 2.95,
+    "rating_source_count": 27
+  },
+  {
+    "osm_id": 958790121,
+    "avg_rating": 2.05,
+    "rating_source_count": 8
+  },
+  {
+    "osm_id": 4515363508,
+    "avg_rating": 3.2,
+    "rating_source_count": 14
+  },
+  {
+    "osm_id": 290869247,
+    "avg_rating": 1.9,
+    "rating_source_count": 8
+  },
+  {
+    "osm_id": 90272342,
+    "avg_rating": 1.85,
+    "rating_source_count": 11
+  }
+]

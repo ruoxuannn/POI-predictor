@@ -14,13 +14,24 @@ DeFi system that ingests open-source geospatial and social data, computes a dete
 ├── .env.example              # Placeholder env; each subfolder has its own
 ├── .gitignore
 │
-├── data/                     # Person A — Data & Geospatial
+├── data/                     # Person A — Data & Geospatial (London pubs demo)
 │   ├── README.md
 │   ├── .env.example
-│   ├── ingestion/            # OSM, Mapbox, Reddit, event APIs
-│   ├── activity-index/       # Deterministic activity index computation
-│   ├── storage/              # Local persistence
-│   └── jobs/                 # Cron / scheduled pipeline runs
+│   ├── schemas/              # Shared schemas, pub_merged example, demo_overrides, FDC fields
+│   ├── pois_osm/             # Primary POIs (OSM)
+│   ├── category/             # Category expansion (TripAdvisor, BeerInTheEvening)
+│   ├── ratings/              # Avg rating (BeerInTheEvening, TripAdvisor)
+│   ├── price_range/          # £–£££
+│   ├── floor_area/           # OSM / Mapbox
+│   ├── opening_hours/        # OSM + TripAdvisor
+│   ├── employees/            # Companies House
+│   ├── revenue_proxy/        # Derived (employees + activity + price)
+│   ├── social_mentions/      # Reddit
+│   ├── events/               # Football, Wimbledon (event_multiplier)
+│   ├── activity-index/       # Deterministic activity index
+│   ├── storage/              # JSON, CSV, optional SQLite
+│   ├── jobs/                 # Run ingestion + merge
+│   └── ingestion/            # Legacy; see per-type folders for London pubs
 │
 ├── contracts/                # Person B — Flare & Smart Contracts
 │   ├── README.md

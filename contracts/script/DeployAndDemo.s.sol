@@ -2,6 +2,7 @@
 pragma solidity ^0.8.20;
 
 import "forge-std/Script.sol";
+import "forge-std/console2.sol";
 import "../src/MockUSD.sol";
 import "../src/Pool.sol";
 import "../src/PubRegistry.sol";
@@ -26,6 +27,7 @@ contract DeployAndDemo is Script {
             address(registry),
             address(oracle)
         );
+        pool.setEngine(address(engine));
 
         // Demo constants
         bytes32 pubId = keccak256(abi.encodePacked("pub_0123"));
@@ -41,8 +43,11 @@ contract DeployAndDemo is Script {
         // Fund the pool with stable too (so stable payouts always work)
         pool.depositStableInvestor(200e18);
 
-        // Fund the pool with FLR so it can pay FLR payouts (increase for safety)
-        (bool ok,) = address(pool).call{value: 5 ether}("");
+        // Allocate stable to this pub's capital pool so recordPayoutFromPubPool can deduct when we pay out
+        pool.depositStableInvestorForPub(pubId, 100e18);
+
+        // Fund the pool with FLR so it can pay FLR payouts (use 0.5 ether so deploy succeeds on small faucet balance)
+        (bool ok,) = address(pool).call{value: 0.5 ether}("");
         require(ok, "fund pool FLR failed");
 
         // -------------------------
@@ -71,5 +76,13 @@ contract DeployAndDemo is Script {
         engine.settleWithQuote(pubId, dateKey2, premiumUsd2, payoutUsd2);
 
         vm.stopBroadcast();
+
+        console2.log("--- Copy these to frontend/.env.local ---");
+        console2.log("NEXT_PUBLIC_POOL_ADDRESS=%s", address(pool));
+        console2.log("NEXT_PUBLIC_REGISTRY_ADDRESS=%s", address(registry));
+        console2.log("NEXT_PUBLIC_ENGINE_ADDRESS=%s", address(engine));
+        console2.log("NEXT_PUBLIC_STABLE_ADDRESS=%s", address(mock));
+        console2.log("NEXT_PUBLIC_ORACLE_ADDRESS=%s", address(oracle));
+        console2.log("--- end ---");
     }
 }
