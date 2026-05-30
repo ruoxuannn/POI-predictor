@@ -81,9 +81,12 @@ Data Sources (OSM, ratings, events, floor area)
 ---
 
 ## Repo Structure
+
+```
 ├── data/          # Data pipeline & geospatial processing
 ├── contracts/     # Flare smart contracts (Foundry)
 └── frontend/      # Next.js + wagmi (Flare Coston2)
+```
 
 See each folder's README for setup details.
 
